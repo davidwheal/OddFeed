@@ -10,3 +10,6 @@ D:\Development\OddFeed\Dev\1.0\Source\Daw.Console.TestFuzzyCompare\bin\Debug\Fuz
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Console.TestFuzzyCompare\bin\Debug\Daw.Common.ShareLibrary.pdb
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Console.TestFuzzyCompare\obj\Debug\Daw.Console.TestFuzzyCompare.exe
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Console.TestFuzzyCompare\obj\Debug\Daw.Console.TestFuzzyCompare.pdb
+D:\Development\OddFeed\Source\Daw.Console.TestFuzzyCompare\bin\Debug\Daw.Console.TestFuzzyCompare.exe.config
+D:\Development\OddFeed\Source\Daw.Console.TestFuzzyCompare\obj\Debug\Daw.Console.TestFuzzyCompare.exe
+D:\Development\OddFeed\Source\Daw.Console.TestFuzzyCompare\obj\Debug\Daw.Console.TestFuzzyCompare.pdb
