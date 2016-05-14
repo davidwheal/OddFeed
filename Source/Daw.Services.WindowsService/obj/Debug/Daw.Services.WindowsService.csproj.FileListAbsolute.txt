@@ -1,0 +1,16 @@
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe.config
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.pdb
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csprojResolveAssemblyReference.cache
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.ProjectInstaller.resources
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csproj.GenerateResource.Cache
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.exe
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.pdb
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe.config
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.exe
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.pdb
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.pdb
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.ProjectInstaller.resources
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.Xsl.dll
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.Xsl.pdb
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\obj\Debug\Daw.Common.Xsl.dll
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\obj\Debug\Daw.Common.Xsl.pdb
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.CoreData.dll
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.CoreData.pdb
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\obj\Debug\Daw.Common.Xsl.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.Xsl.dll
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.Xsl.pdb
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.CoreData.dll
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\bin\Debug\Daw.Common.CoreData.pdb
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\obj\Debug\Daw.Common.Xsl.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\obj\Debug\Daw.Common.Xsl.dll
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Xsl\obj\Debug\Daw.Common.Xsl.pdb

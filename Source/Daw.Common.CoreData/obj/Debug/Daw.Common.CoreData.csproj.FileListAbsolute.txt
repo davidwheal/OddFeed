@@ -1,0 +1,10 @@
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.CoreData.dll
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.CoreData.pdb
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.dll
+F:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.pdb
+f:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.CoreData.dll
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.CoreData.pdb
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.dll
+D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.pdb

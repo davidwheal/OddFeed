@@ -1,0 +1,10 @@
+F:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\bin\Debug\DAW.Merger.Test.dll
+F:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\bin\Debug\DAW.Merger.Test.pdb
+F:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.csprojResolveAssemblyReference.cache
+F:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.dll
+F:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.pdb
+D:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\bin\Debug\DAW.Merger.Test.dll
+D:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\bin\Debug\DAW.Merger.Test.pdb
+D:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.dll
+D:\Development\OddFeed\Dev\1.0\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.pdb
