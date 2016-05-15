@@ -8,7 +8,6 @@ namespace Daw.Common.Mapper.Entities
 {
     public class MarketMap : AEntity
     {
-        public string MappedName { get; set; }
-        public string AssociatedParent { get; set; }
+      
     }
 }

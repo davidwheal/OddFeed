@@ -8,6 +8,5 @@ namespace Daw.Common.Mapper.Entities
 {
     public class SelectionMap : AEntity
     {
-        public string MappedName { get; set; }
     }
 }

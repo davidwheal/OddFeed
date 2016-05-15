@@ -1,9 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Dynamic;
+using System.Threading.Tasks;
 using Daw.Common.Mapper.Entities;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization;
 using MongoDB.Driver;
+using MongoDB.Driver.Core;
+
 
 namespace Daw.Common.Mapper.Persistence
 {
@@ -23,20 +26,16 @@ namespace Daw.Common.Mapper.Persistence
             DatabaseName = databaseName;
             CollectionName = collectionName;
             TheCollection = MongoDatabaseConnection.MyClient.GetDatabase(databaseName).GetCollection<T>(collectionName);
-            // Index on the unmapped name
-            TheCollection.Indexes.CreateOne(Builders<T>.IndexKeys.Ascending(x => x.Name));
         }
 
-        public void Insert(T obj)
+        public async Task InsertAsync(T obj)
         {
-            TheCollection.InsertOne(obj,new InsertOneOptions());
+            await TheCollection.InsertOneAsync(obj,new InsertOneOptions());
         }
 
-        public List<T> Find(string name)
+        public async Task<List<T>> FindAsync()
         {
-            var builder = new FilterDefinitionBuilder<T>();
-            var filter = builder.Eq(x=>x.Name, name);
-            return TheCollection.FindSync(filter).ToList();
+            return await TheCollection.Find(Builders<T>.Filter.Empty).ToListAsync();
         }
     }
 }
