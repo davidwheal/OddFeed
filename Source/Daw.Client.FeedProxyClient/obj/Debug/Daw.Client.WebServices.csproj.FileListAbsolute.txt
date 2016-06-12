@@ -1,0 +1,5 @@
+D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Client.WebServices.dll
+D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Client.WebServices.pdb
+D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\obj\Debug\Daw.Client.WebServices.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\obj\Debug\Daw.Client.WebServices.dll
+D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\obj\Debug\Daw.Client.WebServices.pdb

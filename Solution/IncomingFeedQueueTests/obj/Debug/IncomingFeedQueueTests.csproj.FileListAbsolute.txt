@@ -1,0 +1,7 @@
+D:\Development\OddFeed\Solution\IncomingFeedQueueTests\bin\Debug\IncomingFeedQueueTests.dll
+D:\Development\OddFeed\Solution\IncomingFeedQueueTests\bin\Debug\IncomingFeedQueueTests.pdb
+D:\Development\OddFeed\Solution\IncomingFeedQueueTests\bin\Debug\IncomingFeedQueue.dll
+D:\Development\OddFeed\Solution\IncomingFeedQueueTests\bin\Debug\IncomingFeedQueue.pdb
+D:\Development\OddFeed\Solution\IncomingFeedQueueTests\obj\Debug\IncomingFeedQueueTests.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Solution\IncomingFeedQueueTests\obj\Debug\IncomingFeedQueueTests.dll
+D:\Development\OddFeed\Solution\IncomingFeedQueueTests\obj\Debug\IncomingFeedQueueTests.pdb
