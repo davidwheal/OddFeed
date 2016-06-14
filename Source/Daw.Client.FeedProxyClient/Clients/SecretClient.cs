@@ -18,5 +18,10 @@ namespace Daw.Client.WebServices.Clients
             return myChannelFactory.CreateChannel();
 
         }
+
+        public void Close(IWhiteListedUrlService service)
+        {
+            service = null;
+        }
     }
 }

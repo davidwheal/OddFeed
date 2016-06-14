@@ -8,8 +8,8 @@
 </auto-generated>
 -->
 <xs:schema xmlns:tns="urn:Daw.Services.WindowsService" elementFormDefault="qualified" targetNamespace="urn:Daw.Services.WindowsService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<xs:element name="schedulerSection" type="tns:Daw.Services.WindowsService.SchedulerSectionCT" />
-	<xs:complexType name="Daw.Services.WindowsService.SchedulerSectionCT">
+	<xs:element name="schedulerConfigSection" type="tns:Daw.Services.WindowsService.SchedulerConfigSectionCT" />
+	<xs:complexType name="Daw.Services.WindowsService.SchedulerConfigSectionCT">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
 			<xs:element minOccurs="0" name="schedules" type="tns:Daw.Services.WindowsService.SchedulesCT">
 				<xs:annotation>
@@ -20,9 +20,9 @@
 	</xs:complexType>
 	<xs:complexType name="Daw.Services.WindowsService.SchedulesCT">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
-			<xs:element minOccurs="0" maxOccurs="unbounded" name="scheduleItem" type="tns:Daw.Services.WindowsService.ScheduleItemCT">
+			<xs:element minOccurs="0" maxOccurs="unbounded" name="scheduleConfigItem" type="tns:Daw.Services.WindowsService.ScheduleConfigItemCT">
 				<xs:annotation>
-					<xs:documentation>The ScheduleItem Configuration Element.</xs:documentation>
+					<xs:documentation>The ScheduleConfigItem Configuration Element.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
 		</xs:choice>
@@ -32,7 +32,7 @@
 			</xs:annotation>
 		</xs:attribute>
 	</xs:complexType>
-	<xs:complexType name="Daw.Services.WindowsService.ScheduleItemCT">
+	<xs:complexType name="Daw.Services.WindowsService.ScheduleConfigItemCT">
 		<xs:attribute name="name" use="required" type="xs:string">
 			<xs:annotation>
 				<xs:documentation>The name.</xs:documentation>
@@ -56,6 +56,11 @@
 		<xs:attribute name="sport" use="optional" type="xs:string">
 			<xs:annotation>
 				<xs:documentation>The sport.</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="type" use="optional" type="xs:string">
+			<xs:annotation>
+				<xs:documentation>The type.</xs:documentation>
 			</xs:annotation>
 		</xs:attribute>
 	</xs:complexType>

@@ -11,7 +11,7 @@
     <externalType name="TimeSpan" namespace="System" />
   </typeDefinitions>
   <configurationElements>
-    <configurationSection name="SchedulerSection" codeGenOptions="Singleton, XmlnsProperty" xmlSectionName="schedulerSection">
+    <configurationSection name="SchedulerConfigSection" codeGenOptions="Singleton, XmlnsProperty" xmlSectionName="schedulerConfigSection">
       <elementProperties>
         <elementProperty name="Schedules" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="schedules" isReadOnly="false">
           <type>
@@ -20,7 +20,7 @@
         </elementProperty>
       </elementProperties>
     </configurationSection>
-    <configurationElementCollection name="Schedules" xmlItemName="scheduleItem" codeGenOptions="Indexer, AddMethod, RemoveMethod, GetItemMethods">
+    <configurationElementCollection name="Schedules" xmlItemName="scheduleConfigItem" codeGenOptions="Indexer, AddMethod, RemoveMethod, GetItemMethods">
       <attributeProperties>
         <attributeProperty name="name" isRequired="true" isKey="true" isDefaultCollection="false" xmlName="name" isReadOnly="false">
           <type>
@@ -29,10 +29,10 @@
         </attributeProperty>
       </attributeProperties>
       <itemType>
-        <configurationElementMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/ScheduleItem" />
+        <configurationElementMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/ScheduleConfigItem" />
       </itemType>
     </configurationElementCollection>
-    <configurationElement name="ScheduleItem">
+    <configurationElement name="ScheduleConfigItem">
       <attributeProperties>
         <attributeProperty name="name" isRequired="true" isKey="true" isDefaultCollection="false" xmlName="name" isReadOnly="false">
           <type>
@@ -55,6 +55,11 @@
           </type>
         </attributeProperty>
         <attributeProperty name="sport" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="sport" isReadOnly="false">
+          <type>
+            <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
+          </type>
+        </attributeProperty>
+        <attributeProperty name="type" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="type" isReadOnly="false">
           <type>
             <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
           </type>
