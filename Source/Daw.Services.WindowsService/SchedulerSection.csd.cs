@@ -175,7 +175,7 @@ namespace Daw.Services.WindowsService
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         protected override object GetElementKey(global::System.Configuration.ConfigurationElement element)
         {
-            return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(element)).name;
+            return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(element)).index;
         }
         
         /// <summary>
@@ -208,13 +208,13 @@ namespace Daw.Services.WindowsService
         /// <summary>
         /// Gets the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> with the specified key.
         /// </summary>
-        /// <param name="name">The key of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
+        /// <param name="index">The key of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public global::Daw.Services.WindowsService.ScheduleConfigItem this[object name]
+        public global::Daw.Services.WindowsService.ScheduleConfigItem this[object index]
         {
             get
             {
-                return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(name)));
+                return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(index)));
             }
         }
         #endregion
@@ -257,11 +257,11 @@ namespace Daw.Services.WindowsService
         /// <summary>
         /// Gets the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> with the specified key.
         /// </summary>
-        /// <param name="name">The key of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
+        /// <param name="index">The key of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public global::Daw.Services.WindowsService.ScheduleConfigItem GetItemByKey(string name)
+        public global::Daw.Services.WindowsService.ScheduleConfigItem GetItemByKey(int index)
         {
-            return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(((object)(name)))));
+            return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(((object)(index)))));
         }
         #endregion
         
@@ -336,7 +336,7 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The name.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.namePropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.namePropertyName, IsRequired=true, IsKey=false, IsDefaultCollection=false)]
         public virtual string name
         {
             get
@@ -476,6 +476,58 @@ namespace Daw.Services.WindowsService
             set
             {
                 base[global::Daw.Services.WindowsService.ScheduleConfigItem.typePropertyName] = value;
+            }
+        }
+        #endregion
+        
+        #region enabled Property
+        /// <summary>
+        /// The XML name of the <see cref="enabled"/> property.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        internal const string enabledPropertyName = "enabled";
+        
+        /// <summary>
+        /// Gets or sets the enabled.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.ComponentModel.DescriptionAttribute("The enabled.")]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.enabledPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        public virtual bool enabled
+        {
+            get
+            {
+                return ((bool)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.enabledPropertyName]));
+            }
+            set
+            {
+                base[global::Daw.Services.WindowsService.ScheduleConfigItem.enabledPropertyName] = value;
+            }
+        }
+        #endregion
+        
+        #region index Property
+        /// <summary>
+        /// The XML name of the <see cref="index"/> property.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        internal const string indexPropertyName = "index";
+        
+        /// <summary>
+        /// Gets or sets the index.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.ComponentModel.DescriptionAttribute("The index.")]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.indexPropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
+        public virtual int index
+        {
+            get
+            {
+                return ((int)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.indexPropertyName]));
+            }
+            set
+            {
+                base[global::Daw.Services.WindowsService.ScheduleConfigItem.indexPropertyName] = value;
             }
         }
         #endregion

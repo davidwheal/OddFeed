@@ -63,5 +63,15 @@
 				<xs:documentation>The type.</xs:documentation>
 			</xs:annotation>
 		</xs:attribute>
+		<xs:attribute name="enabled" use="optional" type="xs:boolean">
+			<xs:annotation>
+				<xs:documentation>The enabled.</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="index" use="required" type="xs:int">
+			<xs:annotation>
+				<xs:documentation>The index.</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
 	</xs:complexType>
 </xs:schema>

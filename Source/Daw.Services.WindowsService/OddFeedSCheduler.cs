@@ -8,12 +8,14 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
+using log4net;
 using Timer = System.Threading.Timer;
 
 namespace Daw.Services.WindowsService
 {
     public partial class OddFeedScheduler : ServiceBase
     {
+        public static ILog Logger = null;
         private System.Timers.Timer _timer1 = null;
 
 
@@ -41,8 +43,12 @@ namespace Daw.Services.WindowsService
 
         public void Process()
         {
+
+
+            log4net.Config.XmlConfigurator.Configure();
+            Logger = log4net.LogManager.GetLogger(this.GetType());
             ServiceHelper.ScheduleEvents();
-            
+
         }
 
     }

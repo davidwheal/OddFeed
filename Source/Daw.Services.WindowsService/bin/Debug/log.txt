@@ -1,0 +1,1 @@
+2016-06-18 17:20:49,242 [17] FATAL  Daw.Services.WindowsService.OddFeedScheduler - LoadXmlFromUrl http://xml.paddypower.com/platinum/racing.xml failed for The remote server returned an error: (401) Unauthorized. 

@@ -26,3 +26,5 @@ D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.pdb
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\IncomingFeedQueue.dll
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\IncomingFeedQueue.pdb
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\log4net.dll
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\log4net.xml

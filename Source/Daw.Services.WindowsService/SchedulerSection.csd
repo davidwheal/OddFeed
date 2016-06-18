@@ -34,7 +34,7 @@
     </configurationElementCollection>
     <configurationElement name="ScheduleConfigItem">
       <attributeProperties>
-        <attributeProperty name="name" isRequired="true" isKey="true" isDefaultCollection="false" xmlName="name" isReadOnly="false">
+        <attributeProperty name="name" isRequired="true" isKey="false" isDefaultCollection="false" xmlName="name" isReadOnly="false">
           <type>
             <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
           </type>
@@ -62,6 +62,16 @@
         <attributeProperty name="type" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="type" isReadOnly="false">
           <type>
             <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
+          </type>
+        </attributeProperty>
+        <attributeProperty name="enabled" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="enabled" isReadOnly="false">
+          <type>
+            <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/Boolean" />
+          </type>
+        </attributeProperty>
+        <attributeProperty name="index" isRequired="true" isKey="true" isDefaultCollection="false" xmlName="index" isReadOnly="false">
+          <type>
+            <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/Int32" />
           </type>
         </attributeProperty>
       </attributeProperties>
