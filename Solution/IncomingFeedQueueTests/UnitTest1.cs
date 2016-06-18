@@ -10,10 +10,10 @@ namespace IncomingFeedQueueTests
         [TestMethod]
         public void TestAddingToQueue()
         {
-            QueueItem q1 = new QueueItem("s1", new DateTime(2016, 1, 1, 0, 0, 1), (object)1);
-            QueueItem q2 = new QueueItem("s1", new DateTime(2016, 1, 1, 0, 0, 2), (object)2);
-            QueueItem q3 = new QueueItem("s1", new DateTime(2016, 1, 1, 0, 0, 3), (object)3);
-            MemoryFeedQueue xx = new MemoryFeedQueue();
+            QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
+            QueueItem<int> q2 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 2), 2);
+            QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
+            MemoryFeedQueue<int> xx = new MemoryFeedQueue<int>();
             xx.AddFeedData(q1);
             xx.AddFeedData(q2);
             xx.AddFeedData(q3);
@@ -24,10 +24,10 @@ namespace IncomingFeedQueueTests
         [TestMethod]
         public void TestAddingToQueue1()
         {
-            QueueItem q1 = new QueueItem("s1", new DateTime(2016, 1, 1, 0, 0, 1), (object)1);
-            QueueItem q2 = new QueueItem("s2", new DateTime(2016, 1, 1, 0, 0, 2), (object)2);
-            QueueItem q3 = new QueueItem("s1", new DateTime(2016, 1, 1, 0, 0, 3), (object)3);
-            MemoryFeedQueue xx = new MemoryFeedQueue();
+            QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
+            QueueItem<int> q2 = new QueueItem<int>("s2", new DateTime(2016, 1, 1, 0, 0, 2), 2);
+            QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
+            MemoryFeedQueue<int> xx = new MemoryFeedQueue<int>();
             xx.AddFeedData(q1);
             xx.AddFeedData(q2);
             xx.AddFeedData(q3);
@@ -39,10 +39,10 @@ namespace IncomingFeedQueueTests
         [TestMethod]
         public void TestGettingFromQueue()
         {
-            QueueItem q1 = new QueueItem("s1", new DateTime(2016, 1, 1, 0, 0, 1), (object)1);
-            QueueItem q2 = new QueueItem("s2", new DateTime(2016, 1, 1, 0, 0, 2), (object)2);
-            QueueItem q3 = new QueueItem("s1", new DateTime(2016, 1, 1, 0, 0, 3), (object)3);
-            MemoryFeedQueue xx = new MemoryFeedQueue();
+            QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
+            QueueItem<int> q2 = new QueueItem<int>("s2", new DateTime(2016, 1, 1, 0, 0, 2), 2);
+            QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
+            MemoryFeedQueue<int> xx = new MemoryFeedQueue<int>();
             xx.AddFeedData(q1);
             xx.AddFeedData(q2);
             xx.AddFeedData(q3);

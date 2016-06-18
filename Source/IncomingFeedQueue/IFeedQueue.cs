@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace IncomingFeedQueue
 {
-    public interface IFeedQueue
+    public interface IFeedQueue<T>
     {
         // Add data from a feed to the queue
-        void AddFeedData(QueueItem item);
+        void AddFeedData(QueueItem<T> item);
         // Get the most recent feed data, throwing any old stuff away
-        QueueItem GetMostRecentFeedData();
+        QueueItem<T> GetMostRecentFeedData();
         int Count();
     }
 }

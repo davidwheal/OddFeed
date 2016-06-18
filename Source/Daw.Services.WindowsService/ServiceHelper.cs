@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 using Daw.Client.WebServices.Clients;
+using IncomingFeedQueue;
 
 namespace Daw.Services.WindowsService
 {
@@ -18,11 +19,12 @@ namespace Daw.Services.WindowsService
 
     public static class ServiceHelper
     {
+        public static MemoryFeedQueue<XmlDocument> Queue = new MemoryFeedQueue<XmlDocument>();
         public static Dictionary<int, ScheduleEvent> Events = new Dictionary<int, ScheduleEvent>();
 
         public static void ScheduleEvents()
         {
-            SecretClient sc = new SecretClient();
+            var sc = new SecretClient();
             var client = sc.Open();
             var scConfig = SchedulerConfigSection.Instance.Schedules;
             // Load up the tasks
@@ -45,7 +47,9 @@ namespace Daw.Services.WindowsService
                     if (runningEvent.Return.IsCompleted)
                     {
                         XmlDocument x = runningEvent.Return.Result;
-                        if (DateTime.Now>runningEvent.NextRun)
+                        var item = new QueueItem<XmlDocument>(it.bookie, DateTime.Now, x);
+                        Queue.AddFeedData(item);
+                        if (DateTime.Now > runningEvent.NextRun)
                         {
                             var task = Task<XmlDocument>.Run(() => client.LoadXmlFromUrl(it.url));
                             runningEvent.Return = task;

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace IncomingFeedQueue
 {
-    public class MemoryFeedQueue : IFeedQueue
+    public class MemoryFeedQueue<T> : IFeedQueue<T>
     {
         private static object lockFlag = new object();
 
 
-        Queue<object> MyQueue = new Queue<object>();
+        readonly Queue _myQueue = new Queue();
 
         #region IFeedQueue Members
 
@@ -19,7 +20,7 @@ namespace IncomingFeedQueue
         /// Remove older sources when adding a new one
         /// </summary>
         /// <param name="item"></param>
-        public void AddFeedData(QueueItem item)
+        public void AddFeedData(QueueItem<T> item)
         {
             lock (lockFlag)
             {
@@ -27,25 +28,25 @@ namespace IncomingFeedQueue
                 while (removedOne)
                 {
                     removedOne = false;
-                    foreach (QueueItem d in MyQueue)
+                    foreach (QueueItem<T> d in _myQueue)
                     {
                         if (d.Source == item.Source)
                         {
-                            MyQueue.Dequeue();
+                            _myQueue.Dequeue();
                             removedOne = true;
                             break;
                         }
                     }
                 }
-                MyQueue.Enqueue(item);
+                _myQueue.Enqueue(item);
             }
         }
 
-        public QueueItem GetMostRecentFeedData()
+        public QueueItem<T> GetMostRecentFeedData()
         {
             lock (lockFlag)
             {
-                return (QueueItem)MyQueue.Dequeue(); 
+                return (QueueItem<T>)_myQueue.Dequeue(); 
             
             }
 
@@ -58,7 +59,7 @@ namespace IncomingFeedQueue
 
         public int Count()
         {
-            return MyQueue.Count;
+            return _myQueue.Count;
         }
 
         #endregion

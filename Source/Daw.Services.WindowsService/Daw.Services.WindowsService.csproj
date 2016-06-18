@@ -101,6 +101,10 @@
       <Project>{4aca934b-b182-4fc4-bb25-b14da52ea262}</Project>
       <Name>Daw.Client.WebServices</Name>
     </ProjectReference>
+    <ProjectReference Include="..\IncomingFeedQueue\IncomingFeedQueue.csproj">
+      <Project>{269c43e8-bec8-4429-99ab-7aeb522a2cbc}</Project>
+      <Name>IncomingFeedQueue</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

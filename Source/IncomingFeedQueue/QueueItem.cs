@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace IncomingFeedQueue
 {
-    public class QueueItem
+    public class QueueItem<T>
     {
         public string Source { get; set; }
-        public object Data { get; set; }
+        public T Data { get; set; }
         public DateTime Time { get; set; }
 
-        public QueueItem(string source, DateTime time, object data)
+        public QueueItem(string source, DateTime time, T data)
         {
             Source = source;
             Time = time;
