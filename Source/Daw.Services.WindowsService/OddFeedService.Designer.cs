@@ -1,6 +1,6 @@
 ﻿namespace Daw.Services.WindowsService
 {
-    partial class OddFeedScheduler
+    partial class OddFeedService
     {
         /// <summary> 
         /// Required designer variable.

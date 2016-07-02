@@ -57,10 +57,6 @@
       <Project>{34fc6db4-a4cc-4739-974d-8a722e664957}</Project>
       <Name>Daw.Common.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Daw.Common.Xsl\Daw.Common.Xsl.csproj">
-      <Project>{40a19523-7d36-44fe-b746-d8fcf028165a}</Project>
-      <Name>Daw.Common.Xsl</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Transforms\Coral.xslt">

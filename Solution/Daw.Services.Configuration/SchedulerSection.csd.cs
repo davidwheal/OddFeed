@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Daw.Services.WindowsService
+namespace Daw.Common.Configuration
 {
     
     
@@ -35,11 +35,11 @@ namespace Daw.Services.WindowsService
         /// Gets the SchedulerConfigSection instance.
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public static global::Daw.Services.WindowsService.SchedulerConfigSection Instance
+        public static global::Daw.Common.Configuration.SchedulerConfigSection Instance
         {
             get
             {
-                return ((global::Daw.Services.WindowsService.SchedulerConfigSection)(global::System.Configuration.ConfigurationManager.GetSection(global::Daw.Services.WindowsService.SchedulerConfigSection.SchedulerConfigSectionSectionPath)));
+                return ((global::Daw.Common.Configuration.SchedulerConfigSection)(global::System.Configuration.ConfigurationManager.GetSection(global::Daw.Common.Configuration.SchedulerConfigSection.SchedulerConfigSectionSectionPath)));
             }
         }
         #endregion
@@ -59,12 +59,12 @@ namespace Daw.Services.WindowsService
         /// the parser doesn't throw an exception because it encounters the unknown "xmlns" attribute.
         /// </remarks>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.SchedulerConfigSection.XmlnsPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.SchedulerConfigSection.XmlnsPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public string Xmlns
         {
             get
             {
-                return ((string)(base[global::Daw.Services.WindowsService.SchedulerConfigSection.XmlnsPropertyName]));
+                return ((string)(base[global::Daw.Common.Configuration.SchedulerConfigSection.XmlnsPropertyName]));
             }
         }
         #endregion
@@ -92,35 +92,35 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The Schedules.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.SchedulerConfigSection.SchedulesPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
-        public virtual global::Daw.Services.WindowsService.Schedules Schedules
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.SchedulerConfigSection.SchedulesPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        public virtual global::Daw.Common.Configuration.Schedules Schedules
         {
             get
             {
-                return ((global::Daw.Services.WindowsService.Schedules)(base[global::Daw.Services.WindowsService.SchedulerConfigSection.SchedulesPropertyName]));
+                return ((global::Daw.Common.Configuration.Schedules)(base[global::Daw.Common.Configuration.SchedulerConfigSection.SchedulesPropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.SchedulerConfigSection.SchedulesPropertyName] = value;
+                base[global::Daw.Common.Configuration.SchedulerConfigSection.SchedulesPropertyName] = value;
             }
         }
         #endregion
     }
 }
-namespace Daw.Services.WindowsService
+namespace Daw.Common.Configuration
 {
     
     
     /// <summary>
     /// A collection of ScheduleConfigItem instances.
     /// </summary>
-    [global::System.Configuration.ConfigurationCollectionAttribute(typeof(global::Daw.Services.WindowsService.ScheduleConfigItem), CollectionType=global::System.Configuration.ConfigurationElementCollectionType.BasicMapAlternate, AddItemName=global::Daw.Services.WindowsService.Schedules.ScheduleConfigItemPropertyName)]
+    [global::System.Configuration.ConfigurationCollectionAttribute(typeof(global::Daw.Common.Configuration.ScheduleConfigItem), CollectionType=global::System.Configuration.ConfigurationElementCollectionType.BasicMapAlternate, AddItemName=global::Daw.Common.Configuration.Schedules.ScheduleConfigItemPropertyName)]
     public partial class Schedules : global::System.Configuration.ConfigurationElementCollection
     {
         
         #region Constants
         /// <summary>
-        /// The XML name of the individual <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> instances in this collection.
+        /// The XML name of the individual <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> instances in this collection.
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         internal const string ScheduleConfigItemPropertyName = "scheduleConfigItem";
@@ -148,7 +148,7 @@ namespace Daw.Services.WindowsService
         {
             get
             {
-                return global::Daw.Services.WindowsService.Schedules.ScheduleConfigItemPropertyName;
+                return global::Daw.Common.Configuration.Schedules.ScheduleConfigItemPropertyName;
             }
         }
         
@@ -162,7 +162,7 @@ namespace Daw.Services.WindowsService
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         protected override bool IsElementName(string elementName)
         {
-            return (elementName == global::Daw.Services.WindowsService.Schedules.ScheduleConfigItemPropertyName);
+            return (elementName == global::Daw.Common.Configuration.Schedules.ScheduleConfigItemPropertyName);
         }
         
         /// <summary>
@@ -175,57 +175,57 @@ namespace Daw.Services.WindowsService
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         protected override object GetElementKey(global::System.Configuration.ConfigurationElement element)
         {
-            return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(element)).index;
+            return ((global::Daw.Common.Configuration.ScheduleConfigItem)(element)).index;
         }
         
         /// <summary>
-        /// Creates a new <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/>.
+        /// Creates a new <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/>.
         /// </summary>
         /// <returns>
-        /// A new <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/>.
+        /// A new <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/>.
         /// </returns>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         protected override global::System.Configuration.ConfigurationElement CreateNewElement()
         {
-            return new global::Daw.Services.WindowsService.ScheduleConfigItem();
+            return new global::Daw.Common.Configuration.ScheduleConfigItem();
         }
         #endregion
         
         #region Indexer
         /// <summary>
-        /// Gets the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> at the specified index.
+        /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> at the specified index.
         /// </summary>
-        /// <param name="index">The index of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
+        /// <param name="index">The index of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public global::Daw.Services.WindowsService.ScheduleConfigItem this[int index]
+        public global::Daw.Common.Configuration.ScheduleConfigItem this[int index]
         {
             get
             {
-                return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(index)));
+                return ((global::Daw.Common.Configuration.ScheduleConfigItem)(base.BaseGet(index)));
             }
         }
         
         /// <summary>
-        /// Gets the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> with the specified key.
+        /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> with the specified key.
         /// </summary>
-        /// <param name="index">The key of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
+        /// <param name="index">The key of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public global::Daw.Services.WindowsService.ScheduleConfigItem this[object index]
+        public global::Daw.Common.Configuration.ScheduleConfigItem this[object index]
         {
             get
             {
-                return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(index)));
+                return ((global::Daw.Common.Configuration.ScheduleConfigItem)(base.BaseGet(index)));
             }
         }
         #endregion
         
         #region Add
         /// <summary>
-        /// Adds the specified <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to the <see cref="global::System.Configuration.ConfigurationElementCollection"/>.
+        /// Adds the specified <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to the <see cref="global::System.Configuration.ConfigurationElementCollection"/>.
         /// </summary>
-        /// <param name="scheduleConfigItem">The <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to add.</param>
+        /// <param name="scheduleConfigItem">The <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to add.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public void Add(global::Daw.Services.WindowsService.ScheduleConfigItem scheduleConfigItem)
+        public void Add(global::Daw.Common.Configuration.ScheduleConfigItem scheduleConfigItem)
         {
             base.BaseAdd(scheduleConfigItem);
         }
@@ -233,11 +233,11 @@ namespace Daw.Services.WindowsService
         
         #region Remove
         /// <summary>
-        /// Removes the specified <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> from the <see cref="global::System.Configuration.ConfigurationElementCollection"/>.
+        /// Removes the specified <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> from the <see cref="global::System.Configuration.ConfigurationElementCollection"/>.
         /// </summary>
-        /// <param name="scheduleConfigItem">The <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to remove.</param>
+        /// <param name="scheduleConfigItem">The <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to remove.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public void Remove(global::Daw.Services.WindowsService.ScheduleConfigItem scheduleConfigItem)
+        public void Remove(global::Daw.Common.Configuration.ScheduleConfigItem scheduleConfigItem)
         {
             base.BaseRemove(this.GetElementKey(scheduleConfigItem));
         }
@@ -245,23 +245,23 @@ namespace Daw.Services.WindowsService
         
         #region GetItem
         /// <summary>
-        /// Gets the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> at the specified index.
+        /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> at the specified index.
         /// </summary>
-        /// <param name="index">The index of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
+        /// <param name="index">The index of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public global::Daw.Services.WindowsService.ScheduleConfigItem GetItemAt(int index)
+        public global::Daw.Common.Configuration.ScheduleConfigItem GetItemAt(int index)
         {
-            return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(index)));
+            return ((global::Daw.Common.Configuration.ScheduleConfigItem)(base.BaseGet(index)));
         }
         
         /// <summary>
-        /// Gets the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> with the specified key.
+        /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> with the specified key.
         /// </summary>
-        /// <param name="index">The key of the <see cref="global::Daw.Services.WindowsService.ScheduleConfigItem"/> to retrieve.</param>
+        /// <param name="index">The key of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
-        public global::Daw.Services.WindowsService.ScheduleConfigItem GetItemByKey(int index)
+        public global::Daw.Common.Configuration.ScheduleConfigItem GetItemByKey(int index)
         {
-            return ((global::Daw.Services.WindowsService.ScheduleConfigItem)(base.BaseGet(((object)(index)))));
+            return ((global::Daw.Common.Configuration.ScheduleConfigItem)(base.BaseGet(((object)(index)))));
         }
         #endregion
         
@@ -288,22 +288,22 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The name.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.Schedules.namePropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.Schedules.namePropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
         public virtual string name
         {
             get
             {
-                return ((string)(base[global::Daw.Services.WindowsService.Schedules.namePropertyName]));
+                return ((string)(base[global::Daw.Common.Configuration.Schedules.namePropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.Schedules.namePropertyName] = value;
+                base[global::Daw.Common.Configuration.Schedules.namePropertyName] = value;
             }
         }
         #endregion
     }
 }
-namespace Daw.Services.WindowsService
+namespace Daw.Common.Configuration
 {
     
     
@@ -336,16 +336,16 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The name.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.namePropertyName, IsRequired=true, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.namePropertyName, IsRequired=true, IsKey=false, IsDefaultCollection=false)]
         public virtual string name
         {
             get
             {
-                return ((string)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.namePropertyName]));
+                return ((string)(base[global::Daw.Common.Configuration.ScheduleConfigItem.namePropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.namePropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.namePropertyName] = value;
             }
         }
         #endregion
@@ -362,16 +362,16 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The url.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.urlPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.urlPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string url
         {
             get
             {
-                return ((string)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.urlPropertyName]));
+                return ((string)(base[global::Daw.Common.Configuration.ScheduleConfigItem.urlPropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.urlPropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.urlPropertyName] = value;
             }
         }
         #endregion
@@ -388,16 +388,16 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The intervalsecs.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.intervalsecsPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.intervalsecsPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual int intervalsecs
         {
             get
             {
-                return ((int)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.intervalsecsPropertyName]));
+                return ((int)(base[global::Daw.Common.Configuration.ScheduleConfigItem.intervalsecsPropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.intervalsecsPropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.intervalsecsPropertyName] = value;
             }
         }
         #endregion
@@ -414,16 +414,16 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The bookie.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.bookiePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.bookiePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string bookie
         {
             get
             {
-                return ((string)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.bookiePropertyName]));
+                return ((string)(base[global::Daw.Common.Configuration.ScheduleConfigItem.bookiePropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.bookiePropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.bookiePropertyName] = value;
             }
         }
         #endregion
@@ -440,16 +440,16 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The sport.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.sportPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.sportPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string sport
         {
             get
             {
-                return ((string)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.sportPropertyName]));
+                return ((string)(base[global::Daw.Common.Configuration.ScheduleConfigItem.sportPropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.sportPropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.sportPropertyName] = value;
             }
         }
         #endregion
@@ -466,16 +466,16 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The type.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.typePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.typePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string type
         {
             get
             {
-                return ((string)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.typePropertyName]));
+                return ((string)(base[global::Daw.Common.Configuration.ScheduleConfigItem.typePropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.typePropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.typePropertyName] = value;
             }
         }
         #endregion
@@ -492,16 +492,16 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The enabled.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.enabledPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.enabledPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual bool enabled
         {
             get
             {
-                return ((bool)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.enabledPropertyName]));
+                return ((bool)(base[global::Daw.Common.Configuration.ScheduleConfigItem.enabledPropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.enabledPropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.enabledPropertyName] = value;
             }
         }
         #endregion
@@ -518,16 +518,42 @@ namespace Daw.Services.WindowsService
         /// </summary>
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
         [global::System.ComponentModel.DescriptionAttribute("The index.")]
-        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Services.WindowsService.ScheduleConfigItem.indexPropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.indexPropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
         public virtual int index
         {
             get
             {
-                return ((int)(base[global::Daw.Services.WindowsService.ScheduleConfigItem.indexPropertyName]));
+                return ((int)(base[global::Daw.Common.Configuration.ScheduleConfigItem.indexPropertyName]));
             }
             set
             {
-                base[global::Daw.Services.WindowsService.ScheduleConfigItem.indexPropertyName] = value;
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.indexPropertyName] = value;
+            }
+        }
+        #endregion
+        
+        #region transform Property
+        /// <summary>
+        /// The XML name of the <see cref="transform"/> property.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        internal const string transformPropertyName = "transform";
+        
+        /// <summary>
+        /// Gets or sets the transform.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.ComponentModel.DescriptionAttribute("The transform.")]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.transformPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        public virtual string transform
+        {
+            get
+            {
+                return ((string)(base[global::Daw.Common.Configuration.ScheduleConfigItem.transformPropertyName]));
+            }
+            set
+            {
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.transformPropertyName] = value;
             }
         }
         #endregion

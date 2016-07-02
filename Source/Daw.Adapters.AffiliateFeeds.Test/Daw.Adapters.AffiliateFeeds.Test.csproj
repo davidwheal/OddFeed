@@ -58,10 +58,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DAW.Adapters.AffiliateFeeds\DAW.Adapters.AffiliateFeeds.csproj">
-      <Project>{eb273b04-0d52-42c5-9cb1-56a5f56bf0ea}</Project>
-      <Name>DAW.Adapters.AffiliateFeeds</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Daw.Common.Entities\Daw.Common.Entities\Daw.Common.Entities.csproj">
       <Project>{34fc6db4-a4cc-4739-974d-8a722e664957}</Project>
       <Name>Daw.Common.Entities</Name>

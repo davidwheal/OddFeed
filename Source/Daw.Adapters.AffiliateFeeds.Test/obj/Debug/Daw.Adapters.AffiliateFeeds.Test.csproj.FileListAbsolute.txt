@@ -33,3 +33,6 @@ D:\Development\OddFeed\Dev\1.0\Source\Daw.Adapters.AffiliateFeeds.Test\obj\Debug
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Adapters.AffiliateFeeds.Test\bin\Debug\Daw.Common.ShareLibrary.dll
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Adapters.AffiliateFeeds.Test\bin\Debug\FuzzyString.dll
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Adapters.AffiliateFeeds.Test\bin\Debug\Daw.Common.ShareLibrary.pdb
+D:\Development\OddFeed\Source\Daw.Adapters.AffiliateFeeds.Test\obj\Debug\Daw.Adapters.AffiliateFeeds.Test.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\Daw.Adapters.AffiliateFeeds.Test\obj\Debug\Daw.Adapters.AffiliateFeeds.Test.dll
+D:\Development\OddFeed\Source\Daw.Adapters.AffiliateFeeds.Test\obj\Debug\Daw.Adapters.AffiliateFeeds.Test.pdb

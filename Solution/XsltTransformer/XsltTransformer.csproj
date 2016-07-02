@@ -4,17 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AED3C058-617F-40E8-B11D-22B446D626E8}</ProjectGuid>
+    <ProjectGuid>{732EBAE9-E841-4A24-93EE-7C8DBE66E16D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Daw.Common.CoreData</RootNamespace>
-    <AssemblyName>Daw.Common.CoreData</AssemblyName>
+    <RootNamespace>XsltTransformer</RootNamespace>
+    <AssemblyName>XsltTransformer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -34,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.5\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -44,12 +44,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConstantsAndEnums.cs" />
-    <Compile Include="FeedPacket.cs" />
+    <Compile Include="Helpers\XslExtensions.cs" />
+    <Compile Include="TransformXml.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Solution\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
+    <Content Include="Transforms\Betfred.xslt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Source\Daw.Common.CoreData\Daw.Common.CoreData.csproj">
+      <Project>{aed3c058-617f-40e8-b11d-22b446d626e8}</Project>
+      <Name>Daw.Common.CoreData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Source\IncomingFeedQueue\IncomingFeedQueue.csproj">
+      <Project>{269c43e8-bec8-4429-99ab-7aeb522a2cbc}</Project>
+      <Name>IncomingFeedQueue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
       <Project>{be299eb1-7977-4ef4-b29f-a289ffdde21a}</Project>
       <Name>Daw.Common.Configuration</Name>
     </ProjectReference>

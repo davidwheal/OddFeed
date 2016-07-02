@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<configurationSectionModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa" namespace="Daw.Services.WindowsService" xmlSchemaNamespace="urn:Daw.Services.WindowsService" xmlns="http://schemas.microsoft.com/dsltools/ConfigurationSectionDesigner">
+<configurationSectionModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa" namespace="Daw.Common.Configuration" xmlSchemaNamespace="urn:Daw.Common.Configuration" xmlns="http://schemas.microsoft.com/dsltools/ConfigurationSectionDesigner">
   <typeDefinitions>
     <externalType name="String" namespace="System" />
     <externalType name="Boolean" namespace="System" />
@@ -72,6 +72,11 @@
         <attributeProperty name="index" isRequired="true" isKey="true" isDefaultCollection="false" xmlName="index" isReadOnly="false">
           <type>
             <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/Int32" />
+          </type>
+        </attributeProperty>
+        <attributeProperty name="transform" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="transform" isReadOnly="false">
+          <type>
+            <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
           </type>
         </attributeProperty>
       </attributeProperties>

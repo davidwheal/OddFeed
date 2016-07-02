@@ -53,11 +53,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OddFeedSCheduler.cs">
+    <Compile Include="OddFeedService.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="OddFeedSCheduler.Designer.cs">
-      <DependentUpon>OddFeedSCheduler.cs</DependentUpon>
+    <Compile Include="OddFeedService.Designer.cs">
+      <DependentUpon>OddFeedService.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="ProjectInstaller.cs">
@@ -67,31 +67,11 @@
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SchedulerSection.csd.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>SchedulerSection.csd</DependentUpon>
-    </Compile>
-    <Compile Include="ServiceHelper.cs" />
+    <Compile Include="Engine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-    <None Include="SchedulerSection.csd">
-      <Generator>CsdFileGenerator</Generator>
-      <LastGenOutput>SchedulerSection.csd.cs</LastGenOutput>
-    </None>
-    <None Include="SchedulerSection.csd.config">
-      <DependentUpon>SchedulerSection.csd</DependentUpon>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="SchedulerSection.csd.diagram">
-      <DependentUpon>SchedulerSection.csd</DependentUpon>
-    </None>
-    <None Include="SchedulerSection.csd.xsd">
-      <DependentUpon>SchedulerSection.csd</DependentUpon>
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ProjectInstaller.resx">
@@ -102,9 +82,21 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Solution\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
+      <Project>{be299eb1-7977-4ef4-b29f-a289ffdde21a}</Project>
+      <Name>Daw.Common.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Solution\XsltTransformer\XsltTransformer.csproj">
+      <Project>{732ebae9-e841-4a24-93ee-7c8dbe66e16d}</Project>
+      <Name>XsltTransformer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Daw.Client.FeedProxyClient\Daw.Client.WebServices.csproj">
       <Project>{4aca934b-b182-4fc4-bb25-b14da52ea262}</Project>
       <Name>Daw.Client.WebServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Daw.Common.CoreData\Daw.Common.CoreData.csproj">
+      <Project>{aed3c058-617f-40e8-b11d-22b446d626e8}</Project>
+      <Name>Daw.Common.CoreData</Name>
     </ProjectReference>
     <ProjectReference Include="..\IncomingFeedQueue\IncomingFeedQueue.csproj">
       <Project>{269c43e8-bec8-4429-99ab-7aeb522a2cbc}</Project>

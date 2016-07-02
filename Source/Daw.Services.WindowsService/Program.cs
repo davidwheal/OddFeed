@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Daw.Services.WindowsService
@@ -18,12 +19,16 @@ namespace Daw.Services.WindowsService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[] 
             { 
-                new OddFeedScheduler() 
+                new OddFeedService() 
             };
             ServiceBase.Run(ServicesToRun);
 #else
-            var serv = new OddFeedScheduler();
+            var serv = new OddFeedService();
             serv.Process();
+            while (1 == 1)
+            {
+                Thread.Sleep(1000);
+            }
 #endif
         }
     }

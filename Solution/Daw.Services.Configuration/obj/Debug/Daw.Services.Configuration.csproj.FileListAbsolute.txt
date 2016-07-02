@@ -1,0 +1,5 @@
+D:\Development\OddFeed\Solution\Daw.Services.Configuration\bin\Debug\Daw.Services.Configuration.dll
+D:\Development\OddFeed\Solution\Daw.Services.Configuration\bin\Debug\Daw.Services.Configuration.pdb
+D:\Development\OddFeed\Solution\Daw.Services.Configuration\obj\Debug\Daw.Services.Configuration.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Solution\Daw.Services.Configuration\obj\Debug\Daw.Services.Configuration.dll
+D:\Development\OddFeed\Solution\Daw.Services.Configuration\obj\Debug\Daw.Services.Configuration.pdb

@@ -13,28 +13,26 @@ using Timer = System.Threading.Timer;
 
 namespace Daw.Services.WindowsService
 {
-    public partial class OddFeedScheduler : ServiceBase
+    public partial class OddFeedService : ServiceBase
     {
         public static ILog Logger = null;
-        private System.Timers.Timer _timer1 = null;
+       
 
 
-        public OddFeedScheduler()
+        public OddFeedService()
         {
             InitializeComponent();
         }
 
-        private void timer1_tick(object sender, ElapsedEventArgs e)
-        {
-            ServiceHelper.ScheduleEvents();
-        }
+        
 
         protected override void OnStart(string[] args)
         {
-            _timer1 = new System.Timers.Timer();
-            _timer1.Interval = 300;
-            _timer1.Elapsed += timer1_tick;
-            _timer1.Enabled = true;
+            // Get feed data
+            Task.Run(()=> Engine.ScheduleEvents(Logger));
+            // Transform feed data
+            Task.Run(()=> Engine.ScheduleTransforms());
+
         }
 
         protected override void OnStop()
@@ -47,7 +45,10 @@ namespace Daw.Services.WindowsService
 
             log4net.Config.XmlConfigurator.Configure();
             Logger = log4net.LogManager.GetLogger(this.GetType());
-            ServiceHelper.ScheduleEvents();
+            // Get feed data
+            Task.Run(() => Engine.ScheduleEvents(Logger));
+            // Transform feed data
+            Task.Run(() => Engine.ScheduleTransforms());
 
         }
 

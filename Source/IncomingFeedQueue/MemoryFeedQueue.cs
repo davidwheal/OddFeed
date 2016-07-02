@@ -46,8 +46,17 @@ namespace IncomingFeedQueue
         {
             lock (lockFlag)
             {
-                return (QueueItem<T>)_myQueue.Dequeue(); 
-            
+                try
+                {
+                    return (QueueItem<T>)_myQueue.Dequeue();
+
+                }
+                catch (InvalidOperationException ex)
+                {
+                    // Queue empty
+                    return null;
+                }
+
             }
 
         }

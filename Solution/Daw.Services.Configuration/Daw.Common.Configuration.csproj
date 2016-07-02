@@ -4,17 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AED3C058-617F-40E8-B11D-22B446D626E8}</ProjectGuid>
+    <ProjectGuid>{BE299EB1-7977-4EF4-B29F-A289FFDDE21A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Daw.Common.CoreData</RootNamespace>
-    <AssemblyName>Daw.Common.CoreData</AssemblyName>
+    <RootNamespace>Daw.Common.Configuration</RootNamespace>
+    <AssemblyName>Daw.Common.Configuration</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -44,15 +40,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConstantsAndEnums.cs" />
-    <Compile Include="FeedPacket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SchedulerSection.csd.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SchedulerSection.csd</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Solution\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
-      <Project>{be299eb1-7977-4ef4-b29f-a289ffdde21a}</Project>
-      <Name>Daw.Common.Configuration</Name>
-    </ProjectReference>
+    <None Include="SchedulerSection.csd">
+      <Generator>CsdFileGenerator</Generator>
+      <LastGenOutput>SchedulerSection.csd.cs</LastGenOutput>
+    </None>
+    <None Include="SchedulerSection.csd.config">
+      <DependentUpon>SchedulerSection.csd</DependentUpon>
+    </None>
+    <None Include="SchedulerSection.csd.xsd">
+      <DependentUpon>SchedulerSection.csd</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

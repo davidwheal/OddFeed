@@ -29,3 +29,6 @@ D:\Development\OddFeed\Dev\1.0\Source\DAW.Adapters.AffiliateFeeds\obj\Debug\DAW.
 D:\Development\OddFeed\Dev\1.0\Source\DAW.Adapters.AffiliateFeeds\bin\Debug\Daw.Common.ShareLibrary.dll
 D:\Development\OddFeed\Dev\1.0\Source\DAW.Adapters.AffiliateFeeds\bin\Debug\FuzzyString.dll
 D:\Development\OddFeed\Dev\1.0\Source\DAW.Adapters.AffiliateFeeds\bin\Debug\Daw.Common.ShareLibrary.pdb
+D:\Development\OddFeed\Source\DAW.Adapters.AffiliateFeeds\obj\Debug\DAW.Adapters.AffiliateFeeds.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\DAW.Adapters.AffiliateFeeds\obj\Debug\DAW.Adapters.AffiliateFeeds.dll
+D:\Development\OddFeed\Source\DAW.Adapters.AffiliateFeeds\obj\Debug\DAW.Adapters.AffiliateFeeds.pdb

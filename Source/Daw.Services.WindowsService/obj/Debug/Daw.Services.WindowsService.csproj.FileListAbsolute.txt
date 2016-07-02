@@ -28,3 +28,10 @@ D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\IncomingFeed
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\IncomingFeedQueue.pdb
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\log4net.dll
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\log4net.xml
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Common.Configuration.dll
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Common.CoreData.dll
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\XsltTransformer.dll
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Common.Configuration.pdb
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\XsltTransformer.pdb
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Common.CoreData.pdb

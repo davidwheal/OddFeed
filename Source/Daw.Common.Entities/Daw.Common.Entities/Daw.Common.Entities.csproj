@@ -75,10 +75,6 @@
       <Project>{a6183e4a-44f1-4117-bf42-b33845478f96}</Project>
       <Name>Daw.Common.ShareLibrary</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Daw.Common.Xsl\Daw.Common.Xsl.csproj">
-      <Project>{40a19523-7d36-44fe-b746-d8fcf028165a}</Project>
-      <Name>Daw.Common.Xsl</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Helpers\" />

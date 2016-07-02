@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Xml;
 using Daw.Common.Entities.Collections;
-using GeneratedClass;
 
 namespace Daw.Common.Entities
 {
@@ -23,7 +16,7 @@ namespace Daw.Common.Entities
         /// Creates a root fom the contents of a feed
         /// </summary>
         /// <param name="affiliateFeed"></param>
-        public EntityRoot(terraformed affiliateFeed)
+        public EntityRoot(XmlDocument doc)
         {
             // TODO:
             //affiliateFeed.Items[0].sport;l
