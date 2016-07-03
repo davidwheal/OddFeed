@@ -55,7 +55,7 @@ namespace Daw.Services.WindowsService
                 if (it.type == "xml" && it.enabled)
                 {
                     var task = Task<XmlDocument>.Run(() => LoadXmlFromUrl(client, it));
-                    logger.Debug(string.Format("Just run load {0}",it.url));
+                    logger.Debug(string.Format("Just run load {0}", it.url));
                     Events.Add(i, new EventPacket() { ConfigItem = it, Return = task, NextRun = DateTime.Now.AddSeconds(it.intervalsecs) });
                 }
             }
@@ -68,7 +68,7 @@ namespace Daw.Services.WindowsService
                     if (it.type == "xml" && it.enabled)
                     {
                         var runningEvent = Events[i];
-                        if (runningEvent.Return.IsCompleted)
+                        if (runningEvent.Return != null && runningEvent.Return.IsCompleted)
                         {
                             XmlDocument x = runningEvent.Return.Result;
                             if (x != null)
@@ -76,16 +76,19 @@ namespace Daw.Services.WindowsService
                                 var item = new QueueItem<XmlFeedPacket>(it.bookie, DateTime.Now, new XmlFeedPacket() { ConfigItem = it, XmlFromFeed = x });
                                 logger.Debug(string.Format("Adding feed data to the queue {0}", item.Source));
                                 Queue.AddFeedData(item);
+                                runningEvent.Return = null;
                             }
-                            if (DateTime.Now > runningEvent.NextRun)
-                            {
-                                runningEvent.Return = Task<XmlDocument>.Run(() =>
-                                {
-                                    return LoadXmlFromUrl(client, it);
 
-                                });
-                                runningEvent.NextRun = DateTime.Now.AddSeconds(it.intervalsecs);
-                            }
+                        }
+                        if (runningEvent.Return == null &&  DateTime.Now > runningEvent.NextRun)
+                        {
+                            logger.Debug(string.Format("Next run of {0}", runningEvent.ConfigItem.bookie));
+                            runningEvent.Return = Task<XmlDocument>.Run(() =>
+                            {
+                                return LoadXmlFromUrl(client, it);
+
+                            });
+                            runningEvent.NextRun = DateTime.Now.AddSeconds(it.intervalsecs);
                         }
                     }
                 }

@@ -17,7 +17,9 @@ namespace XsltTransformer
         public static XmlDocument XsltTransform(QueueItem<XmlFeedPacket> packet, ILog logger)
         {
 #if DEBUG
-            packet.Data.XmlFromFeed.Save(packet.Data.ConfigItem.bookie);
+            Directory.CreateDirectory("Feeds");
+            packet.Data.XmlFromFeed.Save(string.Format(@"Feeds/{0}_{1}_{2}.xml", packet.Data.ConfigItem.bookie,
+                packet.Data.ConfigItem.sport, packet.Data.ConfigItem.name));
 #endif
             var sb = new MemoryStream();
             try

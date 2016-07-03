@@ -52,9 +52,13 @@
     <Content Include="Transforms\Betfred.xslt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Transforms\Sample.xml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Transforms\Sample.xsd">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Source\Daw.Common.CoreData\Daw.Common.CoreData.csproj">

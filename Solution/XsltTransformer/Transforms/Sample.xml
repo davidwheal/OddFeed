@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<oddfeed bookie="bb" sport="sp" type="" generatedat="ttt">
+ 
+    <event id="id" name="name" hometeam="t1" awayteam="t2" date="couldbeblank">
+      <market id="id" name="name" ewplaces="ew" ewterms="ew">
+        <selection id="id" name="name" priceup="up" pricedown=""/>
+        <selection id="id" name="name" priceup="up" pricedown=""/>
+      </market>
+      <market id="id" name="name" ewplaces="ew" ewterms="ew">
+        <selection id="id" name="name" priceup="up" pricedown=""/>
+        <selection id="id" name="name" priceup="up" pricedown=""/>
+      </market>
+    </event>
+  <event id="id" name="name" hometeam="t1" awayteam="t2" date="couldbeblank">
+    <market id="id" name="name" ewplaces="ew" ewterms="ew">
+      <selection id="id" name="name" priceup="up" pricedown=""/>
+      <selection id="id" name="name" priceup="up" pricedown=""/>
+    </market>
+    <market id="id" name="name" ewplaces="ew" ewterms="ew">
+      <selection id="id" name="name" priceup="up" pricedown=""/>
+      <selection id="id" name="name" priceup="up" pricedown=""/>
+    </market>
+  </event>
+
+</oddfeed>
