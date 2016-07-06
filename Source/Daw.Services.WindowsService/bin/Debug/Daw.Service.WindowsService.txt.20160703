@@ -1,0 +1,162 @@
+2016-07-03 10:40:56,927 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-03 10:40:57,668 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 10:41:01,686 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.Xml.Xsl.XslLoadException: Stylesheet must start either with an 'xsl:stylesheet' or an 'xsl:transform' element, or with a literal result element that has an 'xsl:version' attribute, where prefix 'xsl' denotes the 'http://www.w3.org/1999/XSL/Transform' namespace. An error occurred at D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred(1,2).
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 33
+
+2016-07-03 10:42:36,939 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-03 10:42:37,340 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 10:42:42,206 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.Xml.Xsl.XslLoadException: Stylesheet must start either with an 'xsl:stylesheet' or an 'xsl:transform' element, or with a literal result element that has an 'xsl:version' attribute, where prefix 'xsl' denotes the 'http://www.w3.org/1999/XSL/Transform' namespace. An error occurred at D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred(1,2).
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 33
+
+2016-07-03 10:43:43,454 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-03 10:43:44,451 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:31:49,908 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-03 16:31:52,316 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:32:32,109 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-03 16:32:33,264 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:32:36,936 [10] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 34
+
+2016-07-03 16:35:13,924 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-03 16:35:16,820 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:35:18,684 [12] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+
+2016-07-03 16:36:17,100 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-03 16:36:17,804 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:36:21,843 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+
+2016-07-03 16:37:57,113 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-03 16:37:57,435 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:38:02,311 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+
+2016-07-03 16:39:37,119 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-03 16:39:37,415 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:39:37,888 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+
+2016-07-03 16:41:17,123 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-03 16:41:17,410 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:41:18,384 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+
+2016-07-03 16:42:57,127 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-03 16:43:00,339 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:43:03,967 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+
+2016-07-03 16:44:37,138 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-03 16:44:39,165 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:44:39,458 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+
+2016-07-03 16:46:17,141 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-03 16:46:17,430 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-03 16:46:19,937 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Betfred'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 35
+

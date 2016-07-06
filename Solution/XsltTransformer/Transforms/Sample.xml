@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<oddfeed bookie="bb" sport="sp" type="" generatedat="ttt">
+<oddfeed bookie="bb" generatedate="ttt" generatedtime="fff">
  
     <event id="id" name="name" hometeam="t1" awayteam="t2" date="couldbeblank">
       <market id="id" name="name" ewplaces="ew" ewterms="ew">

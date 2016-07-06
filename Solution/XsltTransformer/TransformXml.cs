@@ -29,12 +29,12 @@ namespace XsltTransformer
                 var xsltSettings = new XsltSettings(false, true);
                 XslCompiledTransform myXslTrans;
 
-                lock (lockFlag) 
+                lock (lockFlag)
                 {
                     myXslTrans = new XslCompiledTransform();
-                    myXslTrans.Load(packet.Data.ConfigItem.transform, xsltSettings, new XmlUrlResolver());
+                    myXslTrans.Load(@"Transforms/"+packet.Data.ConfigItem.transform, xsltSettings, new XmlUrlResolver());
                 }
-                
+
                 // Set up the encoding I want
                 var writerSettings = new XmlWriterSettings()
                 {
@@ -47,6 +47,11 @@ namespace XsltTransformer
                 var sr = new StreamReader(sb);
                 var x = new XmlDocument();
                 x.LoadXml(sr.ReadToEnd());
+#if DEBUG
+                Directory.CreateDirectory("TransformOutputs");
+                x.Save(string.Format(@"TransformOutputs/{0}_{1}_{2}.xml", packet.Data.ConfigItem.bookie,
+                packet.Data.ConfigItem.sport, packet.Data.ConfigItem.name));
+#endif
                 results.Close();
                 return x;
 
