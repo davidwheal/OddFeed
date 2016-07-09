@@ -8,3 +8,7 @@ D:\Development\OddFeed\Dev\1.0\Source\DAW.Common.DataFormats\bin\Debug\DAW.Commo
 D:\Development\OddFeed\Dev\1.0\Source\DAW.Common.DataFormats\obj\Debug\DAW.Common.DataFormats.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Dev\1.0\Source\DAW.Common.DataFormats\obj\Debug\DAW.Common.DataFormats.dll
 D:\Development\OddFeed\Dev\1.0\Source\DAW.Common.DataFormats\obj\Debug\DAW.Common.DataFormats.pdb
+D:\Development\OddFeed\Source\DAW.Common.DataFormats\bin\Debug\DAW.Common.DataFormats.dll
+D:\Development\OddFeed\Source\DAW.Common.DataFormats\bin\Debug\DAW.Common.DataFormats.pdb
+D:\Development\OddFeed\Source\DAW.Common.DataFormats\obj\Debug\DAW.Common.DataFormats.dll
+D:\Development\OddFeed\Source\DAW.Common.DataFormats\obj\Debug\DAW.Common.DataFormats.pdb

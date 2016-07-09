@@ -23,9 +23,6 @@ D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Entities\Daw.Common.Entities\ob
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\Daw.Common.ShareLibrary.dll
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\FuzzyString.dll
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\Daw.Common.ShareLibrary.pdb
-D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\obj\Debug\Daw.Common.Entities.csprojResolveAssemblyReference.cache
-D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\obj\Debug\Daw.Common.Entities.dll
-D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\obj\Debug\Daw.Common.Entities.pdb
 D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\Daw.Common.Entities.dll
 D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\Daw.Common.Entities.pdb
 D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\DAW.Common.DataFormats.dll
@@ -33,3 +30,6 @@ D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\
 D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\FuzzyString.dll
 D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\DAW.Common.DataFormats.pdb
 D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\bin\Debug\Daw.Common.ShareLibrary.pdb
+D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\obj\Debug\Daw.Common.Entities.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\obj\Debug\Daw.Common.Entities.dll
+D:\Development\OddFeed\Source\Daw.Common.Entities\Daw.Common.Entities\obj\Debug\Daw.Common.Entities.pdb

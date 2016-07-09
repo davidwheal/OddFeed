@@ -78,5 +78,10 @@
 				<xs:documentation>The transform.</xs:documentation>
 			</xs:annotation>
 		</xs:attribute>
+		<xs:attribute name="feedtype" use="optional" type="xs:string">
+			<xs:annotation>
+				<xs:documentation>The feedtype.</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
 	</xs:complexType>
 </xs:schema>

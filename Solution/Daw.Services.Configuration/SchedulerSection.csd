@@ -79,6 +79,11 @@
             <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
           </type>
         </attributeProperty>
+        <attributeProperty name="feedtype" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="feedtype" isReadOnly="false">
+          <type>
+            <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
+          </type>
+        </attributeProperty>
       </attributeProperties>
     </configurationElement>
   </configurationElements>

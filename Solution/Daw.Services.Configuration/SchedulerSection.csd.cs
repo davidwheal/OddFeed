@@ -557,5 +557,31 @@ namespace Daw.Common.Configuration
             }
         }
         #endregion
+        
+        #region feedtype Property
+        /// <summary>
+        /// The XML name of the <see cref="feedtype"/> property.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        internal const string feedtypePropertyName = "feedtype";
+        
+        /// <summary>
+        /// Gets or sets the feedtype.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.ComponentModel.DescriptionAttribute("The feedtype.")]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.feedtypePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        public virtual string feedtype
+        {
+            get
+            {
+                return ((string)(base[global::Daw.Common.Configuration.ScheduleConfigItem.feedtypePropertyName]));
+            }
+            set
+            {
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.feedtypePropertyName] = value;
+            }
+        }
+        #endregion
     }
 }

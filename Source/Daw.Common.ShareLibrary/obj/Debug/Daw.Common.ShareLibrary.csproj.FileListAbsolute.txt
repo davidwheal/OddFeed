@@ -4,3 +4,8 @@ D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.ShareLibrary\bin\Debug\FuzzyStr
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.ShareLibrary\obj\Debug\Daw.Common.ShareLibrary.dll
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.ShareLibrary\obj\Debug\Daw.Common.ShareLibrary.pdb
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.ShareLibrary\obj\Debug\Daw.Common.ShareLibrary.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\Daw.Common.ShareLibrary\bin\Debug\Daw.Common.ShareLibrary.dll
+D:\Development\OddFeed\Source\Daw.Common.ShareLibrary\bin\Debug\Daw.Common.ShareLibrary.pdb
+D:\Development\OddFeed\Source\Daw.Common.ShareLibrary\bin\Debug\FuzzyString.dll
+D:\Development\OddFeed\Source\Daw.Common.ShareLibrary\obj\Debug\Daw.Common.ShareLibrary.dll
+D:\Development\OddFeed\Source\Daw.Common.ShareLibrary\obj\Debug\Daw.Common.ShareLibrary.pdb

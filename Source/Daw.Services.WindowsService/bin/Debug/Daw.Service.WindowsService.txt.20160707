@@ -1,0 +1,2 @@
+2016-07-07 20:57:38,074 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-07 20:57:40,581 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 

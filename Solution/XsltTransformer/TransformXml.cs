@@ -2,10 +2,12 @@
 using System.IO;
 using System.Text;
 using System.Xml;
+using System.Xml.Schema;
 using System.Xml.Xsl;
 using Daw.Common.CoreData;
 using IncomingFeedQueue;
 using log4net;
+using Microsoft.SqlServer.Server;
 using XsltTransformer.Helpers;
 
 namespace XsltTransformer
@@ -13,6 +15,8 @@ namespace XsltTransformer
     public static class TransformXml
     {
         static readonly object lockFlag = new object();
+
+        
 
         public static XmlDocument XsltTransform(QueueItem<XmlFeedPacket> packet, ILog logger)
         {
@@ -32,7 +36,7 @@ namespace XsltTransformer
                 lock (lockFlag)
                 {
                     myXslTrans = new XslCompiledTransform();
-                    myXslTrans.Load(@"Transforms/"+packet.Data.ConfigItem.transform, xsltSettings, new XmlUrlResolver());
+                    myXslTrans.Load(@"Transforms/" + packet.Data.ConfigItem.transform, xsltSettings, new XmlUrlResolver());
                 }
 
                 // Set up the encoding I want
