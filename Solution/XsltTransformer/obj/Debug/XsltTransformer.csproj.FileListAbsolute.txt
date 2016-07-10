@@ -12,3 +12,5 @@ D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\log4net.xml
 D:\Development\OddFeed\Solution\XsltTransformer\obj\Debug\XsltTransformer.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Solution\XsltTransformer\obj\Debug\XsltTransformer.dll
 D:\Development\OddFeed\Solution\XsltTransformer\obj\Debug\XsltTransformer.pdb
+D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Substitutions\EventSubstitutions.xml
+D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Substitutions\MarketSubstitutions.xml

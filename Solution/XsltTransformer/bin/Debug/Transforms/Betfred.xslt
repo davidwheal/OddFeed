@@ -15,6 +15,18 @@
       <xsl:attribute name="generatedtime">
         <xsl:value-of select="Ext:CurrentTime()" />
       </xsl:attribute>
+
+      <xsl:attribute name="sport">
+        <xsl:value-of select="Ext:GetSport()" />
+      </xsl:attribute>
+
+      <xsl:attribute name="feedname">
+        <xsl:value-of select="Ext:GetFeedName()" />
+      </xsl:attribute>
+
+      <xsl:attribute name="feedtype">
+        <xsl:value-of select="Ext:GetFeedType()" />
+      </xsl:attribute>
       <xsl:apply-templates />
 
     </xml>
@@ -23,7 +35,7 @@
   <xsl:template match="category/event" name="events">
     <event>
       <xsl:attribute name="name">
-        <xsl:value-of select="@name" />
+        <xsl:value-of select="Ext:DoEventSubstitutions('HorseRacing',@name)" />
       </xsl:attribute>
       <xsl:attribute name="id">
         <xsl:value-of select="@eventid" />

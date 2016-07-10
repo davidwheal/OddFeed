@@ -57,7 +57,6 @@
     <Compile Include="Collections\MarketCollection.cs" />
     <Compile Include="Collections\SelectionCollection.cs" />
     <Compile Include="Collections\SportCollection.cs" />
-    <Compile Include="ConstantsAndEnums.cs" />
     <Compile Include="Entities\EventEntity.cs" />
     <Compile Include="Entities\MarketEntity.cs" />
     <Compile Include="Entities\PriceEntity.cs" />

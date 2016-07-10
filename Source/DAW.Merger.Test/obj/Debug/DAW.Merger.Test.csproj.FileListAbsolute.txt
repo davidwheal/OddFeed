@@ -12,3 +12,4 @@ D:\Development\OddFeed\Source\DAW.Merger.Test\bin\Debug\DAW.Merger.Test.dll
 D:\Development\OddFeed\Source\DAW.Merger.Test\bin\Debug\DAW.Merger.Test.pdb
 D:\Development\OddFeed\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.dll
 D:\Development\OddFeed\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.pdb
+D:\Development\OddFeed\Source\DAW.Merger.Test\obj\Debug\DAW.Merger.Test.csprojResolveAssemblyReference.cache

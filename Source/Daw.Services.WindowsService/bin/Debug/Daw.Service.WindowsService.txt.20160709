@@ -1,0 +1,56 @@
+2016-07-09 17:26:29,103 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-09 17:26:29,831 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:37:27,567 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:37:28,370 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:38:22,634 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:38:23,266 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:38:57,755 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:38:59,734 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:39:49,289 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:39:49,920 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:43:08,695 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:43:09,380 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:43:36,853 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:43:37,883 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:44:33,479 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:44:34,109 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:45:04,693 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:45:05,283 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:46:44,705 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-09 17:46:44,988 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:47:37,439 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:47:38,107 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:48:21,740 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:48:24,012 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:49:12,347 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:49:14,063 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:50:26,175 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 17:50:28,325 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:52:06,186 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-09 17:52:06,379 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 17:53:46,191 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-09 17:53:48,272 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 18:00:04,849 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 18:00:05,558 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 18:01:52,863 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 18:01:55,989 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 18:01:59,432 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred.xslt System.Xml.Xsl.XslTransformException: Extension object 'urn:OddsFeedXslExtensions' does not contain a matching 'GetFlag' method that has 1 parameter(s).
+   at System.Xml.Xsl.Runtime.XmlExtensionFunction.Bind()
+   at System.Xml.Xsl.Runtime.XmlExtensionFunctionTable.Bind(String name, String namespaceUri, Int32 numArgs, Type objectType, BindingFlags flags)
+   at System.Xml.Xsl.Runtime.XmlQueryContext.InvokeXsltLateBoundFunction(String name, String namespaceUri, IList`1[] args)
+   at <xsl:template match="bettype" name="market">(XmlQueryRuntime {urn:schemas-microsoft-com:xslt-debug}runtime, XPathNavigator {urn:schemas-microsoft-com:xslt-debug}current)
+   at <xsl:template match="category/event" name="events">(XmlQueryRuntime {urn:schemas-microsoft-com:xslt-debug}runtime, XPathNavigator {urn:schemas-microsoft-com:xslt-debug}current)
+   at <xsl:apply-templates>(XmlQueryRuntime {urn:schemas-microsoft-com:xslt-debug}runtime, XPathNavigator )
+   at <xsl:template match="/" name="root">(XmlQueryRuntime {urn:schemas-microsoft-com:xslt-debug}runtime, XPathNavigator {urn:schemas-microsoft-com:xslt-debug}current)
+   at Root(XmlQueryRuntime {urn:schemas-microsoft-com:xslt-debug}runtime)
+   at Execute(XmlQueryRuntime {urn:schemas-microsoft-com:xslt-debug}runtime)
+   at System.Xml.Xsl.XmlILCommand.Execute(Object defaultDocument, XmlResolver dataSources, XsltArgumentList argumentList, XmlSequenceWriter results)
+   at System.Xml.Xsl.XmlILCommand.Execute(Object defaultDocument, XmlResolver dataSources, XsltArgumentList argumentList, XmlWriter writer)
+   at System.Xml.Xsl.XslCompiledTransform.Transform(IXPathNavigable input, XsltArgumentList arguments, XmlWriter results, XmlResolver documentResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Transform(IXPathNavigable input, XsltArgumentList arguments, XmlWriter results)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 69
+
+2016-07-09 18:02:27,020 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 18:02:27,948 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-09 18:03:42,820 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-09 18:03:43,539 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 

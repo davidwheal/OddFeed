@@ -29,7 +29,7 @@ namespace XsltTransformer
             try
             {
                 var xslArgs = new XsltArgumentList();
-                xslArgs.AddExtensionObject("urn:OddsFeedXslExtensions", new XslExtensions());
+                xslArgs.AddExtensionObject("urn:OddsFeedXslExtensions", new XslExtensions(packet.Data.ConfigItem));
                 var xsltSettings = new XsltSettings(false, true);
                 XslCompiledTransform myXslTrans;
 
