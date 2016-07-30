@@ -1,6 +1,7 @@
 D:\Development\OddFeed\Source\Daw.Common.Mapper.Tests\bin\Debug\Daw.Common.Mapper.Tests.dll
 D:\Development\OddFeed\Source\Daw.Common.Mapper.Tests\bin\Debug\Daw.Common.Mapper.Tests.pdb
 D:\Development\OddFeed\Source\Daw.Common.Mapper.Tests\bin\Debug\Daw.Common.Mapper.dll
+D:\Development\OddFeed\Source\Daw.Common.Mapper.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\Development\OddFeed\Source\Daw.Common.Mapper.Tests\bin\Debug\MongoDB.Driver.dll
 D:\Development\OddFeed\Source\Daw.Common.Mapper.Tests\bin\Debug\MongoDB.Bson.dll
 D:\Development\OddFeed\Source\Daw.Common.Mapper.Tests\bin\Debug\MongoDB.Driver.Core.dll

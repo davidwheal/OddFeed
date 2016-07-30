@@ -45,7 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConstantsAndEnums.cs" />
-    <Compile Include="FeedPacket.cs" />
+    <Compile Include="XmlPacket.cs" />
+    <Compile Include="oddfeed.cs" />
+    <Compile Include="ProcessedDataPacket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

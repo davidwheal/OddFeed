@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:msxsl="urn:schemas-microsoft-com:xslt"
-                exclude-result-prefixes="msxsl"
+                exclude-result-prefixes="msxsl Ext"
                 xmlns:Ext="urn:OddsFeedXslExtensions">
-  <xsl:output method="xml" indent="yes" encoding="utf-16" omit-xml-declaration="no" standalone="yes" />
+  <xsl:output method="xml" indent="yes" encoding="utf-16" omit-xml-declaration="yes" standalone="yes" />
 
   <xsl:template match="/" name="root">
-    <xml bookie="Bet365"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:noNamespaceSchemaLocation="OddFeedSchema.xsd">
+    <oddfeed bookie="Bet365">
       <xsl:attribute name="generateddate">
         <xsl:value-of select="Ext:CurrentDate()" />
       </xsl:attribute>
@@ -29,7 +27,7 @@
       </xsl:attribute>
       <xsl:apply-templates />
 
-    </xml>
+    </oddfeed>
   </xsl:template>
 
   <xsl:template match="Sport/Event" name="events">

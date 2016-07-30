@@ -1,4 +1,4 @@
-<category name="horse-racing-antepost" timeGenerated="2016-07-30T12:56:12" Bookmaker="Betfred" xmlns="">
+<category name="horse-racing-antepost" timeGenerated="2016-07-30T17:26:03" Bookmaker="Betfred" xmlns="">
   <event name="King George VI Chase" eventid="5243599.20" date="" time="" meeting="King George VI Chase" venue="King George VI Chase">
     <bettype ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="27095691.20">
       <bet name="Vautour" short-name="Vautour" id="272154519.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
@@ -420,29 +420,6 @@
       <bet name="Exosphere" short-name="Exosphere" id="309744579.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
       <bet name="Long Island Sound" short-name="Long Isla" id="309744582.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
       <bet name="Bravery" short-name="Bravery" id="309744584.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
-    </bettype>
-  </event>
-  <event name="Qatar Nassau Stakes - Without Minding" eventid="5963191.20" date="" time="" meeting="Qatar Nassau Stakes" venue="Qatar Nassau Stakes">
-    <bettype bet-start-date="20160730" bet-start-time="1510" suspended="false" name="W/O Minding" inrunning="0" bettypeid="35444817.20">
-      <bet name="Swiss Range" short-name="Swiss Ran" id="314317596.20" price="13/8" priceDecimal="2.63" priceUS="162.50" active-price-types="AP" />
-      <bet name="Beautiful Romance" short-name="Beautiful" id="314317601.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="AP" />
-      <bet name="Jemayel" short-name="Jemayel" id="314317602.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
-      <bet name="Queen's Trust" short-name="Queen's T" id="314317603.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
-    </bettype>
-  </event>
-  <event name="Prix Rothschild" eventid="6036463.20" date="" time="" meeting="Prix Rothschild" venue="Prix Rothschild">
-    <bettype bet-start-date="20160731" bet-start-time="1515" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright NRNB" inrunning="0" bettypeid="35435474.20">
-      <bet name="Alice Springs" short-name="Alice Spr" id="314275604.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="EP,SP" />
-      <bet name="Esoterique" short-name="Esoteriqu" id="314275606.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="EP,SP" />
-      <bet name="Lumiere" short-name="Lumiere" id="314275608.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="EP,SP" />
-      <bet name="Positive Vibration" short-name="Positive" id="314275609.20" price="200/1" priceDecimal="201.00" priceUS="20000.00" active-price-types="EP,SP" />
-      <bet name="Qemah" short-name="Qemah" id="314275610.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="EP,SP" />
-      <bet name="Siyoushake" short-name="Siyoushak" id="314275611.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="EP,SP" />
-      <bet non-runner="true" non-runner-time="2016-07-30T12:55:49+01:00" name="Spectre" short-name="Spectre" id="314275612.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="EP,SP" />
-      <bet name="Steip Amach" short-name="Steip Ama" id="314275613.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="EP,SP" />
-      <bet name="Volta" short-name="Volta" id="314275614.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="EP,SP" />
-      <bet name="Amazing Maria" short-name="Amazing M" id="314275605.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="EP,SP" />
-      <bet name="Impassable" short-name="Impassabl" id="314275607.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="EP,SP" />
     </bettype>
   </event>
 </category>

@@ -18,6 +18,7 @@ D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Substitution
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Substitutions\MarketSubstitutions.xml
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Bet365.xslt
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\OddFeedXmlSchema.xsd
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe.config
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.pdb

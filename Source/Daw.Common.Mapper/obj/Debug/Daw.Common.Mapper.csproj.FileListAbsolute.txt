@@ -5,6 +5,5 @@ D:\Development\OddFeed\Source\Daw.Common.Mapper\bin\Debug\MongoDB.Driver.Core.dl
 D:\Development\OddFeed\Source\Daw.Common.Mapper\bin\Debug\MongoDB.Driver.dll
 D:\Development\OddFeed\Source\Daw.Common.Mapper\bin\Debug\MongoDB.Bson.xml
 D:\Development\OddFeed\Source\Daw.Common.Mapper\bin\Debug\MongoDB.Driver.xml
-D:\Development\OddFeed\Source\Daw.Common.Mapper\obj\Debug\Daw.Common.Mapper.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\Daw.Common.Mapper\obj\Debug\Daw.Common.Mapper.dll
 D:\Development\OddFeed\Source\Daw.Common.Mapper\obj\Debug\Daw.Common.Mapper.pdb

@@ -24,7 +24,7 @@ namespace Daw.Services.WindowsService
     public static class Engine
     {
         public static LatestDataQueue<XmlPacket> IncomingQueue = new LatestDataQueue<XmlPacket>("FeedQueue");
-        public static LatestDataQueue<XmlPacket> OutgoingQueue = new LatestDataQueue<XmlPacket>("TransformedQueue");
+        public static LatestDataQueue<ProcessedDataPacket> OutgoingQueue = new LatestDataQueue<ProcessedDataPacket>("TransformedQueue");
         public static Dictionary<int, EventPacket> Events = new Dictionary<int, EventPacket>();
 
 
@@ -35,9 +35,20 @@ namespace Daw.Services.WindowsService
                 var item = IncomingQueue.GetMostRecentData();
                 if (item != null)
                 {
+                    var packet = new ProcessedDataPacket
+                    {
+                        ConfigItem = item.Data.ConfigItem
+                    };
+
+                    var qi = new QueueItem<ProcessedDataPacket>(item.Source, DateTime.Now, packet);
+                    
                     var doc = TransformXml.XsltTransform(item, OddFeedService.Logger);
-                    item.Data.Xml = doc;
-                    OutgoingQueue.AddData(item);
+                    var obj = DeserializeXml.Deserialize(doc, OddFeedService.Logger);
+                    if (obj != null)
+                    {
+                        packet.ProcessedObject = obj;
+                        OutgoingQueue.AddData(qi);
+                    }
                 }
                 else
                 {

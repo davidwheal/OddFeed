@@ -2,6 +2,7 @@ D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Substitutions\EventSub
 D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Substitutions\MarketSubstitutions.xml
 D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Transforms\Bet365.xslt
 D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Transforms\Betfred.xslt
+D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Transforms\OddFeedXmlSchema.xsd
 D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\XsltTransformer.dll
 D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\XsltTransformer.pdb
 D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Daw.Common.Configuration.dll
