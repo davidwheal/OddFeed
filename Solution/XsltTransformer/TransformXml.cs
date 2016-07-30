@@ -18,11 +18,11 @@ namespace XsltTransformer
 
         
 
-        public static XmlDocument XsltTransform(QueueItem<XmlFeedPacket> packet, ILog logger)
+        public static XmlDocument XsltTransform(QueueItem<XmlPacket> packet, ILog logger)
         {
 #if DEBUG
             Directory.CreateDirectory("Feeds");
-            packet.Data.XmlFromFeed.Save(string.Format(@"Feeds/{0}_{1}_{2}.xml", packet.Data.ConfigItem.bookie,
+            packet.Data.Xml.Save(string.Format(@"Feeds/{0}_{1}_{2}.xml", packet.Data.ConfigItem.bookie,
                 packet.Data.ConfigItem.sport, packet.Data.ConfigItem.name));
 #endif
             var sb = new MemoryStream();
@@ -46,7 +46,7 @@ namespace XsltTransformer
                     Indent = true
                 };
                 var results = XmlWriter.Create(sb, writerSettings);
-                myXslTrans.Transform(packet.Data.XmlFromFeed, xslArgs, results);
+                myXslTrans.Transform(packet.Data.Xml, xslArgs, results);
                 sb.Position = 0;
                 var sr = new StreamReader(sb);
                 var x = new XmlDocument();

@@ -23,7 +23,8 @@ namespace Daw.Services.WindowsService
 
     public static class Engine
     {
-        public static MemoryFeedQueue<XmlFeedPacket> Queue = new MemoryFeedQueue<XmlFeedPacket>();
+        public static LatestDataQueue<XmlPacket> IncomingQueue = new LatestDataQueue<XmlPacket>("FeedQueue");
+        public static LatestDataQueue<XmlPacket> OutgoingQueue = new LatestDataQueue<XmlPacket>("TransformedQueue");
         public static Dictionary<int, EventPacket> Events = new Dictionary<int, EventPacket>();
 
 
@@ -31,10 +32,12 @@ namespace Daw.Services.WindowsService
         {
             while (1 == 1)
             {
-                var item = Queue.GetMostRecentFeedData();
+                var item = IncomingQueue.GetMostRecentData();
                 if (item != null)
                 {
-                    TransformXml.XsltTransform(item, OddFeedService.Logger);
+                    var doc = TransformXml.XsltTransform(item, OddFeedService.Logger);
+                    item.Data.Xml = doc;
+                    OutgoingQueue.AddData(item);
                 }
                 else
                 {
@@ -73,9 +76,9 @@ namespace Daw.Services.WindowsService
                             XmlDocument x = runningEvent.Return.Result;
                             if (x != null)
                             {
-                                var item = new QueueItem<XmlFeedPacket>(it.bookie, DateTime.Now, new XmlFeedPacket() { ConfigItem = it, XmlFromFeed = x });
+                                var item = new QueueItem<XmlPacket>(it.bookie, DateTime.Now, new XmlPacket() { ConfigItem = it, Xml = x });
                                 logger.Debug(string.Format("Adding feed data to the queue {0}", item.Source));
-                                Queue.AddFeedData(item);
+                                IncomingQueue.AddData(item);
                                 runningEvent.Return = null;
                             }
 

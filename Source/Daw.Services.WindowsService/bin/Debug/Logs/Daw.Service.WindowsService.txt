@@ -116,3 +116,15 @@ File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\
 2016-07-30 13:28:00,096 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
 2016-07-30 13:28:01,051 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
 2016-07-30 13:28:01,903 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:43:06,889 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 13:43:06,902 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 13:43:08,850 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:43:09,432 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:44:10,739 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 13:44:10,757 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 13:44:12,313 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:44:12,552 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:45:31,739 [7] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 13:45:31,752 [7] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 13:45:32,515 [7] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:45:33,188 [7] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 

@@ -13,10 +13,10 @@ namespace IncomingFeedQueueTests
             QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
             QueueItem<int> q2 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 2), 2);
             QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
-            MemoryFeedQueue<int> xx = new MemoryFeedQueue<int>();
-            xx.AddFeedData(q1);
-            xx.AddFeedData(q2);
-            xx.AddFeedData(q3);
+            LatestDataQueue<int> xx = new LatestDataQueue<int>("FeedQueue");
+            xx.AddData(q1);
+            xx.AddData(q2);
+            xx.AddData(q3);
             Assert.AreEqual(xx.Count(), 1);
 
         }
@@ -27,10 +27,10 @@ namespace IncomingFeedQueueTests
             QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
             QueueItem<int> q2 = new QueueItem<int>("s2", new DateTime(2016, 1, 1, 0, 0, 2), 2);
             QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
-            MemoryFeedQueue<int> xx = new MemoryFeedQueue<int>();
-            xx.AddFeedData(q1);
-            xx.AddFeedData(q2);
-            xx.AddFeedData(q3);
+            LatestDataQueue<int> xx = new LatestDataQueue<int>("TestQueue");
+            xx.AddData(q1);
+            xx.AddData(q2);
+            xx.AddData(q3);
             Assert.AreEqual(xx.Count(), 2);
 
         }
@@ -42,14 +42,14 @@ namespace IncomingFeedQueueTests
             QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
             QueueItem<int> q2 = new QueueItem<int>("s2", new DateTime(2016, 1, 1, 0, 0, 2), 2);
             QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
-            MemoryFeedQueue<int> xx = new MemoryFeedQueue<int>();
-            xx.AddFeedData(q1);
-            xx.AddFeedData(q2);
-            xx.AddFeedData(q3);
+            LatestDataQueue<int> xx = new LatestDataQueue<int>("FeedQueue");
+            xx.AddData(q1);
+            xx.AddData(q2);
+            xx.AddData(q3);
             Assert.AreEqual(xx.Count(), 2);
-            var xxx = xx.GetMostRecentFeedData();
+            var xxx = xx.GetMostRecentData();
             Assert.AreEqual((int)xxx.Data, 2);
-            xxx = xx.GetMostRecentFeedData();
+            xxx = xx.GetMostRecentData();
             Assert.AreEqual((int)xxx.Data, 3);
         }
     }

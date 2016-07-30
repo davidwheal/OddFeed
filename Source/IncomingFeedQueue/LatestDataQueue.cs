@@ -7,15 +7,22 @@ using System.Threading.Tasks;
 
 namespace IncomingFeedQueue
 {
-    public class MemoryFeedQueue<T> : IFeedQueue<T>
+    public class LatestDataQueue<T> : IFeedQueue<T>
     {
-
         public class StatisticsPacket
         {
             public int NumberRemoved { get; set; }
             public int NumberEnqueued { get; set; }
             public int NumberDequeued { get; set; }
             public int NumberErrored { get; set; }
+
+            private string Name { get; set; }
+
+            public override string ToString()
+            {
+                return string.Format("Enqueued {0} Dequeued {1} Discarded {2} Empty {3}", NumberEnqueued, NumberDequeued,
+                    NumberRemoved, NumberErrored);
+            }
 
             public StatisticsPacket()
             {
@@ -45,8 +52,13 @@ namespace IncomingFeedQueue
                 NumberErrored++;
             }
         }
-        private static object lockFlag = new object();
+        public LatestDataQueue(string name)
+        {
+            Name = name;
+        }
 
+        private static object lockFlag = new object();
+        public string Name { get; set; }
 
         readonly Queue _myQueue = new Queue();
         public StatisticsPacket Stats = new StatisticsPacket();
@@ -57,7 +69,7 @@ namespace IncomingFeedQueue
         /// Remove older sources when adding a new one
         /// </summary>
         /// <param name="item"></param>
-        public void AddFeedData(QueueItem<T> item)
+        public void AddData(QueueItem<T> item)
         {
             lock (lockFlag)
             {
@@ -72,29 +84,33 @@ namespace IncomingFeedQueue
                             _myQueue.Dequeue();
                             removedOne = true;
                             Stats.RemoveOne();
+                            Console.WriteLine(Stats);
                             break;
                         }
                     }
                 }
                 Stats.EnqueuedOne();
                 _myQueue.Enqueue(item);
+                Console.WriteLine(Stats);
             }
         }
 
-        public QueueItem<T> GetMostRecentFeedData()
+        public QueueItem<T> GetMostRecentData()
         {
             lock (lockFlag)
             {
                 try
                 {
+                    Console.WriteLine(Stats);
+                    var result = (QueueItem<T>)_myQueue.Dequeue();
                     Stats.DequeuedOne();
-                    return (QueueItem<T>)_myQueue.Dequeue();
-
+                    return result;
                 }
                 catch (InvalidOperationException ex)
                 {
                     // Queue empty
                     Stats.ErroredOne();
+                    Console.WriteLine(Stats);
                     return null;
                 }
 

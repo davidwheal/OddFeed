@@ -9,9 +9,9 @@ namespace IncomingFeedQueue
     public interface IFeedQueue<T>
     {
         // Add data from a feed to the queue
-        void AddFeedData(QueueItem<T> item);
+        void AddData(QueueItem<T> item);
         // Get the most recent feed data, throwing any old stuff away
-        QueueItem<T> GetMostRecentFeedData();
+        QueueItem<T> GetMostRecentData();
         int Count();
     }
 }

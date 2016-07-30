@@ -3,9 +3,9 @@ using Daw.Common.Configuration;
 
 namespace Daw.Common.CoreData
 {
-    public class XmlFeedPacket
+    public class XmlPacket
     {
         public ScheduleConfigItem ConfigItem { get; set; }
-        public XmlDocument XmlFromFeed { get; set; }
+        public XmlDocument Xml { get; set; }
     }
 }
