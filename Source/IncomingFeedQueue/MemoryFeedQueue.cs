@@ -9,10 +9,47 @@ namespace IncomingFeedQueue
 {
     public class MemoryFeedQueue<T> : IFeedQueue<T>
     {
+
+        public class StatisticsPacket
+        {
+            public int NumberRemoved { get; set; }
+            public int NumberEnqueued { get; set; }
+            public int NumberDequeued { get; set; }
+            public int NumberErrored { get; set; }
+
+            public StatisticsPacket()
+            {
+                NumberRemoved = 0;
+                NumberEnqueued = 0;
+                NumberDequeued = 0;
+                NumberErrored = 0;
+            }
+
+            public void RemoveOne()
+            {
+                NumberRemoved++;
+            }
+
+            public void EnqueuedOne()
+            {
+                NumberEnqueued++;
+            }
+
+            public void DequeuedOne()
+            {
+                NumberDequeued++;
+            }
+
+            public void ErroredOne()
+            {
+                NumberErrored++;
+            }
+        }
         private static object lockFlag = new object();
 
 
         readonly Queue _myQueue = new Queue();
+        public StatisticsPacket Stats = new StatisticsPacket();
 
         #region IFeedQueue Members
 
@@ -34,10 +71,12 @@ namespace IncomingFeedQueue
                         {
                             _myQueue.Dequeue();
                             removedOne = true;
+                            Stats.RemoveOne();
                             break;
                         }
                     }
                 }
+                Stats.EnqueuedOne();
                 _myQueue.Enqueue(item);
             }
         }
@@ -48,12 +87,14 @@ namespace IncomingFeedQueue
             {
                 try
                 {
+                    Stats.DequeuedOne();
                     return (QueueItem<T>)_myQueue.Dequeue();
 
                 }
                 catch (InvalidOperationException ex)
                 {
                     // Queue empty
+                    Stats.ErroredOne();
                     return null;
                 }
 

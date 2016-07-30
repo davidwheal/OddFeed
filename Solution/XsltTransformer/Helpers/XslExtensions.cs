@@ -75,6 +75,26 @@ namespace XsltTransformer.Helpers
 
         }
 
+
+        public static string ParseBet365EventDate(string datetime)
+        {
+            try
+            {
+                // e.g DD/MM/YY HH:MM:SS
+                if (String.IsNullOrEmpty(datetime))
+                {
+                    return "<none>";
+                }
+                //
+                return DateTime.ParseExact(datetime, "dd/MM/yy HH:mm:ss", CultureInfo.InvariantCulture).ToString(StandardDateTimeFormat);
+            }
+            catch (Exception)
+            {
+                return "UNKNOWN:" + datetime;
+            }
+
+        }
+
         public string DoEventSubstitutions(string sportAsString, string value)
         {
             ConstantsAndEnums.SportEnum sport;

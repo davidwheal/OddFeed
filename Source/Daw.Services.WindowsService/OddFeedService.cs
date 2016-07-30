@@ -26,14 +26,14 @@ namespace Daw.Services.WindowsService
 
         
 
-        protected override void OnStart(string[] args)
-        {
-            // Get feed data
-            Task.Run(()=> Engine.ScheduleEvents(Logger));
-            // Transform feed data
-            Task.Run(()=> Engine.ScheduleTransforms());
+        //protected override void OnStart(string[] args)
+        //{
+        //    // Get feed data
+        //    Task.Run(()=> Engine.ScheduleEvents(Logger));
+        //    // Transform feed data
+        //    Task.Run(()=> Engine.ScheduleTransforms());
 
-        }
+        //}
 
         protected override void OnStop()
         {

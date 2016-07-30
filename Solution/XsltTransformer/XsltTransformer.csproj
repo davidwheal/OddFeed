@@ -55,6 +55,9 @@
     <Content Include="Substitutions\MarketSubstitutions.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Transforms\Bet365.xslt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Transforms\Betfred.xslt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

@@ -1,0 +1,448 @@
+<category name="horse-racing-antepost" timeGenerated="2016-07-30T12:56:12" Bookmaker="Betfred" xmlns="">
+  <event name="King George VI Chase" eventid="5243599.20" date="" time="" meeting="King George VI Chase" venue="King George VI Chase">
+    <bettype ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="27095691.20">
+      <bet name="Vautour" short-name="Vautour" id="272154519.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
+      <bet name="Cue Card" short-name="Cue Card" id="272154521.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
+      <bet name="Djakadam" short-name="Djakadam" id="272154522.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Coneygree" short-name="Coneygree" id="272154523.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="Douvan" short-name="Douvan" id="272154524.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="AP" />
+      <bet name="Killultagh Vic" short-name="Killultag" id="272154525.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="More Of That" short-name="More Of T" id="272154526.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Don Poli" short-name="Don Poli" id="272154527.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Road To Riches" short-name="Road To R" id="272154529.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Smad Place" short-name="Smad Plac" id="272154530.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Tea For Two" short-name="Tea For T" id="272154531.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 Cheltenham Gold Cup" eventid="5251849.20" date="" time="" meeting="2017 Cheltenham Gold Cup" venue="2017 Cheltenham Gold Cup">
+    <bettype ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="27169880.20">
+      <bet name="Douvan" short-name="Douvan" id="272524370.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Thistlecrack" short-name="Thistlecr" id="272524372.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="AP" />
+      <bet name="Vautour" short-name="Vautour" id="280486883.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="AP" />
+      <bet name="Don Cossack" short-name="Don Cossa" id="280785566.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="Djakadam" short-name="Djakadam" id="280785567.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Coneygree" short-name="Coneygree" id="281010607.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Cue Card" short-name="Cue Card" id="281010608.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="Killultagh Vic" short-name="Killultag" id="281010609.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Blaklion" short-name="Blaklion" id="281010610.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Un Temps Pour Tout" short-name="Un Temps" id="282122841.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Don Poli" short-name="Don Poli" id="283420044.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Valseur Lido" short-name="Valseur L" id="289494565.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 Champion Hurdle" eventid="5409152.20" date="" time="" meeting="2017 Champion Hurdle" venue="2017 Champion Hurdle">
+    <bettype ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="28728670.20">
+      <bet name="Ivanovich Gorbatov" short-name="Ivanovich" id="280748254.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Min" short-name="Min" id="281009288.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Yanworth" short-name="Yanworth" id="281009289.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Apple's Jade" short-name="Apple's J" id="285484480.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="Faugheen" short-name="Faugheen" id="280062998.20" price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="AP" />
+      <bet name="Annie Power" short-name="Annie Pow" id="280062999.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Yorkhill" short-name="Yorkhill" id="280266232.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 Champion Chase" eventid="5409153.20" date="" time="" meeting="2017 Champion Chase" venue="2017 Champion Chase">
+    <bettype ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="28728671.20">
+      <bet name="Un De Sceaux" short-name="Un De Sce" id="281009602.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="God's Own" short-name="God's Own" id="290296449.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Douvan" short-name="Douvan" id="280048786.20" price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="AP" />
+      <bet name="Sprinter Sacre" short-name="Sprinter" id="280289302.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 Arkle" eventid="5409366.20" date="" time="" meeting="2017 Arkle" venue="2017 Arkle">
+    <bettype ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="28730702.20">
+      <bet name="Yorkhill" short-name="Yorkhill" id="281007533.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Min" short-name="Min" id="281007534.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="AP" />
+      <bet name="Yanworth" short-name="Yanworth" id="281007535.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Altior" short-name="Altior" id="284902484.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 World Hurdle" eventid="5441925.20" date="" time="" meeting="2017 World Hurdle" venue="2017 World Hurdle">
+    <bettype bet-start-date="20170316" bet-start-time="1530" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="29038943.20">
+      <bet name="Faugheen" short-name="Faugheen" id="309929551.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Thistlecrack" short-name="Thistlecr" id="281575395.20" price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="AP" />
+      <bet name="Annie Power" short-name="Annie Pow" id="281575396.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="AP" />
+      <bet name="Alpha Des Obeaux" short-name="Alpha Des" id="281575397.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Nichols Canyon" short-name="Nichols C" id="281575398.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="Yorkhill" short-name="Yorkhill" id="281575399.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Vroum Vroum Mag" short-name="Vroum Vro" id="281575400.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Yanworth" short-name="Yanworth" id="281575401.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Jezki" short-name="Jezki" id="281575402.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="The New One" short-name="The New O" id="281575403.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Barters Hill" short-name="Barters H" id="281575404.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Uknowhatimeanharry" short-name="Uknowhati" id="281575405.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Cole Harden" short-name="Cole Hard" id="281575406.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 JLT Novices Chase" eventid="5487233.20" date="" time="" meeting="2017 JLT Novices Chase" venue="Cheltenham">
+    <bettype bet-start-date="20170316" bet-start-time="1330" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="29539851.20">
+      <bet name="Yorkhill" short-name="Yorkhill" id="284001819.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="AP" />
+      <bet name="Min" short-name="Min" id="284001820.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Buveur D'air" short-name="Buveur D'" id="284001821.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Yanworth" short-name="Yanworth" id="284001822.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Different Gravey" short-name="Different" id="284001823.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Identity Thief" short-name="Identity" id="284001824.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Tombstone" short-name="Tombstone" id="284001825.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Top Notch" short-name="Top Notch" id="284001826.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Barters Hill" short-name="Barters H" id="284001827.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Supasundae" short-name="Supasunda" id="284001828.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Hell's Kitchen" short-name="Hell's Ki" id="284001829.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 Grand National" eventid="5589474.20" date="" time="" meeting="2017 Grand National" venue="2017 Grand National">
+    <bettype bet-start-date="20170408" bet-start-time="1715" ewreduction="4" ewplaceterms="4" eachway="1/4 Odds Place 1,2,3,4" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="30642983.20">
+      <bet name="The Last Samuri" short-name="The Last" id="289459358.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Don Poli" short-name="Don Poli" id="289459359.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Many Clouds" short-name="Many Clou" id="289459360.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Minella Rocco" short-name="Minella R" id="289459361.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Carlingford Lough" short-name="Carlingfo" id="289459362.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Rogue Angel" short-name="Rogue Ang" id="289459363.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Rule The World" short-name="Rule The" id="289459364.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="The Young Master" short-name="The Young" id="289459365.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Vicente" short-name="Vicente" id="289459366.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Gallant Oscar" short-name="Gallant O" id="289459367.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Alvarado" short-name="Alvarado" id="289459368.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Native River" short-name="Native Ri" id="289459369.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Cause Of Causes" short-name="Cause Of" id="289459370.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Gilgamboa" short-name="Gilgamboa" id="289459371.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Morning Assembly" short-name="Morning A" id="289459372.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Saint Are" short-name="Saint Are" id="289459373.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Bishops Road" short-name="Bishops R" id="289459374.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Holywell" short-name="Holywell" id="289459375.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Shutthefrontdoor" short-name="Shutthefr" id="289459376.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Silviniaco Conti" short-name="Silviniac" id="289459377.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="Qatar Prix de l'Arc de Triomphe" eventid="5635967.20" date="" time="" meeting="Qatar Prix de l'Arc de Triomphe" venue="Qatar Prix de l'Arc de Triomphe">
+    <bettype ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="31172486.20">
+      <bet name="La Cressonniere" short-name="La Cresso" id="305306072.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Makahiki" short-name="Makahiki" id="305306758.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Found" short-name="Found" id="292026738.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="New Bay" short-name="New Bay" id="292026739.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Postponed" short-name="Postponed" id="292026740.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Minding" short-name="Minding" id="292026742.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="US Army Ranger" short-name="US Army R" id="292026743.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Jack Hobbs" short-name="Jack Hobb" id="292026744.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Order Of St George" short-name="Order Of" id="292026745.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Exosphere" short-name="Exosphere" id="292026746.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Midterm" short-name="Midterm" id="292026747.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Ballydoyle" short-name="Ballydoyl" id="292026749.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Deauville" short-name="Deauville" id="292026750.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Erupt" short-name="Erupt" id="292026751.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Fascinating Rock" short-name="Fascinati" id="292026752.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Silverwave" short-name="Silverwav" id="307404980.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Almanzor" short-name="Almanzor" id="300643468.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Harzand" short-name="Harzand" id="300017904.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="St Leger" eventid="5785024.20" date="" time="" meeting="St Leger" venue="St Leger">
+    <bettype bet-start-date="20160910" bet-start-time="1545" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="32776045.20">
+      <bet name="Idaho" short-name="Idaho" id="300240375.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Wings of Desire" short-name="Wings of" id="300240376.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="US Army Ranger" short-name="US Army R" id="300240377.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Algometer" short-name="Algometer" id="300240378.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Bhutan" short-name="Bhutan" id="300240379.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Across The Stars" short-name="Across Th" id="303085860.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Even Song" short-name="Even Song" id="304107770.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Red Verdon" short-name="Red Verdo" id="304107771.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Sword Fighter" short-name="Sword Fig" id="304107772.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Housesofparliament" short-name="Housesofp" id="308184070.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Arya Tara" short-name="Arya Tara" id="311689242.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Best In The World" short-name="Best In T" id="311689243.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Cole Porter" short-name="Cole Port" id="311689244.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Cook Islands" short-name="Cook Isla" id="311689245.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Corinthian" short-name="Corinthia" id="311689246.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Crimean Tatar" short-name="Crimean T" id="311689247.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Earring" short-name="Earring" id="311689445.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Emperor Napoleon" short-name="Emperor N" id="311689446.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Goldmember" short-name="Goldmembe" id="311689447.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Harbour Law" short-name="Harbour L" id="311689448.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Harlequeen" short-name="Harlequee" id="311689449.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Harrison" short-name="Harrison" id="311689450.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Humphrey Bogart" short-name="Humphrey" id="311689451.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Imperial Aviator" short-name="Imperial" id="311689700.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Kellstorm" short-name="Kellstorm" id="311689701.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Knights Table" short-name="Knights T" id="311689702.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Marmelo" short-name="Marmelo" id="311689703.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Muntahaa" short-name="Muntahaa" id="311689704.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Nezwaah" short-name="Nezwaah" id="311689705.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Ormito" short-name="Ormito" id="311689706.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Pretty Perfect" short-name="Pretty Pe" id="311690055.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Prize Money" short-name="Prize Mon" id="311690056.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Robin Of Navan" short-name="Robin Of" id="311690057.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Shalakar" short-name="Shalakar" id="311690058.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Somehow" short-name="Somehow" id="311690059.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="The Major General" short-name="The Major" id="311690060.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="The Tartan Spartan" short-name="The Tarta" id="311690061.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="To Be Wild" short-name="To Be Wil" id="311690062.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Triplicate" short-name="Triplicat" id="311690064.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Twilight Payment" short-name="Twilight" id="311690065.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Unicorn" short-name="Unicorn" id="311690066.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Ventura Storm" short-name="Ventura S" id="311690067.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 1000 Guineas" eventid="5824152.20" date="" time="" meeting="2017 1000 Guineas" venue="2017 1000 Guineas">
+    <bettype ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="33155880.20">
+      <bet name="Brave Anna" short-name="Brave Ann" id="311748838.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Queen Kindly" short-name="Queen Kin" id="311748841.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Promise To Be True" short-name="Promise T" id="311748844.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Dabyah" short-name="Dabyah" id="311748846.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Easy Victory" short-name="Easy Vict" id="311748847.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Roly Poly" short-name="Roly Poly" id="311748849.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Romantic View" short-name="Romantic" id="311748850.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Fair Eva" short-name="Fair Eva" id="303821164.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Rhododendron" short-name="Rhododend" id="314017204.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 2000 Guineas" eventid="5824153.20" date="" time="" meeting="2017 2000 Guineas" venue="2017 2000 Guineas">
+    <bettype ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="33155889.20">
+      <bet name="Caravaggio" short-name="Caravaggi" id="302345111.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
+      <bet name="Churchill" short-name="Churchill" id="303331915.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="Mehmas" short-name="Mehmas" id="305555859.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Boynton" short-name="Boynton" id="308732969.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="War Decree" short-name="War Decre" id="308732971.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Blue Point" short-name="Blue Poin" id="311671600.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Douglas Macarthur" short-name="Douglas M" id="312061516.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 Ascot Gold Cup" eventid="5836485.20" date="" time="" meeting="2017 Ascot Gold Cup" venue="2017 Ascot Gold Cup">
+    <bettype bet-start-date="20170615" bet-start-time="1620" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="33283874.20">
+      <bet name="Order Of St George" short-name="Order Of" id="303030964.20" price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="2017 Investec Derby" eventid="5878886.20" date="" time="" meeting="2017 Investec Derby" venue="2017 Investec Derby">
+    <bettype bet-start-date="20170603" bet-start-time="1545" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="33724873.20">
+      <bet name="Douglas Macarthur" short-name="Douglas M" id="312061532.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Churchill" short-name="Churchill" id="305296412.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="Betfred Ebor" eventid="5926146.20" date="" time="" meeting="Betfred Ebor" venue="Betfred Ebor">
+    <bettype bet-start-date="20160820" bet-start-time="1545" ewreduction="4" ewplaceterms="4" eachway="1/4 Odds Place 1,2,3,4" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="34246926.20">
+      <bet name="A Soldier’s Life" short-name="A Soldier" id="307926995.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Al" short-name="Al" id="307926996.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Amour de Nuit" short-name="Amour de" id="307926997.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Angel Gabrial" short-name="Angel Gab" id="307926998.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Antiquarium" short-name="Antiquari" id="307926999.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Appeared" short-name="Appeared" id="307927000.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Arch Villain" short-name="Arch Vill" id="307927001.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Argus" short-name="Argus" id="307927002.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Astronereus" short-name="Astronere" id="307927003.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Ballynanty" short-name="Ballynant" id="307927004.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Barsanti" short-name="Barsanti" id="307927005.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Battersea" short-name="Battersea" id="307927006.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Bermondsey" short-name="Bermondse" id="307927007.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Blue Rambler" short-name="Blue Ramb" id="307927008.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Blue Surf" short-name="Blue Surf" id="307927009.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Boite" short-name="Boite" id="307927010.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Captain Morley" short-name="Captain M" id="307927011.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Cardinal Walter" short-name="Cardinal" id="307927012.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Cayirli" short-name="Cayirli" id="307927013.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Central Square" short-name="Central S" id="307927014.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Charming Kitten" short-name="Charming" id="307927017.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Claudio Monteverdi" short-name="Claudio M" id="307927018.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Clondaw Warrior" short-name="Clondaw W" id="307927019.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Cole Porter" short-name="Cole Port" id="307927020.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Commissioned" short-name="Commissio" id="307927021.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Cook Islands" short-name="Cook Isla" id="307927022.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Dannyday" short-name="Dannyday" id="307927023.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Dawn Missile" short-name="Dawn Miss" id="307927024.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Desert Encounter" short-name="Desert En" id="307927025.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Echo Brava" short-name="Echo Brav" id="307927026.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Elidor" short-name="Elidor" id="307927027.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Eshtiaal" short-name="Eshtiaal" id="307927029.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Excellent Result" short-name="Excellent" id="307927031.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Fabricate" short-name="Fabricate" id="307927033.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Father Christmas" short-name="Father Ch" id="307927034.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="First Mohican" short-name="First Moh" id="307927035.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Flight Officer" short-name="Flight Of" id="307927036.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Forever Popular" short-name="Forever P" id="307927037.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Forgotten Hero" short-name="Forgotten" id="307927038.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Francis Of Assisi" short-name="Francis O" id="307927039.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Fun Mac" short-name="Fun Mac" id="307927040.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Gabrial The Hero" short-name="Gabrial T" id="307927041.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Galizzi" short-name="Galizzi" id="307927042.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Gang Warfare" short-name="Gang Warf" id="307927043.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Gavlar" short-name="Gavlar" id="307927044.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Glaring" short-name="Glaring" id="307927045.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Gold Prince" short-name="Gold Prin" id="307927046.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Gunnery" short-name="Gunnery" id="307927047.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Hardstone" short-name="Hardstone" id="307927048.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Havana Beat" short-name="Havana Be" id="307927049.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Heartbreak City" short-name="Heartbrea" id="307927050.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Housesofparliament" short-name="Housesofp" id="307927051.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Huge Future" short-name="Huge Futu" id="307927052.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="IMPORTANT MESSAGE" short-name="IMPORTANT" id="307927053.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Intense Tango" short-name="Intense T" id="307927054.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Ivan Grozny" short-name="Ivan Groz" id="307927055.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Jam Session" short-name="Jam Sessi" id="307927056.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Kellstorm" short-name="Kellstorm" id="307927057.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Kinema" short-name="Kinema" id="307927058.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="King Bolete" short-name="King Bole" id="307927059.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Landofhopeandglory" short-name="Landofhop" id="307927060.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Le Rock" short-name="Le Rock" id="307927061.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Leah Freya" short-name="Leah Frey" id="307927062.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Lieutenant General" short-name="Lieutenan" id="307927063.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Memorial Day" short-name="Memorial" id="307927064.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Mijhaar" short-name="Mijhaar" id="307927065.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Mirsaale" short-name="Mirsaale" id="307927066.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Monaleen" short-name="Monaleen" id="307927067.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Monotype" short-name="Monotype" id="307927068.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Montaly" short-name="Montaly" id="307927069.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Moscato" short-name="Moscato" id="307927070.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Mr Singh" short-name="Mr Singh" id="307927071.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="My Reward" short-name="My Reward" id="307927072.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Nakeeta" short-name="Nakeeta" id="307927073.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="New Year’s Night" short-name="New Year" id="307927074.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Not Never" short-name="Not Never" id="307927075.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Notarised" short-name="Notarised" id="307927076.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Oceanographer" short-name="Oceanogra" id="307927077.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Oriental Fox" short-name="Oriental" id="307927078.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Pearl Castle" short-name="Pearl Cas" id="307927079.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Penglai Pavilion" short-name="Penglai P" id="307927080.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Penhill" short-name="Penhill" id="307927081.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Percy Veer" short-name="Percy Vee" id="307927082.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Pinzolo" short-name="Pinzolo" id="307927083.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Pique Sous" short-name="Pique Sou" id="307927084.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Planetoid" short-name="Planetoid" id="307927085.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Polarisation" short-name="Polarisat" id="307927086.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Poyle Thomas" short-name="Poyle Tho" id="307927087.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Qewy" short-name="Qewy" id="307927088.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Quick Jack" short-name="Quick Jac" id="307927089.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="RED CARDINAL" short-name="RED CARDI" id="307927090.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Radanpour" short-name="Radanpour" id="307927091.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Renneti" short-name="Renneti" id="307927092.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Repeater" short-name="Repeater" id="307927093.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Revision" short-name="Revision" id="307927094.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Rideonastar" short-name="Rideonast" id="307927095.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Rockspirit" short-name="Rockspiri" id="307927096.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Sea Of Heaven" short-name="Sea Of He" id="307927097.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Seamour" short-name="Seamour" id="307927098.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Second Wave" short-name="Second Wa" id="307927099.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Secret Number" short-name="Secret Nu" id="307927100.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Seismos" short-name="Seismos" id="307927101.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Sempre Medici" short-name="Sempre Me" id="307927102.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Shakopee" short-name="Shakopee" id="307927103.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="She Is No Lady" short-name="She Is No" id="307927104.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Shrewd" short-name="Shrewd" id="307927105.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Simenon" short-name="Simenon" id="307927106.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Sindarban" short-name="Sindarban" id="307927107.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Sir Chauvelin" short-name="Sir Chauv" id="307927108.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Slowfoot" short-name="Slowfoot" id="307927109.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Sparring" short-name="Sparring" id="307927110.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Suegioo" short-name="Suegioo" id="307927111.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Sunblazer" short-name="Sunblazer" id="307927112.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Sword Fighter" short-name="Sword Fig" id="307927113.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="TIME TO INSPIRE" short-name="TIME TO I" id="307927114.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="TREVISANI" short-name="TREVISANI" id="307927115.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Tawdeea" short-name="Tawdeea" id="307927116.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="The Major General" short-name="The Major" id="307927117.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="The Minch" short-name="The Minch" id="307927118.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="The Twisler" short-name="The Twisl" id="307927119.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Thomas Hobson" short-name="Thomas Ho" id="307927120.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Tommy Docc" short-name="Tommy Doc" id="307927121.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Top Tug" short-name="Top Tug" id="307927122.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Unicorn" short-name="Unicorn" id="307927123.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Vent De Force" short-name="Vent De F" id="307927124.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Who Dares Wins" short-name="Who Dares" id="307927125.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Wicklow Brave" short-name="Wicklow B" id="307927126.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Wolfcatcher" short-name="Wolfcatch" id="307927127.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="Coolmore Nunthorpe Stakes" eventid="5954818.20" date="" time="" meeting="Coolmore Nunthorpe Stakes" venue="Coolmore Nunthorpe Stakes">
+    <bettype bet-start-date="20160819" bet-start-time="1540" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="34535662.20">
+      <bet name="Abstraction" short-name="Abstracti" id="309523055.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Acapulco" short-name="Acapulco" id="309523056.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="AP" />
+      <bet name="Air Force Blue" short-name="Air Force" id="309523057.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Ajaya" short-name="Ajaya" id="309523058.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Ardad" short-name="Ardad" id="309523059.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Brando" short-name="Brando" id="309523060.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Caravaggio" short-name="Caravaggi" id="309523061.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="AP" />
+      <bet name="Cotai Glory" short-name="Cotai Glo" id="309523062.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Danzeno" short-name="Danzeno" id="309523063.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Divine" short-name="Divine" id="309523064.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Easton Angel" short-name="Easton An" id="309523065.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Finsbury Square" short-name="Finsbury" id="309523066.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Goken" short-name="Goken" id="309523067.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Goldream" short-name="Goldream" id="309523068.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Iffranesia" short-name="Iffranesi" id="309523069.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Kachy" short-name="Kachy" id="309523072.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Magical Memory" short-name="Magical M" id="309523073.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Mecca´s Angel" short-name="Mecca´s" id="309523075.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="AP" />
+      <bet name="Medicean Man" short-name="Medicean" id="309523076.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Mobsta" short-name="Mobsta" id="309523077.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Move In Time" short-name="Move In T" id="309523078.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="AP" />
+      <bet name="Muthmir" short-name="Muthmir" id="309523079.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Out Do" short-name="Out Do" id="309523081.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Pearl Secret" short-name="Pearl Sec" id="309523082.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Prince Of Lir" short-name="Prince Of" id="309523083.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Profitable" short-name="Profitabl" id="309523084.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
+      <bet name="Sole Power" short-name="Sole Powe" id="309523086.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Spirit Quartz" short-name="Spirit Qu" id="309523088.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Strath Burn" short-name="Strath Bu" id="309523089.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Take Cover" short-name="Take Cove" id="309523090.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="The Last Lion" short-name="The Last" id="309523091.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Thesme" short-name="Thesme" id="309523093.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+      <bet name="Washington Dc" short-name="Washingto" id="309523096.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Lady Aurelia" short-name="Lady Aure" id="313707737.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="Juddmonte International" eventid="5958955.20" date="" time="" meeting="Juddmonte International" venue="Juddmonte International">
+    <bettype bet-start-date="20160817" bet-start-time="1735" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="34574061.20">
+      <bet name="Time Test" short-name="Time Test" id="309744303.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Hawkbill" short-name="Hawkbill" id="309744304.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="AP" />
+      <bet name="Postponed" short-name="Postponed" id="309744305.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="AP" />
+      <bet name="The Gurkha" short-name="The Gurkh" id="309744306.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="AP" />
+      <bet name="US Army Ranger" short-name="US Army R" id="309744307.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="AP" />
+      <bet name="Hit It A Bomb" short-name="Hit It A" id="309744448.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="The Grey Gatsby" short-name="The Grey" id="309744309.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Minding" short-name="Minding" id="309744426.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
+      <bet name="Idaho" short-name="Idaho" id="309744427.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Found" short-name="Found" id="309744428.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Deauville" short-name="Deauville" id="309744429.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Alice Springs" short-name="Alice Spr" id="309744430.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Mutakayyef" short-name="Mutakayye" id="309744431.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="AP" />
+      <bet name="Dariyan" short-name="Dariyan" id="309744432.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Highland Reel" short-name="Highland" id="309744433.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="AP" />
+      <bet name="Almanzor" short-name="Almanzor" id="309744434.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="My Dream Boat" short-name="My Dream" id="309744435.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Tryster" short-name="Tryster" id="309744437.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Arab Spring" short-name="Arab Spri" id="309744438.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Ballydoyle" short-name="Ballydoyl" id="309744440.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="AP" />
+      <bet name="Intilaaq" short-name="Intilaaq" id="309744441.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Moonlight Magic" short-name="Moonlight" id="309744442.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Arabian Queen" short-name="Arabian Q" id="309744443.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Sir Isaac Newton" short-name="Sir Isaac" id="309744446.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="AP" />
+      <bet name="Almodovar" short-name="Almodovar" id="309744447.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Wings of Desire" short-name="Wings of" id="309744574.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="King Bolete" short-name="King Bole" id="309744575.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Shogun" short-name="Shogun" id="309744576.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Richard Pankhurst" short-name="Richard P" id="309744578.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="AP" />
+      <bet name="Exosphere" short-name="Exosphere" id="309744579.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
+      <bet name="Long Island Sound" short-name="Long Isla" id="309744582.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
+      <bet name="Bravery" short-name="Bravery" id="309744584.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="Qatar Nassau Stakes - Without Minding" eventid="5963191.20" date="" time="" meeting="Qatar Nassau Stakes" venue="Qatar Nassau Stakes">
+    <bettype bet-start-date="20160730" bet-start-time="1510" suspended="false" name="W/O Minding" inrunning="0" bettypeid="35444817.20">
+      <bet name="Swiss Range" short-name="Swiss Ran" id="314317596.20" price="13/8" priceDecimal="2.63" priceUS="162.50" active-price-types="AP" />
+      <bet name="Beautiful Romance" short-name="Beautiful" id="314317601.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="AP" />
+      <bet name="Jemayel" short-name="Jemayel" id="314317602.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
+      <bet name="Queen's Trust" short-name="Queen's T" id="314317603.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
+    </bettype>
+  </event>
+  <event name="Prix Rothschild" eventid="6036463.20" date="" time="" meeting="Prix Rothschild" venue="Prix Rothschild">
+    <bettype bet-start-date="20160731" bet-start-time="1515" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright NRNB" inrunning="0" bettypeid="35435474.20">
+      <bet name="Alice Springs" short-name="Alice Spr" id="314275604.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="EP,SP" />
+      <bet name="Esoterique" short-name="Esoteriqu" id="314275606.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="EP,SP" />
+      <bet name="Lumiere" short-name="Lumiere" id="314275608.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="EP,SP" />
+      <bet name="Positive Vibration" short-name="Positive" id="314275609.20" price="200/1" priceDecimal="201.00" priceUS="20000.00" active-price-types="EP,SP" />
+      <bet name="Qemah" short-name="Qemah" id="314275610.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="EP,SP" />
+      <bet name="Siyoushake" short-name="Siyoushak" id="314275611.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="EP,SP" />
+      <bet non-runner="true" non-runner-time="2016-07-30T12:55:49+01:00" name="Spectre" short-name="Spectre" id="314275612.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="EP,SP" />
+      <bet name="Steip Amach" short-name="Steip Ama" id="314275613.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="EP,SP" />
+      <bet name="Volta" short-name="Volta" id="314275614.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="EP,SP" />
+      <bet name="Amazing Maria" short-name="Amazing M" id="314275605.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="EP,SP" />
+      <bet name="Impassable" short-name="Impassabl" id="314275607.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="EP,SP" />
+    </bettype>
+  </event>
+</category>

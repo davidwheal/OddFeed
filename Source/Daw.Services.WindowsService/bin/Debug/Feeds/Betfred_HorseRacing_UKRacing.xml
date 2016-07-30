@@ -1,331 +1,615 @@
-<category name="horse-racing-uk" timeGenerated="2016-07-10T11:45:21" Bookmaker="Betfred" xmlns="">
-  <event name="2m 4f Novice Hurdle" eventid="5940358.20" date="20160710" time="1400" meeting="Perth" venue="Perth">
-    <bettype bet-start-date="20160710" bet-start-time="1400" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366217.20">
-      <bet jockey-silk="YboQoo" name="Ballinvegga" short-name="Ballinveg" id="308638662.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UfqGbf" non-runner="true" non-runner-time="2016-07-10T08:04:38+01:00" name="Faraway Mountain" short-name="Faraway M" id="308638663.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
-      <bet jockey-silk="OqkAff" name="John Monash" short-name="John Mona" id="308638664.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PqbVqq" name="Enzani" short-name="Enzani" id="308638665.20" price="13/8" priceDecimal="2.63" priceUS="162.50" active-price-types="SP,EP" />
-      <bet jockey-silk="UboXbo" name="Indian Sahib" short-name="Indian Sa" id="308638666.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KjeAje" name="Noojisthaudon" short-name="Noojistha" id="308638667.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BhdAhh" name="Novo Dawn" short-name="Novo Dawn" id="308638668.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="SbqAqq" name="Gran Paradiso" short-name="Gran Para" id="308638669.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JbrJbr" name="Knocklayde Sno Cat" short-name="Knocklayd" id="308638670.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+<category name="horse-racing-uk" timeGenerated="2016-07-30T12:33:25" Bookmaker="Betfred" xmlns="">
+  <event name="1m 4f F&amp;M Listed Stakes" eventid="6036502.20" date="20160730" time="1415" meeting="Newmarket" venue="Newmarket">
+    <bettype bet-start-date="20160730" bet-start-time="1415" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436396.20">
+      <bet jockey-silk="ObhGbo" name="Full Day" short-name="Full Day" id="314279192.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AjjFjj" name="Lady Of Camelot" short-name="Lady Of C" id="314279193.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OeoAem" name="Southern Storm" short-name="Southern" id="314279194.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="SrpGrp" name="Sweeping Up" short-name="Sweeping" id="314279195.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApq" name="Abingdon" short-name="Abingdon" id="314279196.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HqfAqq" non-runner="true" non-runner-time="2016-07-30T09:33:33+01:00" name="Chinoiseries" short-name="Chinoiser" id="314279197.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggAgg" name="Fireglow" short-name="Fireglow" id="314279198.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AeeAhh" name="Tiptree" short-name="Tiptree" id="314279199.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="3m Handicap Hurdle" eventid="5940365.20" date="20160710" time="1430" meeting="Perth" venue="Perth">
-    <bettype bet-start-date="20160710" bet-start-time="1430" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366224.20">
-      <bet jockey-silk="JdrFdd" name="Gingili" short-name="Gingili" id="308638735.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CkrHkr" name="Tantamount" short-name="Tantamoun" id="308638736.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MlpXlq" name="Padre Tito" short-name="Padre Tit" id="308638737.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PobRbo" name="Dumbarton" short-name="Dumbarton" id="308638738.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FjqGjj" name="Andhaar" short-name="Andhaar" id="308638739.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GdhAha" name="Darsi Dancer" short-name="Darsi Dan" id="308638740.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="NrfRrr" name="Johnny Go" short-name="Johnny Go" id="308638741.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AkkRkk" name="Stay In My Heart" short-name="Stay In M" id="308638742.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LrkHrr" name="Another Dimension" short-name="Another D" id="308638743.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AooFbo" name="Baysbrown" short-name="Baysbrown" id="308638744.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UboXbo" name="Destiny Awaits" short-name="Destiny A" id="308638745.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GoqGoo" name="This Thyne Jude" short-name="This Thyn" id="308638746.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UohAho" name="Solway Bay" short-name="Solway Ba" id="308638748.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FgdAgo" name="St Gregory" short-name="St Gregor" id="308638750.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+  <event name="6f Fillies Handicap" eventid="6036503.20" date="20160730" time="1450" meeting="Newmarket" venue="Newmarket">
+    <bettype bet-start-date="20160730" bet-start-time="1450" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436397.20">
+      <bet jockey-silk="AggAgg" name="Sea Of Snow" short-name="Sea Of Sn" id="314279204.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggAgp" name="Camargue" short-name="Camargue" id="314279205.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="PobGoo" name="Appointed" short-name="Appointed" id="314279206.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JeqAee" name="Rajar" short-name="Rajar" id="314279207.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AjjAjj" name="Parsnip" short-name="Parsnip" id="314279208.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BrdArr" name="Jumping Around" short-name="Jumping A" id="314279209.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="PpaApp" non-runner="true" non-runner-time="2016-07-30T09:10:56+01:00" name="Tiburtina" short-name="Tiburtina" id="314279210.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooRoo" name="Paco's Angel" short-name="Paco's An" id="314279211.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MeqHee" name="Miss Sugars" short-name="Miss Suga" id="314279213.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BkqAkk" name="Funky Footsteps" short-name="Funky Foo" id="314279215.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KoqAop" name="Clef" short-name="Clef" id="314279216.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AmmGom" name="Franca Florio" short-name="Franca Fl" id="314279217.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChdAhh" name="Pranceleya" short-name="Pranceley" id="314279218.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KrbArb" name="Whiteley" short-name="Whiteley" id="314279219.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="3m Novice Hcap Chs" eventid="5940372.20" date="20160710" time="1505" meeting="Perth" venue="Perth">
-    <bettype bet-start-date="20160710" bet-start-time="1505" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366232.20">
-      <bet jockey-silk="DqlGqq" name="Kinari" short-name="Kinari" id="308638841.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JdrFdo" name="Mahler And Me" short-name="Mahler An" id="308638842.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="TdrArp" name="Wicked Spice" short-name="Wicked Sp" id="308638843.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JdfJdd" non-runner="true" non-runner-time="2016-07-10T10:55:31+01:00" name="Dr Moloney" short-name="Dr Molone" id="308638844.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JfoJfo" name="Western Home" short-name="Western H" id="308638845.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JdrFdd" name="Sonneofpresenting" short-name="Sonneofpr" id="308638846.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KloGll" name="Dun Faw Good" short-name="Dun Faw G" id="308638847.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JpqGoo" name="Heart O Annandale" short-name="Heart O A" id="308638848.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+  <event name="5f Maiden Stakes" eventid="6036504.20" date="20160730" time="1350" meeting="Thirsk" venue="Thirsk">
+    <bettype bet-start-date="20160730" bet-start-time="1350" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436399.20">
+      <bet jockey-silk="KqoVoo" name="Can't Do Spells" short-name="Can't Do" id="314279228.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqFjq" name="Full Intention" short-name="Full Inte" id="314279229.20" price="4/7" priceDecimal="1.57" priceUS="-57.14" active-price-types="SP,EP" />
+      <bet jockey-silk="AaaGad" name="Perfect Symphony" short-name="Perfect S" id="314279230.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BobGqb" name="Shake And Bakes" short-name="Shake And" id="314279231.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EicGic" name="Snookered" short-name="Snookered" id="314279232.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZopPoo" name="Lady Tan" short-name="Lady Tan" id="314279233.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UbfAqb" name="My Cherry Blossom" short-name="My Cherry" id="314279234.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggFbb" name="Our Greta" short-name="Our Greta" id="314279235.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KpqAqm" name="Vocalisation" short-name="Vocalisat" id="314279236.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VpoApo" name="Zebedee Star" short-name="Zebedee S" id="314279237.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m Maiden Hurdle" eventid="5940378.20" date="20160710" time="1540" meeting="Perth" venue="Perth">
-    <bettype bet-start-date="20160710" bet-start-time="1540" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366238.20">
-      <bet jockey-silk="ArrHrp" name="Important Moment" short-name="Important" id="308638897.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HhjAhh" name="Pershing" short-name="Pershing" id="308638898.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JdrFdd" name="Tajseer" short-name="Tajseer" id="308638900.20" price="10/11" priceDecimal="1.91" priceUS="-90.91" active-price-types="SP,EP" />
-      <bet jockey-silk="LorAqo" name="Beyondtheflame" short-name="Beyondthe" id="308638901.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PpqBpp" name="Mayze Bell" short-name="Mayze Bel" id="308638903.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="SkmVkm" name="Silver Trix" short-name="Silver Tr" id="308638905.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="NobAgo" name="Sweet Holly" short-name="Sweet Hol" id="308638907.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HprApp" name="Shemay" short-name="Shemay" id="308638908.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+  <event name="7f Maiden Fillies Stakes" eventid="6036505.20" date="20160730" time="1525" meeting="Newmarket" venue="Newmarket">
+    <bettype bet-start-date="20160730" bet-start-time="1525" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436400.20">
+      <bet jockey-silk="KimAqm" name="Blending" short-name="Blending" id="314279314.20" price="13/8" priceDecimal="2.63" priceUS="162.50" active-price-types="SP,EP" />
+      <bet jockey-silk="AddAdr" name="Blushing Rose" short-name="Blushing" id="314279315.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
+      <bet jockey-silk="IorAoq" name="Carol" short-name="Carol" id="314279316.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AffAbf" name="Mystical Nelly" short-name="Mystical" id="314279317.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LqdAdd" name="Peak Princess" short-name="Peak Prin" id="314279318.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TepAee" name="Raven's Lady" short-name="Raven's L" id="314279319.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VfqBfo" name="Rickrack" short-name="Rickrack" id="314279320.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ErfGrf" name="Robin's Purse" short-name="Robin's P" id="314279321.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JhkAqq" name="Satpura" short-name="Satpura" id="314279322.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 4f Handicap Chase" eventid="5940383.20" date="20160710" time="1610" meeting="Perth" venue="Perth">
-    <bettype bet-start-date="20160710" bet-start-time="1610" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366246.20">
-      <bet jockey-silk="CqbFqr" name="Gurkha Brave" short-name="Gurkha Br" id="308638967.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HrkArk" name="Run With The Wind" short-name="Run With" id="308638968.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LdqGod" name="Vengeur De Guye" short-name="Vengeur D" id="308638969.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BbmPbb" name="Such A Legend" short-name="Such A Le" id="308638970.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="SbqAqq" name="Vodka Wells" short-name="Vodka Wel" id="308638971.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MqoFfo" name="Wadswick Court" short-name="Wadswick" id="308638972.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MlqVlq" name="Royal Macnab" short-name="Royal Mac" id="308638973.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RfdAff" name="Atlantic Roller" short-name="Atlantic" id="308638974.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JkqAkq" name="Le Grand Chene" short-name="Le Grand" id="308638975.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+  <event name="5f Handicap" eventid="6036506.20" date="20160730" time="1425" meeting="Thirsk" venue="Thirsk">
+    <bettype bet-start-date="20160730" bet-start-time="1425" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436401.20">
+      <bet jockey-silk="AggAgg" name="Poet's Society" short-name="Poet's So" id="314279325.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CjkAjj" name="The Nazca Lines" short-name="The Nazca" id="314279326.20" price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-baAba" name="Wick Powell" short-name="Wick Powe" id="314279327.20" price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JrqGrr" name="Dandy Highwayman" short-name="Dandy Hig" id="314279328.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="FflAfq" name="Carson City" short-name="Carson Ci" id="314279329.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DldHll" name="Major Jumbo" short-name="Major Jum" id="314279330.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="QoqBqo" non-runner="true" non-runner-time="2016-07-30T08:47:45+01:00" name="Trois Bon Amis" short-name="Trois Bon" id="314279331.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m Cond Hcap Hdle" eventid="5940388.20" date="20160710" time="1645" meeting="Perth" venue="Perth">
-    <bettype bet-start-date="20160710" bet-start-time="1645" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366254.20">
-      <bet jockey-silk="SqpVqq" name="Scorpions Sting" short-name="Scorpions" id="308639044.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BdqAdd" name="Ardview Boy" short-name="Ardview B" id="308639045.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ZroAro" name="Marcus Antonius" short-name="Marcus An" id="308639046.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BfrBdf" non-runner="true" non-runner-time="2016-07-10T08:28:28+01:00" name="Civil Unrest" short-name="Civil Unr" id="308639047.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UfqGbf" name="Steady Major" short-name="Steady Ma" id="308639048.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="QpqAqo" name="Thankyou Very Much" short-name="Thankyou" id="308639049.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BqfAqf" name="Young Palm" short-name="Young Pal" id="308639050.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UohAho" name="Green Zone" short-name="Green Zon" id="308639051.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="YofQgf" name="Gunner Lindley" short-name="Gunner Li" id="308639052.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ObqGbb" name="Murtys Delight" short-name="Murtys De" id="308639053.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LorAqo" name="Mrs Grass" short-name="Mrs Grass" id="308639054.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+  <event name="7f Handicap" eventid="6036510.20" date="20160730" time="1600" meeting="Newmarket" venue="Newmarket">
+    <bettype bet-start-date="20160730" bet-start-time="1600" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436410.20">
+      <bet jockey-silk="CfrGrr" name="Fighting Temeraire" short-name="Fighting" id="314279392.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhAqh" name="Take The Helm" short-name="Take The" id="314279393.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MfjAfj" name="Dream Mover" short-name="Dream Mov" id="314279394.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UkoAko" name="Justice Smart" short-name="Justice S" id="314279395.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RhpJhp" name="Silk Cravat" short-name="Silk Crav" id="314279396.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YdrAdd" name="Miss Carbonia" short-name="Miss Carb" id="314279397.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApp" name="Trenches" short-name="Trenches" id="314279398.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m Nat Hunt Flat " eventid="5940393.20" date="20160710" time="1720" meeting="Perth" venue="Perth">
-    <bettype bet-start-date="20160710" bet-start-time="1720" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366264.20">
-      <bet jockey-silk="RpoArr" name="Tyrrell's Succes" short-name="Tyrrell's" id="308639140.20" price="13/8" priceDecimal="2.63" priceUS="162.50" active-price-types="SP,EP" />
-      <bet jockey-silk="XrfArr" name="As The Crow Flies" short-name="As The Cr" id="308639141.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BpqHpq" name="Loud And Clear" short-name="Loud And" id="308639142.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AooHqo" name="Tell The Tale" short-name="Tell The" id="308639143.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AppAqq" name="Bilko's Back" short-name="Bilko's B" id="308639144.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RhkAhh" name="Go Another One" short-name="Go Anothe" id="308639145.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AeeGff" name="Highland Peak" short-name="Highland" id="308639146.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BhdAhh" name="Toberdowney" short-name="Toberdown" id="308639147.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ZkbAbb" non-runner="true" non-runner-time="2016-07-10T08:12:36+01:00" name="Topham Bay" short-name="Topham Ba" id="308639148.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+  <event name="1m 4f Handicap" eventid="6036511.20" date="20160730" time="1500" meeting="Thirsk" venue="Thirsk">
+    <bettype bet-start-date="20160730" bet-start-time="1500" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436411.20">
+      <bet jockey-silk="RhqGhh" name="Odeon" short-name="Odeon" id="314279401.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HrpArp" name="Itlaaq" short-name="Itlaaq" id="314279402.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UkgAkk" name="Hot Spice" short-name="Hot Spice" id="314279403.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChcGch" name="San Quentin" short-name="San Quent" id="314279404.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RpmGmp" name="Correggio" short-name="Correggio" id="314279405.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BplApl" name="Wotabreeze" short-name="Wotabreez" id="314279406.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VprQpp" name="Stoneboat Bill" short-name="Stoneboat" id="314279407.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EmpAmm" name="Monsieur Glory" short-name="Monsieur" id="314279408.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="1m 7 1/2f Hcap Chase" eventid="5940403.20" date="20160710" time="1410" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1410" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366288.20">
-      <bet jockey-silk="LrfGfr" name="Dealing River" short-name="Dealing R" id="308639313.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="XklJkk" non-runner="true" non-runner-time="2016-07-10T08:05:20+01:00" name="Poetic Lord" short-name="Poetic Lo" id="308639314.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ArrRkk" name="Roc De Guye" short-name="Roc De Gu" id="308639315.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RbrRrr" name="Going Nowhere Fast" short-name="Going Now" id="308639316.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HqfRqb" name="Con Forza" short-name="Con Forza" id="308639317.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="WbmGbb" name="Honourable Exit" short-name="Honourabl" id="308639318.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GphHpp" name="Miss Conway" short-name="Miss Conw" id="308639319.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RrbAfr" non-runner="true" non-runner-time="2016-07-10T08:06:22+01:00" name="Sylvan Legend" short-name="Sylvan Le" id="308639320.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BorJoo" name="Yourholidayisover" short-name="Yourholid" id="308639321.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UmkAkm" name="Larkhall" short-name="Larkhall" id="308639322.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PerAee" name="Finch Flyer" short-name="Finch Fly" id="308639323.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+  <event name="7f Handicap" eventid="6036516.20" date="20160730" time="1635" meeting="Newmarket" venue="Newmarket">
+    <bettype bet-start-date="20160730" bet-start-time="1635" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436417.20">
+      <bet jockey-silk="HbgAbb" name="Windfast" short-name="Windfast" id="314279467.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BrdArr" name="Squats" short-name="Squats" id="314279468.20" price="6/4" priceDecimal="2.50" priceUS="150.00" active-price-types="SP,EP" />
+      <bet jockey-silk="WqoHqq" name="Highland Colori" short-name="Highland" id="314279469.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CreGer" non-runner="true" non-runner-time="2016-07-30T09:04:00+01:00" name="Outer Space" short-name="Outer Spa" id="314279470.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApd" name="Above N Beyond" short-name="Above N B" id="314279471.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HkqRkk" name="Oh This Is Us" short-name="Oh This I" id="314279472.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="1m 7 1/2f Novice Chase " eventid="5940408.20" date="20160710" time="1440" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1440" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366302.20">
-      <bet jockey-silk="JdrFdd" non-runner="true" non-runner-time="2016-07-10T08:45:09+01:00" name="Mixboy" short-name="Mixboy" id="308639396.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RkkAkk" name="Mr Elevator" short-name="Mr Elevat" id="308639397.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HfrAfq" name="Saint Charles" short-name="Saint Cha" id="308639398.20" price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UblAbb" name="Swansea Mile" short-name="Swansea M" id="308639399.20" price="8/11" priceDecimal="1.73" priceUS="-72.73" active-price-types="SP,EP" />
-      <bet jockey-silk="XdaAda" non-runner="true" non-runner-time="2016-07-10T08:44:46+01:00" name="Upsanddowns" short-name="Upsanddow" id="308639402.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+  <event name="7f Handicap" eventid="6036517.20" date="20160730" time="1535" meeting="Thirsk" venue="Thirsk">
+    <bettype bet-start-date="20160730" bet-start-time="1535" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436418.20">
+      <bet jockey-silk="BbqHob" name="George Cinq" short-name="George Ci" id="314279475.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ArrArr" non-runner="true" non-runner-time="2016-07-30T08:29:54+01:00" name="Exchequer" short-name="Exchequer" id="314279476.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="PjqPqj" name="Steel Train" short-name="Steel Tra" id="314279477.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RhpJhp" name="Bertiewhittle" short-name="Bertiewhi" id="314279478.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TkqHkk" name="Muntadab" short-name="Muntadab" id="314279479.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KkaAkk" name="He's No Saint" short-name="He's No S" id="314279480.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ArrVpr" non-runner="true" non-runner-time="2016-07-30T08:53:22+01:00" name="Alejandro" short-name="Alejandro" id="314279481.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JrqGrr" name="Sakhee's Return" short-name="Sakhee's" id="314279482.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TdqPdd" name="Kalk Bay" short-name="Kalk Bay" id="314279483.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BaoGao" name="Ocean Sheridan" short-name="Ocean She" id="314279484.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="FoqAgg" name="Slemy" short-name="Slemy" id="314279485.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BdpAqo" name="Shootingsta" short-name="Shootings" id="314279486.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UboGoo" name="Pumaflor" short-name="Pumaflor" id="314279487.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggAoa" name="Comino" short-name="Comino" id="314279488.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 4 1/2f Nov Selling Hdl" eventid="5940414.20" date="20160710" time="1515" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1515" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366314.20">
-      <bet jockey-silk="AffPrr" name="Nomadic Storm" short-name="Nomadic S" id="308639483.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RhqAhh" name="Be On Time" short-name="Be On Tim" id="308639484.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HflOff" non-runner="true" non-runner-time="2016-07-10T08:53:19+01:00" name="Cry Fury" short-name="Cry Fury" id="308639485.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CcrArr" name="Deise Vu" short-name="Deise Vu" id="308639486.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CjbGqj" non-runner="true" non-runner-time="2016-07-10T08:11:05+01:00" name="Mafate Fortin" short-name="Mafate Fo" id="308639487.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PerAee" name="Porters Lane" short-name="Porters L" id="308639488.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BdhRhh" name="Rocky Two" short-name="Rocky Two" id="308639489.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="TdmFdm" name="R Theveryman" short-name="R Thevery" id="308639490.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JprQpp" name="The Outlaw" short-name="The Outla" id="308639491.20" price="Evs" priceDecimal="2.00" priceUS="100.00" active-price-types="SP,EP" />
-      <bet jockey-silk="EfbAff" non-runner="true" non-runner-time="2016-07-10T08:07:07+01:00" name="Jennifer Anne" short-name="Jennifer" id="308639492.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HbqAoo" name="Shavaughn" short-name="Shavaughn" id="308639493.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+  <event name="1m 4f Handicap" eventid="6036521.20" date="20160730" time="1710" meeting="Newmarket" venue="Newmarket">
+    <bettype bet-start-date="20160730" bet-start-time="1710" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436425.20">
+      <bet jockey-silk="RgdAmg" name="Knight Music" short-name="Knight Mu" id="314279527.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="SdmAmm" non-runner="true" non-runner-time="2016-07-30T07:57:14+01:00" name="Jacob Cats" short-name="Jacob Cat" id="314279528.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VpqXpq" name="Rydan" short-name="Rydan" id="314279529.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ObfAff" name="Al" short-name="Al" id="314279530.20" price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MapApp" name="Slunovrat" short-name="Slunovrat" id="314279531.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ForQor" name="Dolphin Village" short-name="Dolphin V" id="314279532.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YdqVdd" name="Brandon Castle" short-name="Brandon C" id="314279533.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UjrXej" non-runner="true" non-runner-time="2016-07-30T07:55:55+01:00" name="Duke Of Diamonds" short-name="Duke Of D" id="314279534.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="3m Handicap Hurdle" eventid="5940419.20" date="20160710" time="1550" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1550" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366326.20">
-      <bet jockey-silk="HfrAfq" name="Mountain Tunes" short-name="Mountain" id="308639578.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
-      <bet jockey-silk="QqhFqq" name="Pink Coat" short-name="Pink Coat" id="308639581.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HqfRqb" name="Church Field" short-name="Church Fi" id="308639584.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
-      <bet jockey-silk="XdrGrd" name="Harristown" short-name="Harristow" id="308639586.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ZrpOrr" non-runner="true" non-runner-time="2016-07-10T10:25:11+01:00" name="Taigan" short-name="Taigan" id="308639587.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CeoGoe" non-runner="true" non-runner-time="2016-07-10T09:18:55+01:00" name="Garnock" short-name="Garnock" id="308639589.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MbaGbb" name="River Of Intrigue" short-name="River Of" id="308639591.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AooGpo" name="Man Of Plenty" short-name="Man Of Pl" id="308639592.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JobPqb" non-runner="true" non-runner-time="2016-07-10T08:09:01+01:00" name="King Boru" short-name="King Boru" id="308639593.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+  <event name="1m Handicap" eventid="6036525.20" date="20160730" time="1610" meeting="Thirsk" venue="Thirsk">
+    <bettype bet-start-date="20160730" bet-start-time="1610" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436433.20">
+      <bet jockey-silk="RdrXdd" name="Silvery Moon" short-name="Silvery M" id="314279584.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BrdVdr" name="Wilde Inspiration" short-name="Wilde Ins" id="314279585.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqQqq" non-runner="true" non-runner-time="2016-07-30T09:43:52+01:00" name="Mont Ras" short-name="Mont Ras" id="314279587.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BqbRqq" non-runner="true" non-runner-time="2016-07-30T07:59:39+01:00" name="Raising Sand" short-name="Raising S" id="314279588.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqoQqq" name="Rousayan" short-name="Rousayan" id="314279589.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UbpAbb" name="Altharoos" short-name="Altharoos" id="314279590.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhh" name="Hard To Handel" short-name="Hard To H" id="314279591.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BacGac" name="Abushamah" short-name="Abushamah" id="314279592.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ArrArr" non-runner="true" non-runner-time="2016-07-30T08:29:18+01:00" name="Muhaafiz" short-name="Muhaafiz" id="314279593.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JjgAjj" name="Bluegrass Blues" short-name="Bluegrass" id="314279594.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BprQpo" name="Ingleby Angel" short-name="Ingleby A" id="314279595.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="XoeJoo" name="Ginger Jack" short-name="Ginger Ja" id="314279596.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TprOpp" name="Bahama Moon" short-name="Bahama Mo" id="314279597.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="NikAii" name="Strong Man" short-name="Strong Ma" id="314279598.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooAqp" name="Beardwood" short-name="Beardwood" id="314279599.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RopAoo" name="Boots And Spurs" short-name="Boots And" id="314279600.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DgoGgo" name="Hidden Rebel" short-name="Hidden Re" id="314279601.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 4 1/2f Hcap Hurdle" eventid="5940424.20" date="20160710" time="1620" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1620" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366344.20">
-      <bet jockey-silk="AggAob" name="Promanco" short-name="Promanco" id="308639666.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LlkAll" name="Ballinure" short-name="Ballinure" id="308639668.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LchGhh" name="Ruaraidh Hugh" short-name="Ruaraidh" id="308639671.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KorAcr" name="Vaillant Creek" short-name="Vaillant" id="308639673.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HfrAfq" name="Set In My Ways" short-name="Set In My" id="308639675.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PlbPll" name="Charlie Breekie" short-name="Charlie B" id="308639677.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
-      <bet jockey-silk="DroRor" name="Viva Rafa" short-name="Viva Rafa" id="308639679.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LfbArr" name="Mr Mcguiness" short-name="Mr Mcguin" id="308639680.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+  <event name="6f Handicap" eventid="6036529.20" date="20160730" time="1745" meeting="Newmarket" venue="Newmarket">
+    <bettype bet-start-date="20160730" bet-start-time="1745" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436438.20">
+      <bet jockey-silk="OboAob" name="Valbchek" short-name="Valbchek" id="314279638.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="NkoRbp" name="Realize" short-name="Realize" id="314279639.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AllRlb" name="Flowers On Venus" short-name="Flowers O" id="314279640.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BboXbo" name="Cartmell Cleave" short-name="Cartmell" id="314279641.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApp" name="Strong Challenge" short-name="Strong Ch" id="314279642.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqmGqm" name="Crew Cut" short-name="Crew Cut" id="314279643.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CpqApp" name="Aleef" short-name="Aleef" id="314279644.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TkqGkq" name="Edward Lewis" short-name="Edward Le" id="314279645.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqmAqq" name="Ejbaar" short-name="Ejbaar" id="314279646.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YdqVdd" name="Amood" short-name="Amood" id="314279647.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LirGii" name="Quick Look" short-name="Quick Loo" id="314279648.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="3m Handicap Hurdle" eventid="5940428.20" date="20160710" time="1655" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1655" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366353.20">
-      <bet jockey-silk="ArrJqr" name="Le Legro" short-name="Le Legro" id="308639728.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HqfRqb" name="Tales Of Milan" short-name="Tales Of" id="308639729.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="XmqAmq" name="Paloma's Prince" short-name="Paloma's" id="308639730.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RekAee" name="Amber Flush" short-name="Amber Flu" id="308639731.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="DhlAhh" name="Keep Up" short-name="Keep Up" id="308639732.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ZoqGor" name="Midnight Appeal" short-name="Midnight" id="308639733.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KdiAdk" non-runner="true" non-runner-time="2016-07-10T08:08:30+01:00" name="Strollawaynow" short-name="Strollawa" id="308639735.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UdqRoo" name="King's Song" short-name="King's So" id="308639736.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AppFpq" non-runner="true" non-runner-time="2016-07-10T08:12:15+01:00" name="Grey Messenger" short-name="Grey Mess" id="308639737.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KemAee" name="Be A Dreamer" short-name="Be A Drea" id="308639740.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UglAcg" name="It's Oscar" short-name="It's Osca" id="308639744.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HbqAoo" name="Definite Ridge" short-name="Definite" id="308639746.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LfbArr" name="Irish Octave" short-name="Irish Oct" id="308639748.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+  <event name="1m Maiden Stakes" eventid="6036531.20" date="20160730" time="1645" meeting="Thirsk" venue="Thirsk">
+    <bettype bet-start-date="20160730" bet-start-time="1645" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436440.20">
+      <bet jockey-silk="VlhQhh" name="Royal Acclaim" short-name="Royal Acc" id="314279661.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AffHfb" name="Southern Strife" short-name="Southern" id="314279662.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UblAbb" name="Come Back King" short-name="Come Back" id="314279663.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CpqApp" name="Ehtiraas" short-name="Ehtiraas" id="314279664.20" price="2/5" priceDecimal="1.40" priceUS="-40.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UkoGkk" name="Frankster" short-name="Frankster" id="314279665.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VqdQqq" name="Kharbetation" short-name="Kharbetat" id="314279666.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="GjeAjj" name="Old China" short-name="Old China" id="314279667.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DbfAbo" name="Percy Verence" short-name="Percy Ver" id="314279668.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KkrAkk" name="Westward Ho" short-name="Westward" id="314279669.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VoeHoo" name="Fearless Poppy" short-name="Fearless" id="314279670.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="3m Handicap Hurdle" eventid="5940437.20" date="20160710" time="1730" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1730" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366370.20">
-      <bet jockey-silk="CroAqr" name="Unknown Legend" short-name="Unknown L" id="308639868.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="OqoXqq" non-runner="true" non-runner-time="2016-07-10T08:40:38+01:00" name="Lords Park Star" short-name="Lords Par" id="308639869.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BfpApf" name="Pretty Rose" short-name="Pretty Ro" id="308639870.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FbqAbm" name="Bold Adventure" short-name="Bold Adve" id="308639871.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RkkAkk" name="Scoppio Del Carro" short-name="Scoppio D" id="308639873.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JfrGrf" non-runner="true" non-runner-time="2016-07-10T08:29:36+01:00" name="Shaiyzar" short-name="Shaiyzar" id="308639874.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RqkAqq" name="Princess Tiana" short-name="Princess" id="308639875.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AooGpo" name="Mart Lane" short-name="Mart Lane" id="308639876.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CjbGqj" non-runner="true" non-runner-time="2016-07-10T08:11:41+01:00" name="French Seventyfive" short-name="French Se" id="308639877.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
-      <bet jockey-silk="NdrAdl" name="Clara Peggotty" short-name="Clara Peg" id="308639878.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="SakAaa" name="Band Of Thunder" short-name="Band Of T" id="308639879.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KpqApp" non-runner="true" non-runner-time="2016-07-10T09:31:13+01:00" name="Wymeswold" short-name="Wymeswold" id="308639880.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LrmArr" name="Gwili Spar" short-name="Gwili Spa" id="308639881.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+  <event name="6f Handicap" eventid="6036535.20" date="20160730" time="1720" meeting="Thirsk" venue="Thirsk">
+    <bettype bet-start-date="20160730" bet-start-time="1720" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436446.20">
+      <bet jockey-silk="BicAic" name="Pomme De Terre" short-name="Pomme De" id="314279706.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ObmGmb" name="Duke Cosimo" short-name="Duke Cosi" id="314279708.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="WqoHqq" name="Highland Acclaim" short-name="Highland" id="314279710.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AbbGrb" name="Tiger Jim" short-name="Tiger Jim" id="314279713.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UrfApo" non-runner="true" non-runner-time="2016-07-30T10:28:33+01:00" name="Love Island" short-name="Love Isla" id="314279714.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KkfGkf" name="Adam's Ale" short-name="Adam's Al" id="314279715.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DldHll" name="Bapak Asmara" short-name="Bapak Asm" id="314279718.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OkqAkk" name="Harwoods Volante" short-name="Harwoods" id="314279720.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CkqAqk" name="Pea Shooter" short-name="Pea Shoot" id="314279721.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DqjFqh" name="Compton Park" short-name="Compton P" id="314279722.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BacGac" name="Cosmic Chatter" short-name="Cosmic Ch" id="314279724.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqkGqk" name="Mappin Time" short-name="Mappin Ti" id="314279726.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OpqOqp" name="Gin In The Inn" short-name="Gin In Th" id="314279728.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JdrJdd" name="Whozthecat" short-name="Whoztheca" id="314279730.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="1m 7 1/2f Mares NH Flat" eventid="5940441.20" date="20160710" time="1800" meeting="Southwell" venue="Southwell">
-    <bettype bet-start-date="20160710" bet-start-time="1800" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366384.20">
-      <bet jockey-silk="RdqAdd" name="Book At Bedtime" short-name="Book At B" id="308639942.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GjpAbl" non-runner="true" non-runner-time="2016-07-10T08:09:44+01:00" name="Lady Cardinal" short-name="Lady Card" id="308639943.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AffGqf" name="Lovetohuntgold" short-name="Lovetohun" id="308639944.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LdqAod" name="Midnight Monarch" short-name="Midnight" id="308639945.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FbmHbb" name="Midnight Queen" short-name="Midnight" id="308639946.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UqbFqq" name="Pearly Heights" short-name="Pearly He" id="308639947.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BjqAjj" name="Alice Of Glevum" short-name="Alice Of" id="308639948.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BfrRff" name="Gvs Irportensa" short-name="Gvs Irpor" id="308639949.20" price="10/11" priceDecimal="1.91" priceUS="-90.91" active-price-types="SP,EP" />
-      <bet jockey-silk="-prHpr" name="Inner Loop" short-name="Inner Loo" id="308639950.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AooRfq" name="Lady Valerie" short-name="Lady Vale" id="308639951.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+  <event name="5f Handicap" eventid="6036560.20" date="20160730" time="1345" meeting="Doncaster" venue="Doncaster">
+    <bettype bet-start-date="20160730" bet-start-time="1345" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436643.20">
+      <bet jockey-silk="XoqJoo" name="Dyllan" short-name="Dyllan" id="314280676.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZfpAfp" name="Twentysvnthlancers" short-name="Twentysvn" id="314280690.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhh" name="Noah Amor" short-name="Noah Amor" id="314280693.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BqoRqq" name="Lady Joanna Vassa" short-name="Lady Joan" id="314280700.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JfrAoo" name="Chandresh" short-name="Chandresh" id="314280703.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqGff" name="Showbizzy" short-name="Showbizzy" id="314280707.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AkkRkk" name="Chip Or Pellet" short-name="Chip Or P" id="314280710.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AbbQbb" name="Divasesque" short-name="Divasesqu" id="314280715.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 1/2f Juvenile Hurdle " eventid="5940517.20" date="20160710" time="1420" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1420" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366572.20">
-      <bet jockey-silk="UdrOdr" name="Callaghan" short-name="Callaghan" id="308641175.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UqdQqo" name="Citadel" short-name="Citadel" id="308641176.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="DbmVbb" non-runner="true" non-runner-time="2016-07-10T09:06:52+01:00" name="G'day Aussie" short-name="G'day Aus" id="308641177.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AffAee" name="Invocation" short-name="Invocatio" id="308641178.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AhhRdd" name="Jazzy" short-name="Jazzy" id="308641179.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="-bqXbb" name="Masterson" short-name="Masterson" id="308641180.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PrlAqr" name="Schoolboy Error" short-name="Schoolboy" id="308641181.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AllAll" name="Trespassed" short-name="Trespasse" id="308641182.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RoeAqo" non-runner="true" non-runner-time="2016-07-10T09:05:56+01:00" name="Yensir" short-name="Yensir" id="308641183.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RhfAhh" name="Chesham Rose" short-name="Chesham R" id="308641184.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UmjAmm" name="Itsamysterytome" short-name="Itsamyste" id="308641185.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RmkGmm" name="Khismet" short-name="Khismet" id="308641186.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+  <event name="7f Maiden Auction Stakes" eventid="6036576.20" date="20160730" time="1420" meeting="Doncaster" venue="Doncaster">
+    <bettype bet-start-date="20160730" bet-start-time="1420" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436796.20">
+      <bet jockey-silk="AkkAhh" name="Armagnac" short-name="Armagnac" id="314281379.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EmpAmm" name="Glorious Rocket" short-name="Glorious" id="314281381.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RofAfo" name="Masterofdiscovery" short-name="Masterofd" id="314281384.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ArrArr" name="Trading Punches" short-name="Trading P" id="314281387.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YqpQqp" name="Western Duke" short-name="Western D" id="314281388.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhJqh" name="Chalieb" short-name="Chalieb" id="314281390.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhh" name="Right Action" short-name="Right Act" id="314281392.20" price="15/8" priceDecimal="2.88" priceUS="187.50" active-price-types="SP,EP" />
+      <bet jockey-silk="AppFpq" name="Trooper's Gold" short-name="Trooper's" id="314281395.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AbbRbb" name="Charlie Rascal" short-name="Charlie R" id="314281397.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="GrhAhj" name="Prince Of Clappers" short-name="Prince Of" id="314281399.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RjkRqj" non-runner="true" non-runner-time="2016-07-30T11:35:30+01:00" name="Where's Stewart" short-name="Where's S" id="314281400.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UdlAdd" name="Carducci" short-name="Carducci" id="314281402.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AkkAkk" name="Pantera Negra" short-name="Pantera N" id="314281404.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 6 1/2f Hcap Chase" eventid="5940526.20" date="20160710" time="1450" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1450" ewreduction="4" ewplaceterms="4" eachway="1/4 Odds Place 1,2,3,4" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366588.20">
-      <bet jockey-silk="JrdXrr" name="Tara Mac" short-name="Tara Mac" id="308641315.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LfbArr" name="Adios Alonso" short-name="Adios Alo" id="308641318.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JdmOdd" name="Shady Glen" short-name="Shady Gle" id="308641320.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LbrRrb" name="Breezy Kin" short-name="Breezy Ki" id="308641322.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MjhRhj" name="Spanish Optimist" short-name="Spanish O" id="308641324.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GjqHjq" name="Fort Gabriel" short-name="Fort Gabr" id="308641325.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BfoHff" name="Detour Ahead" short-name="Detour Ah" id="308641327.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CqoGqo" name="Present Accepted" short-name="Present A" id="308641329.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HhqGhh" name="Mr Robinson" short-name="Mr Robins" id="308641331.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PmcAmm" name="Brave Encounter" short-name="Brave Enc" id="308641333.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UbjFbb" name="Louis Phillipe" short-name="Louis Phi" id="308641335.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GqkAkq" name="Haughtons Bridge" short-name="Haughtons" id="308641337.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="XfrRrf" name="Miss Dimples" short-name="Miss Dimp" id="308641338.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KcrArc" name="Midnight Whisper" short-name="Midnight" id="308641341.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="VlcAlc" name="American World" short-name="American" id="308641342.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JprRpp" name="Shabach" short-name="Shabach" id="308641344.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+  <event name="1m 2 1/2f Maiden Stakes" eventid="6036588.20" date="20160730" time="1455" meeting="Doncaster" venue="Doncaster">
+    <bettype bet-start-date="20160730" bet-start-time="1455" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436929.20">
+      <bet jockey-silk="LdhFdq" name="Acrux" short-name="Acrux" id="314281948.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-glAgj" name="El Vip" short-name="El Vip" id="314281949.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="IbqBbo" name="Foible" short-name="Foible" id="314281950.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MrpArp" non-runner="true" non-runner-time="2016-07-30T08:55:38+01:00" name="Rasmee" short-name="Rasmee" id="314281951.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RobAoo" name="Stratum" short-name="Stratum" id="314281952.20" price="5/6" priceDecimal="1.83" priceUS="-83.33" active-price-types="SP,EP" />
+      <bet jockey-silk="QkqAkq" name="Togetherness" short-name="Togethern" id="314281953.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="NhmAhh" name="Twobeelucky" short-name="Twobeeluc" id="314281954.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CmoAql" name="Notion Of Beauty" short-name="Notion Of" id="314281955.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 1/2f Handicap Hurdle" eventid="5940533.20" date="20160710" time="1525" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1525" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366602.20">
-      <bet jockey-silk="RqkGqq" name="Kapstadt" short-name="Kapstadt" id="308641439.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
-      <bet jockey-silk="QrpApr" name="Perspicace" short-name="Perspicac" id="308641440.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FdkGdd" name="Mighty Missile" short-name="Mighty Mi" id="308641442.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HpoApp" name="Closest Friend" short-name="Closest F" id="308641443.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RdkAdd" name="Billbushay" short-name="Billbusha" id="308641445.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HfrAfq" name="I'dliketheoption" short-name="I'dliketh" id="308641447.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JbaAbb" name="Honey Pound" short-name="Honey Pou" id="308641449.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CpqJqp" name="Brotherly Company" short-name="Brotherly" id="308641450.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AkkVkk" name="Instant Karma" short-name="Instant K" id="308641451.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HdhFdd" name="Sir Dylan" short-name="Sir Dylan" id="308641452.20" price="22/1" priceDecimal="23.00" priceUS="2200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UdqRoo" name="Deauville Dancer" short-name="Deauville" id="308641453.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+  <event name="6f Handicap" eventid="6036590.20" date="20160730" time="1400" meeting="Goodwood" venue="Goodwood">
+    <bettype bet-start-date="20160730" bet-start-time="1400" ewreduction="4" ewplaceterms="5" eachway="1/4 Odds Place 1,2,3,4,5" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436941.20">
+      <bet jockey-silk="BphJhd" name="Seeking Magic" short-name="Seeking M" id="314281983.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqAqb" name="Shamshon" short-name="Shamshon" id="314281984.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LmbRmm" name="Hoof It" short-name="Hoof It" id="314281985.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AddFdd" name="Iseemist" short-name="Iseemist" id="314281986.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqGqd" name="Projection" short-name="Projectio" id="314281987.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MjqXjj" name="Soie D'leau" short-name="Soie D'le" id="314281988.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AllRlb" name="Dougan" short-name="Dougan" id="314281989.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HdmGdm" name="Charles Molson" short-name="Charles M" id="314281990.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BqbRqq" name="Nuno Tristan" short-name="Nuno Tris" id="314281991.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CfbGbf" name="Gamesome" short-name="Gamesome" id="314281992.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AffFff" name="Muir Lodge" short-name="Muir Lodg" id="314281993.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqFqd" name="Related" short-name="Related" id="314281994.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BdqGbd" name="Elysian Flyer" short-name="Elysian F" id="314281995.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BmbFmm" name="Fast Track" short-name="Fast Trac" id="314281996.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AffRfq" name="Mukaynis" short-name="Mukaynis" id="314281997.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BohBpp" name="Misterioso" short-name="Misterios" id="314281998.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CpqOpp" name="El Viento" short-name="El Viento" id="314281999.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RkkAkk" name="Handsome Dude" short-name="Handsome" id="314282000.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OpqOqp" name="Grandad's World" short-name="Grandad's" id="314282001.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhh" name="Ballymore Castle" short-name="Ballymore" id="314282002.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="IroJbr" name="Lightning Charlie" short-name="Lightning" id="314282003.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CrhArr" name="Cool Bahamian" short-name="Cool Baha" id="314282008.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MrkJrk" name="Barnet Fair" short-name="Barnet Fa" id="314282010.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="QmgFgm" name="Secret Missile" short-name="Secret Mi" id="314282012.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZqkArr" name="Classic Seniority" short-name="Classic S" id="314282014.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JhrAhh" name="Stellarta" short-name="Stellarta" id="314282016.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AbbGbb" name="Extrasolar" short-name="Extrasola" id="314282018.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AkkQkk" name="Fairway To Heaven" short-name="Fairway T" id="314282019.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 3 1/2f Hcap Chase" eventid="5940540.20" date="20160710" time="1600" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1600" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366618.20">
-      <bet jockey-silk="OorGbo" name="On Alberts Head" short-name="On Albert" id="308641540.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
-      <bet jockey-silk="KljAll" name="Faith Jicaro" short-name="Faith Jic" id="308641541.20" price="17/2" priceDecimal="9.50" priceUS="850.00" active-price-types="SP,EP" />
-      <bet jockey-silk="VlcAlc" name="Spock" short-name="Spock" id="308641542.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="NbqFbl" name="Badgers Retreat" short-name="Badgers R" id="308641543.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ZdhAhh" name="Whos De Baby" short-name="Whos De B" id="308641544.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PhoPhh" name="King Of Milan" short-name="King Of M" id="308641545.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AppFiq" name="Loukhaar" short-name="Loukhaar" id="308641546.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FbmHbb" name="Show's Over" short-name="Show's Ov" id="308641547.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="CrkArr" name="Sitting Back" short-name="Sitting B" id="308641548.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="EchAcc" name="Mount Vesuvius" short-name="Mount Ves" id="308641549.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MqhJqh" name="Accessallareas" short-name="Accessall" id="308641550.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="QpqApq" name="Zero Visibility" short-name="Zero Visi" id="308641551.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+  <event name="1m 2 1/2f Handicap" eventid="6036596.20" date="20160730" time="1530" meeting="Doncaster" venue="Doncaster">
+    <bettype bet-start-date="20160730" bet-start-time="1530" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436950.20">
+      <bet jockey-silk="AppApq" name="Oceanographer" short-name="Oceanogra" id="314282069.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AaaGad" name="Hit The Jackpot" short-name="Hit The J" id="314282072.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DfrAfr" name="Scrutinise" short-name="Scrutinis" id="314282074.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApp" name="Flight Officer" short-name="Flight Of" id="314282076.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqpRpp" name="Swift Emperor" short-name="Swift Emp" id="314282078.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="FhqGqh" name="Karraar" short-name="Karraar" id="314282082.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AaaApp" name="Laurence" short-name="Laurence" id="314282083.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 1f Handicap Chase" eventid="5940546.20" date="20160710" time="1630" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1630" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366627.20">
-      <bet jockey-silk="ZldAll" name="Sharp Rise" short-name="Sharp Ris" id="308641605.20" price="10/3" priceDecimal="4.33" priceUS="333.33" active-price-types="SP,EP" />
-      <bet jockey-silk="RfdAff" name="Fair Dilemma" short-name="Fair Dile" id="308641606.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GehAjh" name="Parsnip Pete" short-name="Parsnip P" id="308641607.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
-      <bet jockey-silk="EmbFqb" name="Purple 'n Gold" short-name="Purple 'n" id="308641608.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
-      <bet jockey-silk="PmcAmm" name="Un Beau Roman" short-name="Un Beau R" id="308641609.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="UdqRoo" name="Roman Flight" short-name="Roman Fli" id="308641610.20" price="11/4" priceDecimal="3.75" priceUS="275.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FpqQqp" name="Walden Prince" short-name="Walden Pr" id="308641611.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AddApp" name="Lightening Rod" short-name="Lightenin" id="308641612.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+  <event name="1m 4f Handicap" eventid="6036600.20" date="20160730" time="1435" meeting="Goodwood" venue="Goodwood">
+    <bettype bet-start-date="20160730" bet-start-time="1435" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436963.20">
+      <bet jockey-silk="AppApp" name="Move Up" short-name="Move Up" id="314282145.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AllAll" name="Dal Harraild" short-name="Dal Harra" id="314282146.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KqoAqo" name="Knights Table" short-name="Knights T" id="314282149.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UkiRkk" name="Wall of Fire" short-name="Wall of F" id="314282150.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooAqp" name="Soldier In Action" short-name="Soldier I" id="314282152.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggAgg" name="Beaverbrook" short-name="Beaverbro" id="314282154.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DoqFoo" name="Shabbah" short-name="Shabbah" id="314282156.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-glAgj" name="Shraaoh" short-name="Shraaoh" id="314282158.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqAqj" non-runner="true" non-runner-time="2016-07-30T08:42:00+01:00" name="Paris Protocol" short-name="Paris Pro" id="314282160.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AaaAql" non-runner="true" non-runner-time="2016-07-30T09:47:42+01:00" name="White Shaheen" short-name="White Sha" id="314282162.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="FflFff" name="Emperor Napoleon" short-name="Emperor N" id="314282163.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhGhd" non-runner="true" non-runner-time="2016-07-30T10:53:20+01:00" name="Regal Monarch" short-name="Regal Mon" id="314282165.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="QloAll" name="Gold Faith" short-name="Gold Fait" id="314282168.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RfoOof" non-runner="true" non-runner-time="2016-07-30T09:01:56+01:00" name="Danehill Kodiac" short-name="Danehill" id="314282171.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LrpVpp" name="Master Blueyes" short-name="Master Bl" id="314282172.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CpqApp" name="Jaameh" short-name="Jaameh" id="314282175.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 1/2f Nh Novice Hdle" eventid="5940549.20" date="20160710" time="1705" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1705" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366631.20">
-      <bet jockey-silk="SbmJmb" name="Avispa" short-name="Avispa" id="308641652.20" price="6/4" priceDecimal="2.50" priceUS="150.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GofAqq" name="Crown Hill" short-name="Crown Hil" id="308641653.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RmkGmm" name="Hahnenkam" short-name="Hahnenkam" id="308641654.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="QmcAmm" name="Silent Account" short-name="Silent Ac" id="308641655.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="HfrAfq" name="Stamp Your Feet" short-name="Stamp You" id="308641656.20" price="11/8" priceDecimal="2.38" priceUS="137.50" active-price-types="SP,EP" />
-      <bet jockey-silk="HobObb" non-runner="true" non-runner-time="2016-07-10T09:48:10+01:00" name="Ourcrazyanne" short-name="Ourcrazya" id="308641657.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="XqpGpq" name="Prettylittlething" short-name="Prettylit" id="308641658.20" price="18/1" priceDecimal="19.00" priceUS="1800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JifAii" name="Sprogzilla" short-name="Sprogzill" id="308641659.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+  <event name="1m 4f Handicap" eventid="6036604.20" date="20160730" time="1605" meeting="Doncaster" venue="Doncaster">
+    <bettype bet-start-date="20160730" bet-start-time="1605" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436971.20">
+      <bet jockey-silk="CpoApp" name="Cape Cova" short-name="Cape Cova" id="314282198.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-klAob" name="Daphne" short-name="Daphne" id="314282199.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YobAob" name="Pumblechook" short-name="Pumblecho" id="314282200.20" price="3/1" priceDecimal="4.00" priceUS="300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RdgAdd" name="Diamond Geyser" short-name="Diamond G" id="314282202.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OmbAmm" non-runner="true" non-runner-time="2016-07-30T10:43:25+01:00" name="Rasasee" short-name="Rasasee" id="314282203.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggGgm" name="Michael's Mount" short-name="Michael's" id="314282205.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 2 1/2f Cond Hcap Hdl" eventid="5940553.20" date="20160710" time="1740" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1740" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366644.20">
-      <bet jockey-silk="GfoQff" name="The Kvilleken" short-name="The Kvill" id="308641719.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ZmkGmm" name="Black Iceman" short-name="Black Ice" id="308641720.20" price="22/1" priceDecimal="23.00" priceUS="2200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FdkGdd" name="Deserter" short-name="Deserter" id="308641721.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="IpqHop" name="Moveable Asset" short-name="Moveable" id="308641722.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LkaVkk" name="Virgil Earp" short-name="Virgil Ea" id="308641729.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
-      <bet jockey-silk="OjhAjj" name="Descaro" short-name="Descaro" id="308641731.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="RbrRrr" name="Taste The Wine" short-name="Taste The" id="308641732.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
-      <bet jockey-silk="OoqAqo" name="Mollyow" short-name="Mollyow" id="308641740.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MjrFjj" name="Rolling Dough" short-name="Rolling D" id="308641741.20" price="17/2" priceDecimal="9.50" priceUS="850.00" active-price-types="SP,EP" />
-      <bet jockey-silk="GkfAkq" name="Mexican Border" short-name="Mexican B" id="308641744.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ChoAdo" name="Razzle Dazzle 'em" short-name="Razzle Da" id="308641750.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+  <event name="1m 2f Fillies &amp; Mares" eventid="6036608.20" date="20160730" time="1510" meeting="Goodwood" venue="Goodwood">
+    <bettype bet-start-date="20160730" bet-start-time="1510" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436977.20">
+      <bet jockey-silk="AppApp" name="Beautiful Romance" short-name="Beautiful" id="314282258.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-glAgj" name="Jemayel" short-name="Jemayel" id="314282259.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BkqFkk" name="Minding" short-name="Minding" id="314282260.20" price="1/4" priceDecimal="1.25" priceUS="-25.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KoqAop" name="Queen's Trust" short-name="Queen's T" id="314282261.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KimAqm" name="Swiss Range" short-name="Swiss Ran" id="314282262.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
     </bettype>
   </event>
-  <event name="2m 2 1/2f Cond Hcap Hdl" eventid="5940556.20" date="20160710" time="1810" meeting="Stratford" venue="Stratford">
-    <bettype bet-start-date="20160710" bet-start-time="1810" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="34366656.20">
-      <bet jockey-silk="DhdAdh" name="Tiradia" short-name="Tiradia" id="308641935.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
-      <bet jockey-silk="LdrRdd" name="Lady Persephone" short-name="Lady Pers" id="308641936.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
-      <bet jockey-silk="ArrFrr" name="Alottarain" short-name="Alottarai" id="308641937.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
-      <bet jockey-silk="JhoHhq" name="Midtech Star" short-name="Midtech S" id="308641938.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
-      <bet jockey-silk="AbbQbb" name="Polo Springs" short-name="Polo Spri" id="308641939.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
-      <bet jockey-silk="QdqJqd" name="Distant Sound" short-name="Distant S" id="308641940.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
-      <bet jockey-silk="BmgPmm" name="Bondi Mist" short-name="Bondi Mis" id="308641941.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
-      <bet jockey-silk="FdqOdd" name="Milan Of Crystal" short-name="Milan Of" id="308641942.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
-      <bet jockey-silk="TqbHdb" name="Junior Package" short-name="Junior Pa" id="308641943.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MpqRqq" name="Academy General" short-name="Academy G" id="308641944.20" price="18/1" priceDecimal="19.00" priceUS="1800.00" active-price-types="SP,EP" />
-      <bet jockey-silk="MjbGjj" name="Ginjo" short-name="Ginjo" id="308641945.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+  <event name="6f Conditions Stakes" eventid="6036610.20" date="20160730" time="1640" meeting="Doncaster" venue="Doncaster">
+    <bettype bet-start-date="20160730" bet-start-time="1640" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436984.20">
+      <bet jockey-silk="-nlAnl" name="Strath Burn" short-name="Strath Bu" id="314282312.20" price="6/4" priceDecimal="2.50" priceUS="150.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhh" name="Burnt Sugar" short-name="Burnt Sug" id="314282313.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhl" name="Naadirr" short-name="Naadirr" id="314282314.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="WqoHqq" name="Out Do" short-name="Out Do" id="314282315.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UroAfo" name="Pipers Note" short-name="Pipers No" id="314282316.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="6f Handicap" eventid="6036615.20" date="20160730" time="1545" meeting="Goodwood" venue="Goodwood">
+    <bettype bet-start-date="20160730" bet-start-time="1545" ewreduction="4" ewplaceterms="5" eachway="1/4 Odds Place 1,2,3,4,5" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436996.20">
+      <bet jockey-silk="AppApp" name="Baccarat" short-name="Baccarat" id="314282374.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-hqAhh" name="Ridge Ranger" short-name="Ridge Ran" id="314282375.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="WboBbb" name="G Force" short-name="G Force" id="314282376.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqXqe" name="Kimberella" short-name="Kimberell" id="314282377.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EpqAph" name="Orion's Bow" short-name="Orion's B" id="314282378.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="GoqGoq" name="Jamesie" short-name="Jamesie" id="314282379.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LmiAqi" name="Alben Star" short-name="Alben Sta" id="314282380.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AeeRee" name="Toofi" short-name="Toofi" id="314282381.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CrkRrk" name="Poyle Vinnie" short-name="Poyle Vin" id="314282382.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CghAgh" non-runner="true" non-runner-time="2016-07-30T08:40:20+01:00" name="Clear Spring" short-name="Clear Spr" id="314282383.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqFqd" name="Ninjago" short-name="Ninjago" id="314282384.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VrkQrr" name="Dinkum Diamond" short-name="Dinkum Di" id="314282385.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DprGrp" name="Moonraker" short-name="Moonraker" id="314282386.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LmbRmm" name="Hoofalong" short-name="Hoofalong" id="314282387.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KmkAkm" name="Rivellino" short-name="Rivellino" id="314282388.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MgqFqo" name="Duke Of Firenze" short-name="Duke Of F" id="314282389.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UgaRgg" name="Growl" short-name="Growl" id="314282390.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LogJoo" name="Spring Loaded" short-name="Spring Lo" id="314282391.20" price="28/1" priceDecimal="29.00" priceUS="2800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooRoo" name="Red Pike" short-name="Red Pike" id="314282392.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HbqAbp" name="Blaine" short-name="Blaine" id="314282393.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TepAee" name="Sir Robert Cheval" short-name="Sir Rober" id="314282394.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhh" name="Swift Approval" short-name="Swift App" id="314282395.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-nlAnl" name="Suzi's Connoisseur" short-name="Suzi's Co" id="314282396.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhGhd" name="Raucous" short-name="Raucous" id="314282397.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApq" name="Hold Tight" short-name="Hold Tigh" id="314282398.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="PmqAmm" name="Withernsea" short-name="Withernse" id="314282399.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TrbAbr" name="Go Far" short-name="Go Far" id="314282400.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MkhAkh" name="Dancing Star" short-name="Dancing S" id="314282401.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="6f Fillies Handicap" eventid="6036616.20" date="20160730" time="1715" meeting="Doncaster" venue="Doncaster">
+    <bettype bet-start-date="20160730" bet-start-time="1715" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436997.20">
+      <bet jockey-silk="UkoAko" name="Justice Lady" short-name="Justice L" id="314282405.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AllGll" name="Laila Honiwillow" short-name="Laila Hon" id="314282406.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JbqGfb" name="Bad Girl Caoimhe" short-name="Bad Girl" id="314282407.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="SliAil" name="Fly True" short-name="Fly True" id="314282408.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CrpVpo" name="Alpine Dream" short-name="Alpine Dr" id="314282409.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RblAbl" name="Full Of Promise" short-name="Full Of P" id="314282410.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="QbmAmm" name="Isntshesomething" short-name="Isntsheso" id="314282411.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="SbqHbb" name="Manipura" short-name="Manipura" id="314282412.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="7 1/2f Apprentice Handicap" eventid="6036618.20" date="20160730" time="1725" meeting="Lingfield" venue="Lingfield">
+    <bettype bet-start-date="20160730" bet-start-time="1725" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35436999.20">
+      <bet jockey-silk="AppRpp" non-runner="true" non-runner-time="2016-07-30T10:12:00+01:00" name="Ocean Legend" short-name="Ocean Leg" id="314282423.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UkqRkk" name="Prim And Proper" short-name="Prim And" id="314282424.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggAhh" name="Believe It" short-name="Believe I" id="314282425.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UkqAkk" name="Limerick Lord" short-name="Limerick" id="314282426.20" price="5/2" priceDecimal="3.50" priceUS="250.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZrfRfr" name="Whaleweigh Station" short-name="Whaleweig" id="314282427.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MkfAkf" name="Prince Of Cardamom" short-name="Prince Of" id="314282428.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YmkQmk" name="Nifty Kier" short-name="Nifty Kie" id="314282429.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="7f Maiden Stakes" eventid="6036619.20" date="20160730" time="1620" meeting="Goodwood" venue="Goodwood">
+    <bettype bet-start-date="20160730" bet-start-time="1620" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437000.20">
+      <bet jockey-silk="HipAii" name="Abiento" short-name="Abiento" id="314282432.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooAqp" name="Black Trilby" short-name="Black Tri" id="314282433.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RobAoo" name="Colibri" short-name="Colibri" id="314282434.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-glAgj" name="Ghayyar" short-name="Ghayyar" id="314282435.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RfkAkf" name="Herm" short-name="Herm" id="314282436.20" price="80/1" priceDecimal="81.00" priceUS="8000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KkfAoo" name="Imphal" short-name="Imphal" id="314282437.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RorJoo" name="Lockheed" short-name="Lockheed" id="314282438.20" price="4/6" priceDecimal="1.67" priceUS="-66.67" active-price-types="SP,EP" />
+      <bet jockey-silk="BdoQdo" name="Manolito De Madrid" short-name="Manolito" id="314282439.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BqoAqo" name="On To Victory" short-name="On To Vic" id="314282440.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HqbAqo" name="Ray's The Money" short-name="Ray's The" id="314282441.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MdoAod" name="Star Stream" short-name="Star Stre" id="314282442.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqmAqq" name="Syncopation" short-name="Syncopati" id="314282443.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HqdGqd" name="The Secrets Out" short-name="The Secre" id="314282444.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OpqPqp" non-runner="true" non-runner-time="2016-07-30T07:16:58+01:00" name="Ultimat Power" short-name="Ultimat P" id="314282445.20" price="100/1" priceDecimal="101.00" priceUS="10000.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="7 1/2f Maiden Auction Stakes" eventid="6036623.20" date="20160730" time="1755" meeting="Lingfield" venue="Lingfield">
+    <bettype bet-start-date="20160730" bet-start-time="1755" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437006.20">
+      <bet jockey-silk="BhgAgh" name="Aventus" short-name="Aventus" id="314282491.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqAqb" name="Harbour Master" short-name="Harbour M" id="314282492.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApp" name="Maldonado" short-name="Maldonado" id="314282493.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CpqApp" name="Sufrah" short-name="Sufrah" id="314282494.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AddQdd" name="Tis Wonderful" short-name="Tis Wonde" id="314282495.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="GerGee" name="Harmonise" short-name="Harmonise" id="314282496.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OmbAmm" name="Magical Forest" short-name="Magical F" id="314282497.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AeeRee" name="Miss Sayif" short-name="Miss Sayi" id="314282498.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="7f Handicap" eventid="6036625.20" date="20160730" time="1655" meeting="Goodwood" venue="Goodwood">
+    <bettype bet-start-date="20160730" bet-start-time="1655" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437009.20">
+      <bet jockey-silk="MjhHhh" name="Calder Prince" short-name="Calder Pr" id="314282512.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApq" name="Venturous" short-name="Venturous" id="314282513.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="GomGoo" non-runner="true" non-runner-time="2016-07-30T09:02:30+01:00" name="Palawan" short-name="Palawan" id="314282514.20" price="28/1" priceDecimal="29.00" priceUS="2800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApp" name="Hornsby" short-name="Hornsby" id="314282515.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CpqApp" name="Estidraak" short-name="Estidraak" id="314282516.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EroVrr" name="Bobby Wheeler" short-name="Bobby Whe" id="314282517.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggAgg" name="Whitman" short-name="Whitman" id="314282518.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="FflAfq" name="Stamp Hill" short-name="Stamp Hil" id="314282519.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AllAhh" name="George William" short-name="George Wi" id="314282520.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhXhh" name="Mamillius" short-name="Mamillius" id="314282521.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqAqb" name="Monteverdi" short-name="Monteverd" id="314282522.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CdpGdm" name="Tigerwolf" short-name="Tigerwolf" id="314282523.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooRoo" name="Red Artist" short-name="Red Artis" id="314282524.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhGhd" name="Reputation" short-name="Reputatio" id="314282525.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ArrRdr" name="Hawatif" short-name="Hawatif" id="314282526.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MqoJlb" non-runner="true" non-runner-time="2016-07-30T11:48:22+01:00" name="Medburn Dream" short-name="Medburn D" id="314282527.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="6f Handicap" eventid="6036630.20" date="20160730" time="1740" meeting="Hamilton" venue="Hamilton">
+    <bettype bet-start-date="20160730" bet-start-time="1740" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437145.20">
+      <bet jockey-silk="CokGoo" name="Coolfitch" short-name="Coolfitch" id="314282944.20" price="2/1" priceDecimal="3.00" priceUS="200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppGqf" name="Good Time Ahead" short-name="Good Time" id="314282947.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-qlAii" name="Katrine" short-name="Katrine" id="314282949.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CrjJrj" name="Percy Toplis" short-name="Percy Top" id="314282953.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
+      <bet jockey-silk="QbgAbb" name="Kroy" short-name="Kroy" id="314282956.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="XimAoo" name="Breaking Free" short-name="Breaking" id="314282960.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BqbRqq" name="Flawed Diamond" short-name="Flawed Di" id="314282962.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="6f Handicap" eventid="6036631.20" date="20160730" time="1830" meeting="Lingfield" venue="Lingfield">
+    <bettype bet-start-date="20160730" bet-start-time="1830" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437229.20">
+      <bet jockey-silk="TdqRqd" name="Unnoticed" short-name="Unnoticed" id="314283199.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppArp" name="Pharoh Jake" short-name="Pharoh Ja" id="314283202.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HpqFop" name="Vincenzo Coccotti" short-name="Vincenzo" id="314283204.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="GlkBlk" name="Chetan" short-name="Chetan" id="314283208.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppApp" name="Shahaama" short-name="Shahaama" id="314283210.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqGoo" non-runner="true" non-runner-time="2016-07-30T12:04:48+01:00" name="Malvia" short-name="Malvia" id="314283213.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TpmPpp" name="Angie's Girl" short-name="Angie's G" id="314283219.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UopRoo" name="Multi Quest" short-name="Multi Que" id="314283223.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="1m 1f Apprentice Handicap" eventid="6036632.20" date="20160730" time="1800" meeting="Goodwood" venue="Goodwood">
+    <bettype bet-start-date="20160730" bet-start-time="1800" ewreduction="4" ewplaceterms="4" eachway="1/4 Odds Place 1,2,3,4" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437320.20">
+      <bet jockey-silk="ArrXrr" name="Bold Prediction" short-name="Bold Pred" id="314283476.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BqcAqq" name="Holiday Magic" short-name="Holiday M" id="314283478.20" price="22/1" priceDecimal="23.00" priceUS="2200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MrbRbb" name="Pactolus" short-name="Pactolus" id="314283483.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OdqAdf" name="Heisman" short-name="Heisman" id="314283486.20" price="6/1" priceDecimal="7.00" priceUS="600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BgoAgg" name="Fiftyshadesfreed" short-name="Fiftyshad" id="314283488.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UgmFgg" name="Illusive" short-name="Illusive" id="314283492.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhFoo" non-runner="true" non-runner-time="2016-07-30T07:47:24+01:00" name="Banditry" short-name="Banditry" id="314283496.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZkiXkk" name="Craftsmanship" short-name="Craftsman" id="314283497.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="XbqGqb" name="Artful Rogue" short-name="Artful Ro" id="314283505.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RpoFoo" non-runner="true" non-runner-time="2016-07-30T07:19:00+01:00" name="Eurystheus" short-name="Eurystheu" id="314283510.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AddAqq" name="Mr Quicksilver" short-name="Mr Quicks" id="314283512.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VbaAbb" name="Aqua Ardens" short-name="Aqua Arde" id="314283516.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AggAgg" name="Bathos" short-name="Bathos" id="314283519.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CdpGdm" name="Open The Red" short-name="Open The" id="314283523.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JlmAml" name="Berkeley Vale" short-name="Berkeley" id="314283527.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooAqj" name="Freight Train" short-name="Freight T" id="314283531.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BerGer" name="Van Huysen" short-name="Van Huyse" id="314283534.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AppRpl" name="Bridge Of Sighs" short-name="Bridge Of" id="314283538.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="6f Maiden Stakes" eventid="6036635.20" date="20160730" time="1815" meeting="Hamilton" venue="Hamilton">
+    <bettype bet-start-date="20160730" bet-start-time="1815" ewreduction="4" ewplaceterms="2" eachway="1/4 Odds Place 1,2" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437519.20">
+      <bet jockey-silk="OlbAmm" name="Dance Alone" short-name="Dance Alo" id="314284110.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LrcArp" name="Diamond Avalanche" short-name="Diamond A" id="314284113.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CboArr" name="Fivehundredmiles" short-name="Fivehundr" id="314284115.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AhhGhd" name="Foresight" short-name="Foresight" id="314284117.20" price="6/5" priceDecimal="2.20" priceUS="120.00" active-price-types="SP,EP" />
+      <bet jockey-silk="KdqGdo" name="Glengarry" short-name="Glengarry" id="314284124.20" price="9/4" priceDecimal="3.25" priceUS="225.00" active-price-types="SP,EP" />
+      <bet jockey-silk="PbrGbb" name="Hellracer" short-name="Hellracer" id="314284126.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HdrVdr" name="Fool's Dream" short-name="Fool's Dr" id="314284129.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="5f Maiden Stakes" eventid="6036637.20" date="20160730" time="1900" meeting="Lingfield" venue="Lingfield">
+    <bettype bet-start-date="20160730" bet-start-time="1900" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437668.20">
+      <bet jockey-silk="TboAoo" name="Debonaire David" short-name="Debonaire" id="314284453.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="FqgGqj" name="Daffodil Mulligan" short-name="Daffodil" id="314284461.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="-nlAnl" name="Speed Freak" short-name="Speed Fre" id="314284463.20" price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqGqk" name="Stop The Wages" short-name="Stop The" id="314284465.20" price="5/4" priceDecimal="2.25" priceUS="125.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="1m 1/2f Handicap" eventid="6036641.20" date="20160730" time="1845" meeting="Hamilton" venue="Hamilton">
+    <bettype bet-start-date="20160730" bet-start-time="1845" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35437980.20">
+      <bet jockey-silk="BrdGrd" name="Archie's Advice" short-name="Archie's" id="314285190.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZdqGdd" name="Fidelma Moon" short-name="Fidelma M" id="314285193.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LrcArp" name="Auxiliary" short-name="Auxiliary" id="314285197.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BacGac" name="Toboggan's Fire" short-name="Toboggan'" id="314285200.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BhrGrb" name="Normandie Lady" short-name="Normandie" id="314285201.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RboFbb" name="The Wee Barra" short-name="The Wee B" id="314285207.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EcrHfq" name="The Lynch Man" short-name="The Lynch" id="314285210.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UdmGmd" name="Tectonic" short-name="Tectonic" id="314285213.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AaaGad" name="Muroor" short-name="Muroor" id="314285217.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqjHqq" non-runner="true" non-runner-time="2016-07-30T09:04:28+01:00" name="Border Bandit" short-name="Border Ba" id="314285220.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="1m 4f Handicap" eventid="6036646.20" date="20160730" time="1930" meeting="Lingfield" venue="Lingfield">
+    <bettype bet-start-date="20160730" bet-start-time="1930" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35438191.20">
+      <bet jockey-silk="VboObq" name="Bognor" short-name="Bognor" id="314285723.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UdqAhd" name="Little Buxted" short-name="Little Bu" id="314285727.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LjaVaa" name="Chilworth Bells" short-name="Chilworth" id="314285730.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BhmBmm" name="Song And Dance Man" short-name="Song And" id="314285735.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CdhFdl" name="Perfect Rhythm" short-name="Perfect R" id="314285739.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="SrpOpp" name="Lady Lunchalot" short-name="Lady Lunc" id="314285744.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqAqh" name="Brave Archibald" short-name="Brave Arc" id="314285749.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="TqjPqq" name="Merry Dancer" short-name="Merry Dan" id="314285752.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="IfpApf" name="Cliff Face" short-name="Cliff Fac" id="314285755.20" price="11/10" priceDecimal="2.10" priceUS="110.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="1m 1f Handicap" eventid="6036653.20" date="20160730" time="1915" meeting="Hamilton" venue="Hamilton">
+    <bettype bet-start-date="20160730" bet-start-time="1915" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35438593.20">
+      <bet jockey-silk="MbrHbr" name="Champagne Rules" short-name="Champagne" id="314286876.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="GblGbb" name="Munjally" short-name="Munjally" id="314286879.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="HfkAfk" name="Indian Giver" short-name="Indian Gi" id="314286883.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OhrAoo" name="Incurs Four Faults" short-name="Incurs Fo" id="314286887.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ChlAhh" name="Magical Lasso" short-name="Magical L" id="314286892.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CpiApp" name="Triassic" short-name="Triassic" id="314286895.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZqdXdq" name="L'apogee" short-name="L'apogee" id="314286898.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CboArr" name="Jocks Wa Hae" short-name="Jocks Wa" id="314286901.20" price="11/2" priceDecimal="6.50" priceUS="550.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AaaGad" name="Canny Style" short-name="Canny Sty" id="314286908.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="RdhFdh" name="Judith Gardenier" short-name="Judith Ga" id="314286912.20" price="40/1" priceDecimal="41.00" priceUS="4000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EoqJob" name="Kerry Icon" short-name="Kerry Ico" id="314286915.20" price="15/2" priceDecimal="8.50" priceUS="750.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="7f Handicap" eventid="6036659.20" date="20160730" time="2000" meeting="Lingfield" venue="Lingfield">
+    <bettype bet-start-date="20160730" bet-start-time="2000" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35438827.20">
+      <bet jockey-silk="GrqJqo" name="Majestic Myles" short-name="Majestic" id="314287552.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BojAoo" name="Layla's Hero" short-name="Layla's H" id="314287556.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CqjFpp" name="Gung Ho Jack" short-name="Gung Ho J" id="314287560.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AbbHbl" name="Dunnscotia" short-name="Dunnscoti" id="314287564.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="UdqRoo" name="Danecase" short-name="Danecase" id="314287571.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CrpGpr" name="With Approval" short-name="With Appr" id="314287576.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZrkVpk" name="Rosenborg Rider" short-name="Rosenborg" id="314287580.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JbmAmb" name="Cleverconversation" short-name="Clevercon" id="314287583.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DcdAcc" name="Cliffhanger" short-name="Cliffhang" id="314287588.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BroAro" name="Helfire" short-name="Helfire" id="314287595.20" price="10/3" priceDecimal="4.33" priceUS="333.33" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="6f Handicap" eventid="6036667.20" date="20160730" time="1945" meeting="Hamilton" venue="Hamilton">
+    <bettype bet-start-date="20160730" bet-start-time="1945" ewreduction="4" ewplaceterms="3" eachway="1/4 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35439228.20">
+      <bet jockey-silk="ChlAhh" name="Rita's Boy" short-name="Rita's Bo" id="314288516.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AddFrr" name="Barkston Ash" short-name="Barkston" id="314288518.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AaaGad" name="Sir Domino" short-name="Sir Domin" id="314288520.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YreQre" name="Meshardal" short-name="Meshardal" id="314288524.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ThbAhb" name="Signore Piccolo" short-name="Signore P" id="314288526.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EoqRqq" name="Royal Connoisseur" short-name="Royal Con" id="314288528.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AqqFqd" name="Naggers" short-name="Naggers" id="314288535.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OqjGjj" non-runner="true" non-runner-time="2016-07-30T08:56:43+01:00" name="Forever A Lady" short-name="Forever A" id="314288536.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooAoo" name="Brockholes" short-name="Brockhole" id="314288542.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CboArr" name="Born Innocent" short-name="Born Inno" id="314288544.20" price="13/2" priceDecimal="7.50" priceUS="650.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ObhGbo" name="Specialv" short-name="Specialv" id="314288547.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="EfqAfl" non-runner="true" non-runner-time="2016-07-30T09:10:17+01:00" name="Questo" short-name="Questo" id="314288550.20" price="33/1" priceDecimal="34.00" priceUS="3300.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AbbGrb" name="Go Go Green" short-name="Go Go Gre" id="314288554.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YrfArr" name="The Name's Paver" short-name="The Name'" id="314288556.20" price="25/1" priceDecimal="26.00" priceUS="2500.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="1m 2f Handicap" eventid="6036669.20" date="20160730" time="2030" meeting="Lingfield" venue="Lingfield">
+    <bettype bet-start-date="20160730" bet-start-time="2030" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35439395.20">
+      <bet jockey-silk="HqoGqq" name="Spinning Rose" short-name="Spinning" id="314288877.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="MfkVkq" name="Power Up" short-name="Power Up" id="314288878.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="SdmAmm" name="Embankment" short-name="Embankmen" id="314288879.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="XjrAjj" name="Megalala" short-name="Megalala" id="314288880.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AooFoo" name="Sunshineandbubbles" short-name="Sunshinea" id="314288881.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AddAqq" name="Cartwright" short-name="Cartwrigh" id="314288882.20" price="7/4" priceDecimal="2.75" priceUS="175.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LoqJoo" name="Protest" short-name="Protest" id="314288883.20" price="8/1" priceDecimal="9.00" priceUS="800.00" active-price-types="SP,EP" />
+      <bet jockey-silk="AbbHbb" name="Passing Dream" short-name="Passing D" id="314288884.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="FqrAqb" non-runner="true" non-runner-time="2016-07-30T07:36:00+01:00" name="Keyman" short-name="Keyman" id="314288885.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="5f Handicap" eventid="6036673.20" date="20160730" time="2015" meeting="Hamilton" venue="Hamilton">
+    <bettype bet-start-date="20160730" bet-start-time="2015" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35439403.20">
+      <bet jockey-silk="RkrXkk" name="Star Cracker" short-name="Star Crac" id="314288937.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YjqQqq" name="Bronze Beau" short-name="Bronze Be" id="314288939.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CdqFod" name="Coiste Bodhar" short-name="Coiste Bo" id="314288941.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="NpmApp" name="Sarabi" short-name="Sarabi" id="314288943.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="JhiAhh" name="Danzeb" short-name="Danzeb" id="314288946.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OfoAoo" name="Showdaisy" short-name="Showdaisy" id="314288947.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LroGro" name="Raise A Billion" short-name="Raise A B" id="314288948.20" price="10/1" priceDecimal="11.00" priceUS="1000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YrfArr" name="Kinloch Pride" short-name="Kinloch P" id="314288951.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="XbmAbm" name="Amy Blair" short-name="Amy Blair" id="314288952.20" price="20/1" priceDecimal="21.00" priceUS="2000.00" active-price-types="SP,EP" />
+    </bettype>
+  </event>
+  <event name="1m 3f Handicap" eventid="6036680.20" date="20160730" time="2045" meeting="Hamilton" venue="Hamilton">
+    <bettype bet-start-date="20160730" bet-start-time="2045" ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Outright Betting" inrunning="0" bettypeid="35439420.20">
+      <bet jockey-silk="CobArb" name="Carbon Dating" short-name="Carbon Da" id="314289039.20" price="4/1" priceDecimal="5.00" priceUS="400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="LqfFqr" name="Al Destoor" short-name="Al Destoo" id="314289041.20" price="9/2" priceDecimal="5.50" priceUS="450.00" active-price-types="SP,EP" />
+      <bet jockey-silk="CboArr" name="Lara Carbonara" short-name="Lara Carb" id="314289042.20" price="5/1" priceDecimal="6.00" priceUS="500.00" active-price-types="SP,EP" />
+      <bet jockey-silk="ZrkAqk" name="Arantes" short-name="Arantes" id="314289043.20" price="14/1" priceDecimal="15.00" priceUS="1400.00" active-price-types="SP,EP" />
+      <bet jockey-silk="YdoAoo" name="King Of Paradise" short-name="King Of P" id="314289044.20" price="7/1" priceDecimal="8.00" priceUS="700.00" active-price-types="SP,EP" />
+      <bet jockey-silk="VpqAqp" name="First Sargeant" short-name="First Sar" id="314289045.20" price="11/1" priceDecimal="12.00" priceUS="1100.00" active-price-types="SP,EP" />
+      <bet jockey-silk="BprQrp" name="Miningrocks" short-name="Miningroc" id="314289046.20" price="9/1" priceDecimal="10.00" priceUS="900.00" active-price-types="SP,EP" />
+      <bet jockey-silk="OqjGjj" name="New Colours" short-name="New Colou" id="314289047.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="SP,EP" />
+      <bet jockey-silk="DobPoo" name="Falcon's Fire" short-name="Falcon's" id="314289048.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="SP,EP" />
     </bettype>
   </event>
 </category>

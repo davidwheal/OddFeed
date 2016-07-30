@@ -1,0 +1,118 @@
+2016-07-30 12:49:46,066 [11] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred.xslt System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 39
+
+2016-07-30 12:51:32,458 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 12:51:32,470 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 12:51:33,940 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 12:51:34,263 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:51:37,215 [12] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBet365.xslt System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Bet365.xslt'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Bet365.xslt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 39
+
+2016-07-30 12:51:37,235 [12] FATAL  Daw.Services.WindowsService.OddFeedService - TransformXmlBetfred.xslt System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'.
+File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
+   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
+   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
+   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
+   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in d:\Development\OddFeed\Solution\XsltTransformer\TransformXml.cs:line 39
+
+2016-07-30 12:52:06,466 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 12:52:06,478 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 12:52:08,630 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 12:52:11,586 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:53:55,157 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 12:53:55,170 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 12:53:56,855 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:53:57,852 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 12:55:00,027 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 12:55:00,040 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 12:55:02,423 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 12:55:03,129 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:56:07,384 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 12:56:07,396 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 12:56:10,013 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 12:56:10,644 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:59:58,544 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 12:59:58,555 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 12:59:59,914 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:00:01,329 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:01:13,670 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 13:01:13,682 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 13:01:14,450 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:01:15,027 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:02:06,208 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 13:02:06,221 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 13:02:08,576 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:02:09,538 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:03:46,221 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:03:46,225 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:03:47,196 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:03:47,377 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:05:26,226 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:05:26,232 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:05:26,714 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:05:27,019 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:07:06,229 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:07:06,236 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:07:06,984 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:07:08,089 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:08:46,233 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:08:46,259 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:08:46,785 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:08:46,969 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:10:26,236 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:10:26,264 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:10:26,526 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:10:26,830 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:12:06,240 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:12:06,267 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:12:06,849 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:12:07,176 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:13:46,243 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:13:46,271 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:13:46,756 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:13:46,990 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:15:26,247 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:15:26,277 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:15:27,017 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:15:28,013 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:17:06,251 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:17:06,281 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:17:06,636 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:17:06,970 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:18:46,254 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 13:18:46,284 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Bet365 
+2016-07-30 13:18:46,691 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:18:46,883 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 
+2016-07-30 13:28:00,082 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-07-30 13:28:00,096 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-07-30 13:28:01,051 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 13:28:01,903 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Bet365 

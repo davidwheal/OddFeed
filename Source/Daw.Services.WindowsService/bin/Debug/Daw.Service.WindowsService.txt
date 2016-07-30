@@ -1,49 +1,12 @@
-2016-07-10 11:00:20,759 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:00:22,545 [11] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:02:15,171 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:02:17,159 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:02:48,476 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:02:50,343 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:04:03,926 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:04:06,236 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:04:28,235 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:04:29,720 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:05:36,364 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:05:39,026 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:06:42,961 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:06:45,084 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:09:34,290 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:09:35,847 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:10:33,624 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:10:36,106 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:12:26,686 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
-2016-07-10 11:12:38,903 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:12:40,734 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:14:03,416 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:14:05,183 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:32:35,299 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:32:36,920 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:33:14,137 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:33:17,151 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:33:49,328 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:33:53,000 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:34:54,249 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:34:55,954 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:35:19,409 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:35:20,814 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:36:28,390 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:36:31,787 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:39:40,364 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
-2016-07-10 11:39:47,998 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:39:54,726 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:39:56,052 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:41:23,346 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:41:26,433 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:41:59,258 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:42:00,452 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:46:47,534 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:46:50,001 [10] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:47:50,099 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:47:50,871 [9] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
-2016-07-10 11:48:27,097 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
-2016-07-10 11:48:28,237 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:23:51,431 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13 
+2016-07-30 12:23:51,443 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-30 12:24:48,003 [12] FATAL  Daw.Services.WindowsService.OddFeedService - LoadXmlFromUrl http://whdn.williamhill.com/pricefeed/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13 failed for The remote server returned an error: (503) Server Unavailable. 
+2016-07-30 12:24:48,671 [6] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:29:57,627 [8] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load https://services.skybet.com/sportsapi/v2/horse-racing?api_user=moneta|antepost 
+2016-07-30 12:29:57,640 [8] DEBUG  Daw.Services.WindowsService.OddFeedService - Just run load http://xml.betfred.com/horse-racing-uk.xml 
+2016-07-30 12:29:58,812 [9] FATAL  Daw.Services.WindowsService.OddFeedService - LoadXmlFromUrl https://services.skybet.com/sportsapi/v2/horse-racing?api_user=moneta|antepost failed for The remote server returned an error: (406) Not Acceptable. 
+2016-07-30 12:30:00,796 [8] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:31:37,644 [8] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 12:31:38,348 [8] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
+2016-07-30 12:33:17,648 [8] DEBUG  Daw.Services.WindowsService.OddFeedService - Next run of Betfred 
+2016-07-30 12:33:17,943 [8] DEBUG  Daw.Services.WindowsService.OddFeedService - Adding feed data to the queue Betfred 
