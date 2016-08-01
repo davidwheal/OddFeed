@@ -45,6 +45,10 @@
       </xsl:attribute>
       <xsl:attribute name="venue">
       </xsl:attribute>
+      <xsl:attribute name="team1">
+      </xsl:attribute>
+      <xsl:attribute name="team2">
+      </xsl:attribute>
       <xsl:apply-templates />
     </event>
   </xsl:template>

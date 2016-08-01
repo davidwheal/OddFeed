@@ -1,6 +1,5 @@
 D:\Development\OddFeed\Source\Daw.Service.WebService\bin\Debug\Daw.Service.WebService.dll.config
 D:\Development\OddFeed\Source\Daw.Service.WebService\bin\Debug\Daw.Service.WebService.dll
 D:\Development\OddFeed\Source\Daw.Service.WebService\bin\Debug\Daw.Service.WebService.pdb
-D:\Development\OddFeed\Source\Daw.Service.WebService\obj\Debug\Daw.Service.WebService.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\Daw.Service.WebService\obj\Debug\Daw.Service.WebService.dll
 D:\Development\OddFeed\Source\Daw.Service.WebService\obj\Debug\Daw.Service.WebService.pdb

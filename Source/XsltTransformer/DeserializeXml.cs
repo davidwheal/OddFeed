@@ -7,7 +7,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 using log4net;
-using Daw.Common.Core.Data;
+using Daw.Common.CoreData;
 
 namespace XsltTransformer
 {
@@ -25,8 +25,8 @@ namespace XsltTransformer
                 //    xml = xml.Substring(pos + 2, xml.Length - (pos + 2));
                 //}
                 XmlNodeReader reader = new XmlNodeReader(doc.DocumentElement);
-                XmlSerializer ser = new XmlSerializer(typeof(oddfeed));
-                return (oddfeed)ser.Deserialize(reader);
+                //XmlSerializer ser = new XmlSerializer(typeof(oddfeed));
+                return (oddfeed)serializer.Deserialize(reader);
             }
             catch (Exception ex)
             {

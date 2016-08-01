@@ -101,10 +101,6 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Solution\XsltTransformer\XsltTransformer.csproj">
-      <Project>{732ebae9-e841-4a24-93ee-7c8dbe66e16d}</Project>
-      <Name>XsltTransformer</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Daw.Client.FeedProxyClient\Daw.Client.WebServices.csproj">
       <Project>{4aca934b-b182-4fc4-bb25-b14da52ea262}</Project>
       <Name>Daw.Client.WebServices</Name>
@@ -120,6 +116,10 @@
     <ProjectReference Include="..\IncomingFeedQueue\IncomingFeedQueue.csproj">
       <Project>{269c43e8-bec8-4429-99ab-7aeb522a2cbc}</Project>
       <Name>IncomingFeedQueue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XsltTransformer\XsltTransformer.csproj">
+      <Project>{732ebae9-e841-4a24-93ee-7c8dbe66e16d}</Project>
+      <Name>XsltTransformer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

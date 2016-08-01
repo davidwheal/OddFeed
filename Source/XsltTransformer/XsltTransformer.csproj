@@ -63,11 +63,15 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Transforms\Sample.xml" />
+    <Content Include="Transforms\xsd.exe" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Transforms\OddFeedXmlSchema.xsd">
       <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Transforms\xsd.cmd">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

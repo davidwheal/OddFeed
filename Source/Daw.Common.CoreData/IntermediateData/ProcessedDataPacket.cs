@@ -1,5 +1,4 @@
 ﻿using Daw.Common.Configuration;
-using Daw.Common.Core.Data;
 
 namespace Daw.Common.CoreData.IntermediateData
 {
