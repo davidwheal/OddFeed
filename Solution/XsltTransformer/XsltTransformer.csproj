@@ -76,13 +76,13 @@
       <Project>{aed3c058-617f-40e8-b11d-22b446d626e8}</Project>
       <Name>Daw.Common.CoreData</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Source\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
+      <Project>{0aa6ad0e-4dce-44ad-aa77-e680008e3825}</Project>
+      <Name>Daw.Common.Configuration</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Source\IncomingFeedQueue\IncomingFeedQueue.csproj">
       <Project>{269c43e8-bec8-4429-99ab-7aeb522a2cbc}</Project>
       <Name>IncomingFeedQueue</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
-      <Project>{be299eb1-7977-4ef4-b29f-a289ffdde21a}</Project>
-      <Name>Daw.Common.Configuration</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

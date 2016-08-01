@@ -40,11 +40,28 @@
       <HintPath>..\..\Solution\packages\log4net.2.0.5\lib\net45-full\log4net.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\Solution\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f, processorArchitecture=MSIL">
+      <HintPath>..\..\Solution\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f, processorArchitecture=MSIL">
+      <HintPath>..\..\Solution\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.RegistrationByConvention, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f, processorArchitecture=MSIL">
+      <HintPath>..\..\Solution\packages\Unity.4.0.1\lib\net45\Microsoft.Practices.Unity.RegistrationByConvention.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Core" />
     <Reference Include="System.Management" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -68,6 +85,8 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Engine.cs" />
+    <Compile Include="WebService\EngineWebService.cs" />
+    <Compile Include="WebService\IEngineWebService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -82,10 +101,6 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Solution\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
-      <Project>{be299eb1-7977-4ef4-b29f-a289ffdde21a}</Project>
-      <Name>Daw.Common.Configuration</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Solution\XsltTransformer\XsltTransformer.csproj">
       <Project>{732ebae9-e841-4a24-93ee-7c8dbe66e16d}</Project>
       <Name>XsltTransformer</Name>
@@ -97,6 +112,10 @@
     <ProjectReference Include="..\Daw.Common.CoreData\Daw.Common.CoreData.csproj">
       <Project>{aed3c058-617f-40e8-b11d-22b446d626e8}</Project>
       <Name>Daw.Common.CoreData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
+      <Project>{0aa6ad0e-4dce-44ad-aa77-e680008e3825}</Project>
+      <Name>Daw.Common.Configuration</Name>
     </ProjectReference>
     <ProjectReference Include="..\IncomingFeedQueue\IncomingFeedQueue.csproj">
       <Project>{269c43e8-bec8-4429-99ab-7aeb522a2cbc}</Project>

@@ -69,12 +69,6 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Daw.Common.Entities\Daw.Common.Entities\Daw.Common.Entities.csproj">
-      <Project>{34fc6db4-a4cc-4739-974d-8a722e664957}</Project>
-      <Name>Daw.Common.Entities</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -4,19 +4,21 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Linq;
+using System.ServiceModel;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
+using Daw.Services.WindowsService.WebService;
 using log4net;
+using Microsoft.Practices.Unity;
 using Timer = System.Threading.Timer;
 
 namespace Daw.Services.WindowsService
 {
     public partial class OddFeedService : ServiceBase
     {
-        public static ILog Logger = null;
-       
+        private ServiceHost _engineWebServiceHost;
 
 
         public OddFeedService()
@@ -24,31 +26,28 @@ namespace Daw.Services.WindowsService
             InitializeComponent();
         }
 
-        
 
-        //protected override void OnStart(string[] args)
-        //{
-        //    // Get feed data
-        //    Task.Run(()=> Engine.ScheduleEvents(Logger));
-        //    // Transform feed data
-        //    Task.Run(()=> Engine.ScheduleTransforms());
 
-        //}
 
         protected override void OnStop()
         {
+            _engineWebServiceHost?.Close();
         }
+
 
         public void Process()
         {
 
-
-            log4net.Config.XmlConfigurator.Configure();
-            Logger = log4net.LogManager.GetLogger(this.GetType());
             // Get feed data
-            Task.Run(() => Engine.ScheduleEvents(Logger));
+            Task.Run(() => Engine.ScheduleEvents());
             // Transform feed data
             Task.Run(() => Engine.ScheduleTransforms());
+            // Process feed data
+            Task.Run(() => Engine.ScheduleProcessing());
+
+            var serviceType = typeof(EngineWebService);
+            _engineWebServiceHost = new ServiceHost(serviceType);
+            _engineWebServiceHost.Open();
 
         }
 

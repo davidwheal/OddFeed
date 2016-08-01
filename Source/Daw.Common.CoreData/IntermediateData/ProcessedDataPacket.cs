@@ -1,8 +1,7 @@
-﻿using System.Xml;
-using Daw.Common.Configuration;
+﻿using Daw.Common.Configuration;
 using Daw.Common.Core.Data;
 
-namespace Daw.Common.CoreData
+namespace Daw.Common.CoreData.IntermediateData
 {
     public class ProcessedDataPacket
     {

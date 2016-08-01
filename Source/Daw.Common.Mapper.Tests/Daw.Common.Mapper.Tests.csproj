@@ -53,12 +53,6 @@
     <Compile Include="MongoDbTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Daw.Common.Mapper\Daw.Common.Mapper.csproj">
-      <Project>{b7e0b2e4-b553-4b8f-b210-83d9a7e3e9d3}</Project>
-      <Name>Daw.Common.Mapper</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

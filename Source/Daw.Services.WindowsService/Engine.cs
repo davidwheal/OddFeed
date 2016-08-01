@@ -7,6 +7,8 @@ using Daw.Client.WebServices.Clients;
 using Daw.Client.WebServices.Interfaces;
 using Daw.Common.Configuration;
 using Daw.Common.CoreData;
+using Daw.Common.CoreData.IncomingData;
+using Daw.Common.CoreData.IntermediateData;
 using IncomingFeedQueue;
 using log4net;
 using XsltTransformer;
@@ -14,19 +16,40 @@ using XsltTransformer;
 namespace Daw.Services.WindowsService
 {
 
-    public class EventPacket
-    {
-        public ScheduleConfigItem ConfigItem { get; set; }
-        public DateTime NextRun { get; set; }
-        public Task<XmlDocument> Return { get; set; }
-    }
+
 
     public static class Engine
     {
-        public static LatestDataQueue<XmlPacket> IncomingQueue = new LatestDataQueue<XmlPacket>("FeedQueue");
-        public static LatestDataQueue<ProcessedDataPacket> OutgoingQueue = new LatestDataQueue<ProcessedDataPacket>("TransformedQueue");
+        public class EventPacket
+        {
+            public ScheduleConfigItem ConfigItem { get; set; }
+            public DateTime NextRun { get; set; }
+            public Task<XmlDocument> Return { get; set; }
+        }
+
+        public static ThrowAwaySupercededDataQueue<XmlPacket> IncomingQueue = new ThrowAwaySupercededDataQueue<XmlPacket>("FeedQueue");
+        public static ThrowAwaySupercededDataQueue<ProcessedDataPacket> OutgoingQueue = new ThrowAwaySupercededDataQueue<ProcessedDataPacket>("TransformedQueue");
         public static Dictionary<int, EventPacket> Events = new Dictionary<int, EventPacket>();
 
+        
+        public static ILog Logger = null;
+
+        static Engine()
+        {
+            log4net.Config.XmlConfigurator.Configure();
+            Logger = log4net.LogManager.GetLogger(typeof(Engine));
+        }
+
+        public static void ScheduleProcessing()
+        {
+            while (1 == 1)
+            {
+                var item = OutgoingQueue.GetMostRecentData();
+                if (item != null)
+                {
+                }
+            }
+        }
 
         public static void ScheduleTransforms()
         {
@@ -41,9 +64,9 @@ namespace Daw.Services.WindowsService
                     };
 
                     var qi = new QueueItem<ProcessedDataPacket>(item.Source, DateTime.Now, packet);
-                    
-                    var doc = TransformXml.XsltTransform(item, OddFeedService.Logger);
-                    var obj = DeserializeXml.Deserialize(doc, OddFeedService.Logger);
+
+                    var doc = TransformXml.XsltTransform(item, Logger);
+                    var obj = DeserializeXml.Deserialize(doc, Logger);
                     if (obj != null)
                     {
                         packet.ProcessedObject = obj;
@@ -57,7 +80,7 @@ namespace Daw.Services.WindowsService
             }
         }
 
-        public static void ScheduleEvents(ILog logger)
+        public static void ScheduleEvents()
         {
             var sc = new SecretClient();
             var client = sc.Open();
@@ -69,7 +92,7 @@ namespace Daw.Services.WindowsService
                 if (it.type == "xml" && it.enabled)
                 {
                     var task = Task<XmlDocument>.Run(() => LoadXmlFromUrl(client, it));
-                    logger.Debug(string.Format("Just run load {0}", it.url));
+                    Logger.Debug(string.Format("Just run load {0}", it.url));
                     Events.Add(i, new EventPacket() { ConfigItem = it, Return = task, NextRun = DateTime.Now.AddSeconds(it.intervalsecs) });
                 }
             }
@@ -88,15 +111,15 @@ namespace Daw.Services.WindowsService
                             if (x != null)
                             {
                                 var item = new QueueItem<XmlPacket>(it.bookie, DateTime.Now, new XmlPacket() { ConfigItem = it, Xml = x });
-                                logger.Debug(string.Format("Adding feed data to the queue {0}", item.Source));
+                                Logger.Debug(string.Format("Adding feed data to the queue {0}", item.Source));
                                 IncomingQueue.AddData(item);
                                 runningEvent.Return = null;
                             }
 
                         }
-                        if (runningEvent.Return == null &&  DateTime.Now > runningEvent.NextRun)
+                        if (runningEvent.Return == null && DateTime.Now > runningEvent.NextRun)
                         {
-                            logger.Debug(string.Format("Next run of {0}", runningEvent.ConfigItem.bookie));
+                            Logger.Debug(string.Format("Next run of {0}", runningEvent.ConfigItem.bookie));
                             runningEvent.Return = Task<XmlDocument>.Run(() =>
                             {
                                 return LoadXmlFromUrl(client, it);
@@ -118,7 +141,7 @@ namespace Daw.Services.WindowsService
             }
             catch (Exception ex)
             {
-                OddFeedService.Logger.Fatal(string.Format("LoadXmlFromUrl {0} failed for {1}", it.url, ex.Message));
+                Logger.Fatal(string.Format("LoadXmlFromUrl {0} failed for {1}", it.url, ex.Message));
                 return null;
             }
         }

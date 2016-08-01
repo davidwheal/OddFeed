@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IncomingFeedQueue
 {
-    public interface IFeedQueue<T>
+    public interface IThrowAwayQueue<T>
     {
         // Add data from a feed to the queue
         void AddData(QueueItem<T> item);

@@ -45,14 +45,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConstantsAndEnums.cs" />
-    <Compile Include="XmlPacket.cs" />
-    <Compile Include="oddfeed.cs" />
-    <Compile Include="ProcessedDataPacket.cs" />
+    <Compile Include="IncomingData\XmlPacket.cs" />
+    <Compile Include="IncomingData\oddfeed.cs" />
+    <Compile Include="IntermediateData\ProcessedDataPacket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Solution\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
-      <Project>{be299eb1-7977-4ef4-b29f-a289ffdde21a}</Project>
+    <ProjectReference Include="..\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
+      <Project>{0aa6ad0e-4dce-44ad-aa77-e680008e3825}</Project>
       <Name>Daw.Common.Configuration</Name>
     </ProjectReference>
   </ItemGroup>

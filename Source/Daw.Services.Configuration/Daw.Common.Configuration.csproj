@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE299EB1-7977-4EF4-B29F-A289FFDDE21A}</ProjectGuid>
+    <ProjectGuid>{0AA6AD0E-4DCE-44AD-AA77-E680008E3825}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Daw.Common.Configuration</RootNamespace>

@@ -39,8 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IFeedQueue.cs" />
-    <Compile Include="LatestDataQueue.cs" />
+    <Compile Include="IThrowAwayQueue.cs" />
+    <Compile Include="ThrowAwaySupercededDataQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QueueItem.cs" />
   </ItemGroup>

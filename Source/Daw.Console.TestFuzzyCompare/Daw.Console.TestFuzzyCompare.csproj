@@ -81,12 +81,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Daw.Common.ShareLibrary\Daw.Common.ShareLibrary.csproj">
-      <Project>{a6183e4a-44f1-4117-bf42-b33845478f96}</Project>
-      <Name>Daw.Common.ShareLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

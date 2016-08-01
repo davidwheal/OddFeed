@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using Daw.Common.Configuration;
 
-namespace Daw.Common.CoreData
+namespace Daw.Common.CoreData.IncomingData
 {
     public class XmlPacket
     {

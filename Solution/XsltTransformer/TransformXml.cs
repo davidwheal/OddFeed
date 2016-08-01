@@ -5,6 +5,7 @@ using System.Xml;
 using System.Xml.Schema;
 using System.Xml.Xsl;
 using Daw.Common.CoreData;
+using Daw.Common.CoreData.IncomingData;
 using IncomingFeedQueue;
 using log4net;
 using Microsoft.SqlServer.Server;
