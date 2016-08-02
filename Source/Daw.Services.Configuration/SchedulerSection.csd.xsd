@@ -83,5 +83,10 @@
 				<xs:documentation>The feedtype.</xs:documentation>
 			</xs:annotation>
 		</xs:attribute>
+		<xs:attribute name="fixturesonly" use="optional" type="xs:boolean">
+			<xs:annotation>
+				<xs:documentation>The fixturesonly.</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
 	</xs:complexType>
 </xs:schema>

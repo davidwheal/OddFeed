@@ -9,6 +9,7 @@ using Daw.Common.Configuration;
 using Daw.Common.CoreData;
 using Daw.Common.CoreData.IncomingData;
 using Daw.Common.CoreData.IntermediateData;
+using Daw.Common.CoreData.ProcessorData;
 using IncomingFeedQueue;
 using log4net;
 using XsltTransformer;
@@ -30,14 +31,15 @@ namespace Daw.Services.WindowsService
         public static ThrowAwaySupercededDataQueue<XmlPacket> IncomingQueue = new ThrowAwaySupercededDataQueue<XmlPacket>("FeedQueue");
         public static ThrowAwaySupercededDataQueue<ProcessedDataPacket> OutgoingQueue = new ThrowAwaySupercededDataQueue<ProcessedDataPacket>("TransformedQueue");
         public static Dictionary<int, EventPacket> Events = new Dictionary<int, EventPacket>();
+        public static Root DataRoot { get; set; }
 
-        
         public static ILog Logger = null;
 
         static Engine()
         {
             log4net.Config.XmlConfigurator.Configure();
             Logger = log4net.LogManager.GetLogger(typeof(Engine));
+            DataRoot = new Root();
         }
 
         public static void ScheduleProcessing()
@@ -47,6 +49,7 @@ namespace Daw.Services.WindowsService
                 var item = OutgoingQueue.GetMostRecentData();
                 if (item != null)
                 {
+                    DataRoot.AddPacket(item.Data);
                 }
             }
         }

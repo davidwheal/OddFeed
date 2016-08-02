@@ -84,6 +84,11 @@
             <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/String" />
           </type>
         </attributeProperty>
+        <attributeProperty name="fixturesonly" isRequired="false" isKey="false" isDefaultCollection="false" xmlName="fixturesonly" isReadOnly="false">
+          <type>
+            <externalTypeMoniker name="/afb4b1eb-cb3b-4ee5-8038-6c72905ebbaa/Boolean" />
+          </type>
+        </attributeProperty>
       </attributeProperties>
     </configurationElement>
   </configurationElements>

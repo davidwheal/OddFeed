@@ -22,19 +22,19 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the SchedulerConfigSection Configuration Section.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string SchedulerConfigSectionSectionName = "schedulerConfigSection";
         
         /// <summary>
         /// The XML path of the SchedulerConfigSection Configuration Section.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string SchedulerConfigSectionSectionPath = "schedulerConfigSection";
         
         /// <summary>
         /// Gets the SchedulerConfigSection instance.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public static global::Daw.Common.Configuration.SchedulerConfigSection Instance
         {
             get
@@ -48,7 +48,7 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="Xmlns"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string XmlnsPropertyName = "xmlns";
         
         /// <summary>
@@ -58,7 +58,7 @@ namespace Daw.Common.Configuration
         /// This property makes sure that if the configuration file contains the XML namespace,
         /// the parser doesn't throw an exception because it encounters the unknown "xmlns" attribute.
         /// </remarks>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.SchedulerConfigSection.XmlnsPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public string Xmlns
         {
@@ -73,7 +73,7 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// Gets a value indicating whether the element is read-only.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public override bool IsReadOnly()
         {
             return false;
@@ -84,13 +84,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="Schedules"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string SchedulesPropertyName = "schedules";
         
         /// <summary>
         /// Gets or sets the Schedules.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The Schedules.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.SchedulerConfigSection.SchedulesPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual global::Daw.Common.Configuration.Schedules Schedules
@@ -122,7 +122,7 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the individual <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> instances in this collection.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string ScheduleConfigItemPropertyName = "scheduleConfigItem";
         #endregion
         
@@ -131,7 +131,7 @@ namespace Daw.Common.Configuration
         /// Gets the type of the <see cref="global::System.Configuration.ConfigurationElementCollection"/>.
         /// </summary>
         /// <returns>The <see cref="global::System.Configuration.ConfigurationElementCollectionType"/> of this collection.</returns>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public override global::System.Configuration.ConfigurationElementCollectionType CollectionType
         {
             get
@@ -143,7 +143,7 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// Gets the name used to identify this collection of elements
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         protected override string ElementName
         {
             get
@@ -159,7 +159,7 @@ namespace Daw.Common.Configuration
         /// <returns>
         /// <see langword="true"/> if the element exists in the collection; otherwise, <see langword="false"/>.
         /// </returns>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         protected override bool IsElementName(string elementName)
         {
             return (elementName == global::Daw.Common.Configuration.Schedules.ScheduleConfigItemPropertyName);
@@ -172,7 +172,7 @@ namespace Daw.Common.Configuration
         /// <returns>
         /// An <see cref="object"/> that acts as the key for the specified <see cref="global::System.Configuration.ConfigurationElement"/>.
         /// </returns>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         protected override object GetElementKey(global::System.Configuration.ConfigurationElement element)
         {
             return ((global::Daw.Common.Configuration.ScheduleConfigItem)(element)).index;
@@ -184,7 +184,7 @@ namespace Daw.Common.Configuration
         /// <returns>
         /// A new <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/>.
         /// </returns>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         protected override global::System.Configuration.ConfigurationElement CreateNewElement()
         {
             return new global::Daw.Common.Configuration.ScheduleConfigItem();
@@ -196,7 +196,7 @@ namespace Daw.Common.Configuration
         /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> at the specified index.
         /// </summary>
         /// <param name="index">The index of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public global::Daw.Common.Configuration.ScheduleConfigItem this[int index]
         {
             get
@@ -209,7 +209,7 @@ namespace Daw.Common.Configuration
         /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> with the specified key.
         /// </summary>
         /// <param name="index">The key of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public global::Daw.Common.Configuration.ScheduleConfigItem this[object index]
         {
             get
@@ -224,7 +224,7 @@ namespace Daw.Common.Configuration
         /// Adds the specified <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to the <see cref="global::System.Configuration.ConfigurationElementCollection"/>.
         /// </summary>
         /// <param name="scheduleConfigItem">The <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to add.</param>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public void Add(global::Daw.Common.Configuration.ScheduleConfigItem scheduleConfigItem)
         {
             base.BaseAdd(scheduleConfigItem);
@@ -236,7 +236,7 @@ namespace Daw.Common.Configuration
         /// Removes the specified <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> from the <see cref="global::System.Configuration.ConfigurationElementCollection"/>.
         /// </summary>
         /// <param name="scheduleConfigItem">The <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to remove.</param>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public void Remove(global::Daw.Common.Configuration.ScheduleConfigItem scheduleConfigItem)
         {
             base.BaseRemove(this.GetElementKey(scheduleConfigItem));
@@ -248,7 +248,7 @@ namespace Daw.Common.Configuration
         /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> at the specified index.
         /// </summary>
         /// <param name="index">The index of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public global::Daw.Common.Configuration.ScheduleConfigItem GetItemAt(int index)
         {
             return ((global::Daw.Common.Configuration.ScheduleConfigItem)(base.BaseGet(index)));
@@ -258,7 +258,7 @@ namespace Daw.Common.Configuration
         /// Gets the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> with the specified key.
         /// </summary>
         /// <param name="index">The key of the <see cref="global::Daw.Common.Configuration.ScheduleConfigItem"/> to retrieve.</param>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public global::Daw.Common.Configuration.ScheduleConfigItem GetItemByKey(int index)
         {
             return ((global::Daw.Common.Configuration.ScheduleConfigItem)(base.BaseGet(((object)(index)))));
@@ -269,7 +269,7 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// Gets a value indicating whether the element is read-only.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public override bool IsReadOnly()
         {
             return false;
@@ -280,13 +280,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="name"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string namePropertyName = "name";
         
         /// <summary>
         /// Gets or sets the name.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The name.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.Schedules.namePropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
         public virtual string name
@@ -317,7 +317,7 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// Gets a value indicating whether the element is read-only.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         public override bool IsReadOnly()
         {
             return false;
@@ -328,13 +328,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="name"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string namePropertyName = "name";
         
         /// <summary>
         /// Gets or sets the name.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The name.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.namePropertyName, IsRequired=true, IsKey=false, IsDefaultCollection=false)]
         public virtual string name
@@ -354,13 +354,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="url"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string urlPropertyName = "url";
         
         /// <summary>
         /// Gets or sets the url.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The url.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.urlPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string url
@@ -380,13 +380,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="intervalsecs"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string intervalsecsPropertyName = "intervalsecs";
         
         /// <summary>
         /// Gets or sets the intervalsecs.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The intervalsecs.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.intervalsecsPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual int intervalsecs
@@ -406,13 +406,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="bookie"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string bookiePropertyName = "bookie";
         
         /// <summary>
         /// Gets or sets the bookie.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The bookie.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.bookiePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string bookie
@@ -432,13 +432,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="sport"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string sportPropertyName = "sport";
         
         /// <summary>
         /// Gets or sets the sport.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The sport.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.sportPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string sport
@@ -458,13 +458,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="type"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string typePropertyName = "type";
         
         /// <summary>
         /// Gets or sets the type.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The type.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.typePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string type
@@ -484,13 +484,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="enabled"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string enabledPropertyName = "enabled";
         
         /// <summary>
         /// Gets or sets the enabled.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The enabled.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.enabledPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual bool enabled
@@ -510,13 +510,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="index"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string indexPropertyName = "index";
         
         /// <summary>
         /// Gets or sets the index.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The index.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.indexPropertyName, IsRequired=true, IsKey=true, IsDefaultCollection=false)]
         public virtual int index
@@ -536,13 +536,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="transform"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string transformPropertyName = "transform";
         
         /// <summary>
         /// Gets or sets the transform.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The transform.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.transformPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string transform
@@ -562,13 +562,13 @@ namespace Daw.Common.Configuration
         /// <summary>
         /// The XML name of the <see cref="feedtype"/> property.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         internal const string feedtypePropertyName = "feedtype";
         
         /// <summary>
         /// Gets or sets the feedtype.
         /// </summary>
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.7")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
         [global::System.ComponentModel.DescriptionAttribute("The feedtype.")]
         [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.feedtypePropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
         public virtual string feedtype
@@ -580,6 +580,32 @@ namespace Daw.Common.Configuration
             set
             {
                 base[global::Daw.Common.Configuration.ScheduleConfigItem.feedtypePropertyName] = value;
+            }
+        }
+        #endregion
+        
+        #region fixturesonly Property
+        /// <summary>
+        /// The XML name of the <see cref="fixturesonly"/> property.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
+        internal const string fixturesonlyPropertyName = "fixturesonly";
+        
+        /// <summary>
+        /// Gets or sets the fixturesonly.
+        /// </summary>
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("ConfigurationSectionDesigner.CsdFileGenerator", "2.0.1.801")]
+        [global::System.ComponentModel.DescriptionAttribute("The fixturesonly.")]
+        [global::System.Configuration.ConfigurationPropertyAttribute(global::Daw.Common.Configuration.ScheduleConfigItem.fixturesonlyPropertyName, IsRequired=false, IsKey=false, IsDefaultCollection=false)]
+        public virtual bool fixturesonly
+        {
+            get
+            {
+                return ((bool)(base[global::Daw.Common.Configuration.ScheduleConfigItem.fixturesonlyPropertyName]));
+            }
+            set
+            {
+                base[global::Daw.Common.Configuration.ScheduleConfigItem.fixturesonlyPropertyName] = value;
             }
         }
         #endregion

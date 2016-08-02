@@ -30,6 +30,11 @@ namespace XsltTransformer.Helpers
 
         public const string StandardDateTimeFormat = "yyyy-MMM-dd HH:mm";
 
+        public static string GetStandardFormat(DateTime dt)
+        {
+            return dt.ToString(StandardDateTimeFormat);
+        }
+
         public static string CurrentTime()
         {
             return DateTime.Now.ToString("HH:mm:ss");

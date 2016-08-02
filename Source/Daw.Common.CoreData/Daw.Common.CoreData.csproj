@@ -48,6 +48,15 @@
     <Compile Include="IncomingData\XmlPacket.cs" />
     <Compile Include="IncomingData\oddfeed.cs" />
     <Compile Include="IntermediateData\ProcessedDataPacket.cs" />
+    <Compile Include="ProcessorData\Bookie.cs" />
+    <Compile Include="ProcessorData\Event.cs" />
+    <Compile Include="ProcessorData\Market.cs" />
+    <Compile Include="ProcessorData\Price.cs" />
+    <Compile Include="ProcessorData\ProcessorDataBase.cs" />
+    <Compile Include="ProcessorData\BaseFeed.cs" />
+    <Compile Include="ProcessorData\Root.cs" />
+    <Compile Include="ProcessorData\Selection.cs" />
+    <Compile Include="ProcessorData\Sport.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
