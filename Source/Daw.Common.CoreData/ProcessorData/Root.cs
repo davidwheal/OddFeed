@@ -20,13 +20,13 @@ namespace Daw.Common.CoreData.ProcessorData
             lock (thisLock)
             {
                 BaseFeed item;
-                if (TryGetValue(packet.ConfigItem.ToString(), out item))
+                if (TryGetValue(packet.ConfigItem.CalcKey(), out item))
                 {
                     item.Assimilate(packet.ProcessedObject);
                 }
                 else
                 {
-                    TryAdd(packet.ConfigItem.ToString(), new BaseFeed(packet.ProcessedObject, packet.ConfigItem));
+                    TryAdd(packet.ConfigItem.CalcKey(), new BaseFeed(packet.ProcessedObject, packet.ConfigItem));
                 }
             }
         }

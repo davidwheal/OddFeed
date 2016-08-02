@@ -8,6 +8,7 @@ using IncomingFeedQueue;
 using Daw.Common.CoreData;
 using Daw.Common.CoreData.IncomingData;
 using Daw.Common.CoreData.IntermediateData;
+using Daw.Common.CoreData.ProcessorData;
 
 namespace Daw.Services.WindowsService.WebService
 {
@@ -19,5 +20,13 @@ namespace Daw.Services.WindowsService.WebService
 
         [OperationContract]
         ThrowAwaySupercededDataQueue<ProcessedDataPacket>.StatisticsPacket GetProcessingFeedStatistics();
+
+
+        [OperationContract]
+        Dictionary<string, BaseFeedDto> GetFeeds();
+
+
+        [OperationContract]
+        List<EventDto> GetEvents(string feedName);
     }
 }

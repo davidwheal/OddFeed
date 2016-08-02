@@ -1,16 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Daw.Common.CoreData.ProcessorData
 {
+    [DataContract]
+    public class EventDto
+    {
+        [DataMember]
+        public string Name { get; set; }
+        [DataMember]
+        public string Date { get; set; }
+       
+        public EventDto()
+        {
+        }
+
+    }
     public class Event : ProcessorDataBase
     {
+        public string Date { get; set; }
         public Event(oddfeedEvent feedObject)
         {
-            
+            Name = feedObject.name;
+            Date = feedObject.date;
         }
 
         public void Assimilate(oddfeedEvent feedObject)

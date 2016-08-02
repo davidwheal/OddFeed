@@ -1,4 +1,4 @@
-<Sport Name="HorseRacing" PageTitle="Win and Each Way" TimeStamp="01/08/16 18:07:45" xmlns="">
+<Sport Name="HorseRacing" PageTitle="Win and Each Way" TimeStamp="02/08/16 17:57:41" xmlns="">
   <Event Name="Estaronline Winter Cup" ID="57072935" OffTime="06/08/16 03:00:00" EventComment="All In Betting." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
     <Market Name="Win And Each Way" ID="1744">
       <Participant Name="Taurus" Odds="8/1" OddsDecimal="9.00" SaddleCloth="0" ID="1036481651" LastUpdated="30/07/16 03:02:37" />
@@ -29,6 +29,7 @@
       <Participant Name="Smart Volatility" Odds="15/1" OddsDecimal="16.00" SaddleCloth="0" ID="1060932001" LastUpdated="01/08/16 05:52:07" />
       <Participant Name="Tycoon Tara" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060932002" LastUpdated="01/08/16 05:52:10" />
       <Participant Name="Wouldnt It Be Nice" Odds="80/1" OddsDecimal="81.00" SaddleCloth="0" ID="1060932003" LastUpdated="01/08/16 05:53:39" />
+      <Participant Name="Mount Nebo" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1061568989" LastUpdated="02/08/16 03:44:54" />
     </Market>
   </Event>
   <Event Name="The Rosebud" ID="57641128" OffTime="06/08/16 06:00:00" EventComment="All In Betting." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
@@ -36,15 +37,16 @@
       <Participant Name="Divine Prophet" Odds="9/1" OddsDecimal="10.00" SaddleCloth="0" ID="1060933739" LastUpdated="01/08/16 05:55:24" />
       <Participant Name="Hair Trigger" Odds="9/2" OddsDecimal="5.50" SaddleCloth="0" ID="1060933740" LastUpdated="01/08/16 05:56:31" />
       <Participant Name="Legendofoz" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1060933741" LastUpdated="01/08/16 05:55:44" />
-      <Participant Name="Lilac Lane" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060933745" LastUpdated="01/08/16 06:07:49" />
+      <Participant Name="Lilac Lane" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060933745" LastUpdated="02/08/16 03:45:50" />
       <Participant Name="Mediterranean" Odds="7/4" OddsDecimal="2.75" SaddleCloth="0" ID="1060933746" LastUpdated="01/08/16 05:55:58" />
-      <Participant Name="Miss Beneteau" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060933747" LastUpdated="01/08/16 06:07:52" />
+      <Participant Name="Miss Beneteau" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060933747" LastUpdated="02/08/16 03:45:52" />
       <Participant Name="Omei Sword" Odds="7/2" OddsDecimal="4.50" SaddleCloth="0" ID="1060933748" LastUpdated="01/08/16 05:56:21" />
       <Participant Name="Pittsburgh" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1060933749" LastUpdated="01/08/16 05:58:26" />
       <Participant Name="Quick Feet" Odds="15/1" OddsDecimal="16.00" SaddleCloth="0" ID="1060933750" LastUpdated="01/08/16 05:55:29" />
       <Participant Name="Thronum" Odds="9/2" OddsDecimal="5.50" SaddleCloth="0" ID="1060933751" LastUpdated="01/08/16 05:56:24" />
       <Participant Name="Uthred" Odds="15/1" OddsDecimal="16.00" SaddleCloth="0" ID="1060933752" LastUpdated="01/08/16 05:56:41" />
-      <Participant Name="Walk Right In" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060933753" LastUpdated="01/08/16 06:07:56" />
+      <Participant Name="Walk Right In" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060933753" LastUpdated="02/08/16 03:45:49" />
+      <Participant Name="Lasqueti Spirit" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1061570420" LastUpdated="02/08/16 04:44:06" />
     </Market>
   </Event>
   <Event Name="Auries's Star Handicap" ID="57643193" OffTime="06/08/16 06:00:00" EventComment="All In Betting." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
@@ -63,6 +65,41 @@
       <Participant Name="Smart Volatility" Odds="7/2" OddsDecimal="4.50" SaddleCloth="0" ID="1060982863" LastUpdated="01/08/16 08:48:19" />
       <Participant Name="Sooboog" Odds="4/1" OddsDecimal="5.00" SaddleCloth="0" ID="1060982864" LastUpdated="01/08/16 08:47:00" />
       <Participant Name="Tashbeeh" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1060982865" LastUpdated="01/08/16 08:47:50" />
+      <Participant Name="Sagabella" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1061526159" LastUpdated="02/08/16 03:52:03" />
+    </Market>
+  </Event>
+  <Event Name="Great Voltigeur Stakes" ID="57658875" OffTime="17/08/16 15:05:00" EventComment="" Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/5">
+    <Market Name="Win And Each Way" ID="1744">
+      <Participant Name="Across The Stars" Odds="6/1" OddsDecimal="7.00" SaddleCloth="0" ID="1061721406" LastUpdated="02/08/16 09:37:28" />
+      <Participant Name="Sword Fighter" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1061721426" LastUpdated="02/08/16 09:38:59" />
+      <Participant Name="Wings Of Desire" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1061721450" LastUpdated="02/08/16 09:39:20" />
+      <Participant Name="A Year To Remember" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1061721451" LastUpdated="02/08/16 09:40:13" />
+      <Participant Name="Algometer" Odds="14/1" OddsDecimal="15.00" SaddleCloth="0" ID="1061721452" LastUpdated="02/08/16 09:37:34" />
+      <Participant Name="Big Ben" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1061721453" LastUpdated="02/08/16 09:37:35" />
+      <Participant Name="Cook Islands" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1061721461" LastUpdated="02/08/16 09:37:37" />
+      <Participant Name="Crimean Tatar" Odds="14/1" OddsDecimal="15.00" SaddleCloth="0" ID="1061721473" LastUpdated="02/08/16 09:40:19" />
+      <Participant Name="Dal Harraild" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1061721479" LastUpdated="02/08/16 09:37:41" />
+      <Participant Name="Gunnery" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1061721480" LastUpdated="02/08/16 09:37:42" />
+      <Participant Name="Harrison" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1061721481" LastUpdated="02/08/16 09:40:23" />
+      <Participant Name="High Shields" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1061721486" LastUpdated="02/08/16 09:40:24" />
+      <Participant Name="Hit It A Bomb" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1061721496" LastUpdated="02/08/16 09:40:27" />
+      <Participant Name="Housesofparliament" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1061721498" LastUpdated="02/08/16 09:37:50" />
+      <Participant Name="Idaho" Odds="3/1" OddsDecimal="4.00" SaddleCloth="0" ID="1061721499" LastUpdated="02/08/16 09:37:50" />
+      <Participant Name="Imperial Aviator" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1061721500" LastUpdated="02/08/16 09:37:53" />
+      <Participant Name="Kellstorm" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1061721501" LastUpdated="02/08/16 09:40:35" />
+      <Participant Name="Monarch" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1061721510" LastUpdated="02/08/16 09:40:36" />
+      <Participant Name="Muntahaa" Odds="8/1" OddsDecimal="9.00" SaddleCloth="0" ID="1061721517" LastUpdated="02/08/16 09:40:38" />
+      <Participant Name="Prize Money" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1061721518" LastUpdated="02/08/16 09:40:42" />
+      <Participant Name="Red Verdon" Odds="7/1" OddsDecimal="8.00" SaddleCloth="0" ID="1061721525" LastUpdated="02/08/16 09:39:33" />
+      <Participant Name="Shogun" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1061721526" LastUpdated="02/08/16 09:40:47" />
+      <Participant Name="Sky Kingdom" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1061721527" LastUpdated="02/08/16 09:38:22" />
+      <Participant Name="Steel Of Madrid" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1061721528" LastUpdated="02/08/16 09:41:21" />
+      <Participant Name="Stellar Mass" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1061721529" LastUpdated="02/08/16 09:38:26" />
+      <Participant Name="The Major General" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1061721532" LastUpdated="02/08/16 09:39:00" />
+      <Participant Name="Uae Prince" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1061721533" LastUpdated="02/08/16 09:41:10" />
+      <Participant Name="Ulysses" Odds="7/1" OddsDecimal="8.00" SaddleCloth="0" ID="1061721534" LastUpdated="02/08/16 09:39:43" />
+      <Participant Name="Unicorn" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1061721537" LastUpdated="02/08/16 09:39:16" />
+      <Participant Name="Us Army Ranger" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1061721538" LastUpdated="02/08/16 09:39:19" />
     </Market>
   </Event>
   <Event Name="Juddmonte International Stakes" ID="56940559" OffTime="17/08/16 15:40:00" EventComment="" Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/5">
@@ -170,6 +207,7 @@
       <Participant Name="Thesme" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1031193087" LastUpdated="22/06/16 16:35:42" />
       <Participant Name="Washington Dc" Odds="14/1" OddsDecimal="15.00" SaddleCloth="0" ID="1031193092" LastUpdated="31/07/16 08:23:09" />
       <Participant Name="Brando" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1038371849" LastUpdated="31/07/16 08:22:21" />
+      <Participant Name="Yalta" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="1061765316" LastUpdated="02/08/16 10:32:01" />
     </Market>
   </Event>
   <Event Name="Ebor" ID="57203641" OffTime="20/08/16 15:25:00" EventComment="" Going="" RaceType="" RaceDistance="" PlaceCount="4" PlaceOdds="1/4">
@@ -178,7 +216,7 @@
       <Participant Name="Al" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1042169690" LastUpdated="20/07/16 14:14:35" />
       <Participant Name="Amour De Nuit" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1042169696" LastUpdated="07/07/16 16:29:16" />
       <Participant Name="Angel Gabrial" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1042169699" LastUpdated="07/07/16 16:29:18" />
-      <Participant Name="Antiquarium" Odds="11/1" OddsDecimal="12.00" SaddleCloth="0" ID="1042169705" LastUpdated="20/07/16 08:40:26" />
+      <Participant Name="Antiquarium" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="1042169705" LastUpdated="02/08/16 09:04:23" />
       <Participant Name="Appeared" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1042169707" LastUpdated="20/07/16 08:40:27" />
       <Participant Name="Arch Villain" Odds="28/1" OddsDecimal="29.00" SaddleCloth="0" ID="1042169714" LastUpdated="20/07/16 08:40:34" />
       <Participant Name="Argus" Odds="28/1" OddsDecimal="29.00" SaddleCloth="0" ID="1042169715" LastUpdated="07/07/16 16:29:24" />
@@ -196,7 +234,7 @@
       <Participant Name="Central Square" Odds="28/1" OddsDecimal="29.00" SaddleCloth="0" ID="1042169791" LastUpdated="20/07/16 14:14:49" />
       <Participant Name="Charming Kitten" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1042169798" LastUpdated="20/07/16 14:14:53" />
       <Participant Name="Claudio Monteverdi" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1042169799" LastUpdated="20/07/16 14:14:55" />
-      <Participant Name="Clondaw Warrior" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1042169800" LastUpdated="28/07/16 16:49:48" />
+      <Participant Name="Clondaw Warrior" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="1042169800" LastUpdated="02/08/16 09:04:05" />
       <Participant Name="Cole Porter" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1042169801" LastUpdated="07/07/16 16:30:12" />
       <Participant Name="Commisioned" Odds="18/1" OddsDecimal="19.00" SaddleCloth="0" ID="1042169804" LastUpdated="20/07/16 14:15:03" />
       <Participant Name="Cook Islands" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1042169805" LastUpdated="07/07/16 16:30:16" />
@@ -225,7 +263,7 @@
       <Participant Name="Gunnery" Odds="28/1" OddsDecimal="29.00" SaddleCloth="0" ID="1042169884" LastUpdated="07/07/16 16:41:49" />
       <Participant Name="Hardstone" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1042169893" LastUpdated="07/07/16 16:41:49" />
       <Participant Name="Havana Beat" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1042169910" LastUpdated="07/07/16 16:41:49" />
-      <Participant Name="Housesofparliament" Odds="11/1" OddsDecimal="12.00" SaddleCloth="0" ID="1042169928" LastUpdated="20/07/16 14:16:57" />
+      <Participant Name="Housesofparliament" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="1042169928" LastUpdated="02/08/16 09:04:18" />
       <Participant Name="Huge Future" Odds="28/1" OddsDecimal="29.00" SaddleCloth="0" ID="1042169932" LastUpdated="07/07/16 16:41:49" />
       <Participant Name="Important Message" Odds="28/1" OddsDecimal="29.00" SaddleCloth="0" ID="1042169934" LastUpdated="07/07/16 16:41:50" />
       <Participant Name="Ivan Grozny" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="1042169944" LastUpdated="29/07/16 19:32:47" />
@@ -316,7 +354,7 @@
       <Participant Name="Bohemian Lily" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1055991832" LastUpdated="26/07/16 08:28:11" />
       <Participant Name="Farm Boy" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1055991833" LastUpdated="26/07/16 08:28:21" />
       <Participant Name="Hasselhoof" Odds="6/1" OddsDecimal="7.00" SaddleCloth="0" ID="1055991834" LastUpdated="26/07/16 08:28:26" />
-      <Participant Name="Capella" Odds="14/1" OddsDecimal="15.00" SaddleCloth="0" ID="1055991835" LastUpdated="26/07/16 08:28:16" />
+      <Participant Name="Capella" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1055991835" LastUpdated="02/08/16 01:57:27" />
       <Participant Name="Mime" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1055991836" LastUpdated="26/07/16 08:28:42" />
       <Participant Name="Battle Time" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1055991837" LastUpdated="26/07/16 08:28:07" />
       <Participant Name="Our Vergara" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1055991844" LastUpdated="26/07/16 08:29:00" />
@@ -391,6 +429,7 @@
       <Participant Name="Mayfair Lady" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1043594437" LastUpdated="09/07/16 17:19:28" />
       <Participant Name="Only Mine" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1043594438" LastUpdated="09/07/16 17:19:28" />
       <Participant Name="Quiet Reflection" Odds="7/1" OddsDecimal="8.00" SaddleCloth="0" ID="1043594439" LastUpdated="09/07/16 17:19:28" />
+      <Participant Name="Dancing Star" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1061984759" LastUpdated="02/08/16 15:19:33" />
     </Market>
   </Event>
   <Event Name="Golden Rose" ID="55721581" OffTime="10/09/16 01:00:00" EventComment="Bets refunded if horse is not in the FIRST set of nominations." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
@@ -601,7 +640,7 @@
       <Participant Name="Witches" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1049222750" LastUpdated="17/07/16 06:54:58" />
       <Participant Name="Woomera" Odds="200/1" OddsDecimal="201.00" SaddleCloth="0" ID="1049222751" LastUpdated="17/07/16 06:54:58" />
       <Participant Name="You Smart Fox" Odds="200/1" OddsDecimal="201.00" SaddleCloth="0" ID="1049222754" LastUpdated="17/07/16 06:54:59" />
-      <Participant Name="Young Huit" Odds="200/1" OddsDecimal="201.00" SaddleCloth="0" ID="1049222757" LastUpdated="17/07/16 06:54:59" />
+      <Participant Name="Young Huit" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1049222757" LastUpdated="02/08/16 06:40:27" />
       <Participant Name="Zafina" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1049222758" LastUpdated="30/07/16 03:41:50" />
       <Participant Name="Zamzam" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1049222759" LastUpdated="17/07/16 06:54:59" />
       <Participant Name="Zunbaqa" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1049222760" LastUpdated="23/07/16 05:31:15" />
@@ -686,6 +725,7 @@
       <Participant Name="Landofhopeandglory" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1045277965" LastUpdated="13/07/16 13:20:16" />
       <Participant Name="Port Douglas" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1045277984" LastUpdated="13/07/16 13:20:17" />
       <Participant Name="Bhutan" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1045277988" LastUpdated="13/07/16 13:20:16" />
+      <Participant Name="Big Orange" Odds="7/1" OddsDecimal="8.00" SaddleCloth="0" ID="1061787462" LastUpdated="02/08/16 11:01:03" />
     </Market>
   </Event>
   <Event Name="Windsor Park Plate" ID="57545552" OffTime="17/09/16 03:00:00" EventComment="All In Betting." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
@@ -839,123 +879,6 @@
       <Participant Name="Highland Reel" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1054364421" LastUpdated="23/07/16 16:46:01" />
     </Market>
   </Event>
-  <Event Name="Caulfield Guineas" ID="55364753" OffTime="08/10/16 02:00:00" EventComment="Bets refunded if horse is not in the FIRST set of nominations." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
-    <Market Name="Win And Each Way" ID="1744">
-      <Participant Name="Capitalist" Odds="11/2" OddsDecimal="6.50" SaddleCloth="0" ID="968740906" LastUpdated="28/07/16 11:45:08" />
-      <Participant Name="Extreme Choice" Odds="8/1" OddsDecimal="9.00" SaddleCloth="0" ID="968740911" LastUpdated="28/07/16 11:45:08" />
-      <Participant Name="Sacred Elixir" Odds="8/1" OddsDecimal="9.00" SaddleCloth="0" ID="1023121400" LastUpdated="31/07/16 05:07:15" />
-      <Participant Name="El Divino" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="968740916" LastUpdated="12/06/16 01:11:51" />
-      <Participant Name="Telperion" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="968740917" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Derryn" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1060311192" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Good Standing" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="968740918" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Russian Revolution" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1033641780" LastUpdated="28/07/16 11:45:08" />
-      <Participant Name="Astern" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="968740921" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Prized Icon" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="971276741" LastUpdated="28/07/16 11:45:08" />
-      <Participant Name="Winning Rupert" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1033641781" LastUpdated="28/07/16 11:45:08" />
-      <Participant Name="Impending" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1058493456" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Seaburge" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="968740923" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Star Of Monsoon" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060311193" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Yu Long Sheng Hui" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1057888141" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="Artie Dee Two" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033641783" LastUpdated="31/07/16 05:28:33" />
-      <Participant Name="I'm Telling Ya" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1039385434" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Mr Sneaky" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1050381650" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Nikitas" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1060311194" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Acatour" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1060311195" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Defcon" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="968748878" LastUpdated="28/07/16 11:45:08" />
-      <Participant Name="Redouble" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033641782" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Throssell" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1039385433" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Urban Ruler" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1023736385" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Hardham" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1049796160" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Blue Tycoon" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1029824629" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Flow" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060311196" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Tessera" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060311197" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Trenchant" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060311198" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Weatherly" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060311199" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Benny Goes Berzerk" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033641784" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Brother Darkness" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023736706" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Attention" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="968740924" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Sahara Emaar" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1039385697" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Divine Prophet" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="977767814" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Theanswermyfriend" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1016502723" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Star Turn" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="968748865" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Detective" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="968740922" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Dam Ready" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060311202" LastUpdated="31/07/16 05:29:47" />
-      <Participant Name="Radcliffe" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060311203" LastUpdated="31/07/16 05:29:39" />
-      <Participant Name="Swear" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060311204" LastUpdated="31/07/16 05:29:43" />
-      <Participant Name="Revolving Door" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="968740927" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Niccolance" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1023736384" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Sezanne" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1060311205" LastUpdated="31/07/16 05:29:54" />
-      <Participant Name="Ridgway" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1060311206" LastUpdated="31/07/16 05:29:48" />
-      <Participant Name="Streets Of Dubai" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033641785" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Lessyd" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023736386" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Power Trip" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="968740925" LastUpdated="31/07/16 05:28:34" />
-      <Participant Name="Calabasas" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060311207" LastUpdated="31/07/16 05:30:08" />
-      <Participant Name="Shaolin Kungfu" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060311208" LastUpdated="31/07/16 05:30:02" />
-      <Participant Name="Wonderful Story" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060311209" LastUpdated="31/07/16 05:29:59" />
-    </Market>
-  </Event>
-  <Event Name="Thousand Guineas" ID="55364754" OffTime="08/10/16 02:00:00" EventComment="Bets refunded if horse is not in the FIRST set of nominations." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
-    <Market Name="Win And Each Way" ID="1744">
-      <Participant Name="Yankee Rose" Odds="5/1" OddsDecimal="6.00" SaddleCloth="0" ID="968740928" LastUpdated="21/06/16 13:16:10" />
-      <Participant Name="Samara Dancer" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="968740929" LastUpdated="06/04/16 05:07:02" />
-      <Participant Name="Omei Sword" Odds="9/1" OddsDecimal="10.00" SaddleCloth="0" ID="968740930" LastUpdated="06/04/16 05:07:02" />
-      <Participant Name="Zamzam" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="968740931" LastUpdated="12/06/16 00:59:47" />
-      <Participant Name="Miss Nymeria" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="968740932" LastUpdated="06/04/16 05:07:18" />
-      <Participant Name="Sweet Sherry" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="968740933" LastUpdated="06/04/16 05:07:02" />
-      <Participant Name="Faraway Town" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="968740934" LastUpdated="12/05/16 11:55:54" />
-      <Participant Name="Hot Dipped" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="968740935" LastUpdated="06/04/16 05:07:17" />
-      <Participant Name="Kinetic Design" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="968740936" LastUpdated="06/04/16 05:07:20" />
-      <Participant Name="If Not Now When" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="968740937" LastUpdated="23/04/16 06:24:27" />
-      <Participant Name="Honesty Prevails" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="968753645" LastUpdated="31/07/16 04:15:50" />
-      <Participant Name="Quick Feet" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="968753646" LastUpdated="06/04/16 05:12:33" />
-      <Participant Name="Calliope" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="968753647" LastUpdated="04/07/16 00:27:53" />
-      <Participant Name="French Fern" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="968753648" LastUpdated="06/04/16 05:13:02" />
-      <Participant Name="Scarlet Rain" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="968753649" LastUpdated="06/04/16 05:11:57" />
-      <Participant Name="Manaya" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="1002235330" LastUpdated="18/06/16 10:20:22" />
-      <Participant Name="Harlow Gold" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1009291273" LastUpdated="31/07/16 04:16:10" />
-      <Participant Name="Smart Manoeuvre" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1028432240" LastUpdated="18/06/16 16:15:43" />
-      <Participant Name="Serenely Discreet" Odds="30/1" OddsDecimal="31.00" SaddleCloth="0" ID="1029415355" LastUpdated="20/06/16 08:51:26" />
-      <Participant Name="Missrock" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1030134971" LastUpdated="29/07/16 04:31:32" />
-      <Participant Name="Whispering Brook" Odds="15/1" OddsDecimal="16.00" SaddleCloth="0" ID="1033622740" LastUpdated="04/07/16 00:27:45" />
-      <Participant Name="Sebrikka" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1033622743" LastUpdated="16/07/16 02:53:27" />
-      <Participant Name="Concealer" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033622744" LastUpdated="26/06/16 02:18:38" />
-      <Participant Name="Modern Wonder" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1039386491" LastUpdated="04/07/16 00:33:55" />
-      <Participant Name="Faith's Encore" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1060289657" LastUpdated="31/07/16 04:14:04" />
-      <Participant Name="Invincibella" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1060289659" LastUpdated="31/07/16 04:14:04" />
-      <Participant Name="I Am A Star" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289660" LastUpdated="31/07/16 04:14:04" />
-      <Participant Name="Blowing Kisses" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289661" LastUpdated="31/07/16 04:14:05" />
-      <Participant Name="In The Vanguard" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289663" LastUpdated="31/07/16 04:14:05" />
-      <Participant Name="Skylight Glow" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289664" LastUpdated="31/07/16 04:14:05" />
-      <Participant Name="My Country" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289665" LastUpdated="31/07/16 04:14:06" />
-      <Participant Name="Candika" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289675" LastUpdated="31/07/16 04:14:06" />
-      <Participant Name="Raiment" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289676" LastUpdated="31/07/16 04:14:06" />
-      <Participant Name="Nonpareil" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289677" LastUpdated="31/07/16 04:14:06" />
-      <Participant Name="Chipanda" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289678" LastUpdated="31/07/16 04:14:06" />
-      <Participant Name="Leotie" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1060289679" LastUpdated="31/07/16 04:14:06" />
-      <Participant Name="Sylpheed" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1060289680" LastUpdated="31/07/16 04:14:06" />
-      <Participant Name="Flying Jess" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1060289681" LastUpdated="31/07/16 04:14:08" />
-      <Participant Name="Tiyatrolani" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1060289682" LastUpdated="31/07/16 04:14:08" />
-      <Participant Name="Thyme For Roses" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060289683" LastUpdated="31/07/16 04:14:08" />
-      <Participant Name="Selenia" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060289684" LastUpdated="31/07/16 04:14:08" />
-      <Participant Name="Soviet Secret" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060289685" LastUpdated="31/07/16 04:14:08" />
-      <Participant Name="Irish Sea" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1060289686" LastUpdated="31/07/16 04:14:09" />
-      <Participant Name="Twist Tops" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289687" LastUpdated="31/07/16 04:20:38" />
-      <Participant Name="Conchita" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289688" LastUpdated="31/07/16 04:20:42" />
-      <Participant Name="Sweet Ora" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289689" LastUpdated="31/07/16 04:20:43" />
-      <Participant Name="Ariaz" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289702" LastUpdated="31/07/16 04:20:45" />
-      <Participant Name="Alter Call" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289721" LastUpdated="31/07/16 04:20:48" />
-      <Participant Name="Gimlet" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289722" LastUpdated="31/07/16 04:20:50" />
-      <Participant Name="Smart Amelia" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289723" LastUpdated="31/07/16 04:20:52" />
-      <Participant Name="Sword Of Light" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1060289724" LastUpdated="31/07/16 04:20:55" />
-      <Participant Name="Hussterical" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1060289731" LastUpdated="31/07/16 04:20:57" />
-      <Participant Name="Vienna Waltz" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1060289732" LastUpdated="31/07/16 04:20:59" />
-      <Participant Name="Emphatically" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1060289733" LastUpdated="31/07/16 04:21:02" />
-      <Participant Name="Want To Rock" Odds="80/1" OddsDecimal="81.00" SaddleCloth="0" ID="1060289734" LastUpdated="31/07/16 04:21:04" />
-      <Participant Name="Vintage Quartz" Odds="80/1" OddsDecimal="81.00" SaddleCloth="0" ID="1060289735" LastUpdated="31/07/16 04:21:07" />
-      <Participant Name="La Renarde" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060289736" LastUpdated="31/07/16 04:21:09" />
-      <Participant Name="Dream First" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1060289737" LastUpdated="31/07/16 04:21:13" />
-    </Market>
-  </Event>
   <Event Name="Dewhurst Stakes" ID="57353813" OffTime="08/10/16 15:00:00" EventComment="" Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/5">
     <Market Name="Win And Each Way" ID="1744">
       <Participant Name="Caravaggio" Odds="5/4" OddsDecimal="2.25" SaddleCloth="0" ID="1047750491" LastUpdated="15/07/16 14:45:43" />
@@ -965,110 +888,6 @@
       <Participant Name="Seven Heavens" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1047750563" LastUpdated="15/07/16 14:49:54" />
       <Participant Name="South Seas" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1047750571" LastUpdated="15/07/16 14:50:16" />
       <Participant Name="Radio Silence" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1048469127" LastUpdated="16/07/16 08:06:54" />
-    </Market>
-  </Event>
-  <Event Name="Caulfield Cup" ID="51617361" OffTime="15/10/16 03:00:00" EventComment="Bets refunded if horse is not in the FIRST set of nominations." Going="" RaceType="" RaceDistance="" PlaceCount="4" PlaceOdds="1/4">
-    <Market Name="Win And Each Way" ID="1744">
-      <Participant Name="Fame Game" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="847492960" LastUpdated="08/07/16 06:17:00" />
-      <Participant Name="Tarzino" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="858585118" LastUpdated="01/07/16 02:27:46" />
-      <Participant Name="Hauraki" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="847492961" LastUpdated="27/01/16 06:37:14" />
-      <Participant Name="Tavago" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="967065436" LastUpdated="06/06/16 02:30:06" />
-      <Participant Name="The United States" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1019396533" LastUpdated="06/06/16 02:30:06" />
-      <Participant Name="Amralah" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="847531847" LastUpdated="06/06/16 02:30:06" />
-      <Participant Name="Our Ivanhowe" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="847492959" LastUpdated="06/06/16 02:30:06" />
-      <Participant Name="Signoff" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="866094457" LastUpdated="06/06/16 02:30:06" />
-      <Participant Name="Storm The Stars" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="891617440" LastUpdated="06/06/16 02:30:06" />
-      <Participant Name="Tally" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="955964906" LastUpdated="06/06/16 02:30:06" />
-      <Participant Name="Hartnell" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="847492964" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Sofia Rosa" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="974810648" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Trip To Paris" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="847492958" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Preferment" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="847492965" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Raw Impulse" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="958930270" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Amelie's Star" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="960881553" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Havana Cooler" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="962306230" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Vanbrugh" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="870057526" LastUpdated="27/01/16 06:37:13" />
-      <Participant Name="Gust Of Wind" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="870057527" LastUpdated="12/05/16 11:30:35" />
-      <Participant Name="Tall Ship" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="861276944" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Tom Melbourne" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="944862216" LastUpdated="16/04/16 23:35:48" />
-      <Participant Name="Prince Of Penzance" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1008763643" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Almoonqith" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="847492967" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Alpine Eagle" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1019396534" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Gallante" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="971453193" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Magic Hurricane" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="924299433" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Charlevoix" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1002146102" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Abbey Marie" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1002146103" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Berisha" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="965440590" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Fanatic" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1011574520" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Divan" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1012199493" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Jameka" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="956775968" LastUpdated="29/07/16 04:32:47" />
-      <Participant Name="Capella" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="971379404" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Protectionist" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1021437165" LastUpdated="08/06/16 22:54:00" />
-      <Participant Name="Ambience" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="971379425" LastUpdated="06/06/16 02:30:08" />
-      <Participant Name="Tavi Bay" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1015888394" LastUpdated="06/06/16 02:30:09" />
-      <Participant Name="Believe" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="971379448" LastUpdated="06/06/16 02:30:09" />
-      <Participant Name="Sacred Eye" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="847531844" LastUpdated="06/06/16 02:30:09" />
-      <Participant Name="Etymology" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="953801554" LastUpdated="08/06/16 22:54:00" />
-      <Participant Name="Provocative" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1023121283" LastUpdated="11/06/16 08:02:15" />
-      <Participant Name="Eagle Way" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023121284" LastUpdated="11/06/16 08:03:35" />
-      <Participant Name="Maurus" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1028051940" LastUpdated="18/06/16 06:25:48" />
-      <Participant Name="Order Of St George" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1033683236" LastUpdated="26/06/16 05:48:14" />
-      <Participant Name="Almandin" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033683237" LastUpdated="26/06/16 05:48:25" />
-      <Participant Name="Cryptogram" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033683240" LastUpdated="26/06/16 05:48:28" />
-      <Participant Name="Dartmouth" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033683241" LastUpdated="26/06/16 05:44:24" />
-      <Participant Name="Guardini" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033683242" LastUpdated="26/06/16 05:44:24" />
-      <Participant Name="Lucia Valentina" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033683243" LastUpdated="26/06/16 05:44:24" />
-      <Participant Name="Set Square" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033683244" LastUpdated="26/06/16 05:44:24" />
-      <Participant Name="Who Shot Thebarman" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1033683245" LastUpdated="26/06/16 05:44:25" />
-      <Participant Name="Albert" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683246" LastUpdated="26/06/16 05:44:25" />
-      <Participant Name="Crocodile Rock" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683247" LastUpdated="26/06/16 05:44:25" />
-      <Participant Name="Excess Knowledge" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683248" LastUpdated="26/06/16 05:44:25" />
-      <Participant Name="Hans Holbein" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683251" LastUpdated="26/06/16 05:44:26" />
-      <Participant Name="Hokko Brave" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683252" LastUpdated="26/06/16 05:44:26" />
-      <Participant Name="Howard Be Thy Name" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683253" LastUpdated="26/06/16 05:44:26" />
-      <Participant Name="Kia Ora Koutou" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683254" LastUpdated="26/06/16 05:50:25" />
-      <Participant Name="Xtravagant" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1033683255" LastUpdated="26/06/16 05:44:27" />
-      <Participant Name="Chance To Dance" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683256" LastUpdated="26/06/16 05:58:39" />
-      <Participant Name="Cool Chap" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683257" LastUpdated="26/06/16 05:58:42" />
-      <Participant Name="Happy Hannah" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683258" LastUpdated="26/06/16 05:58:45" />
-      <Participant Name="Imposing Lass" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683259" LastUpdated="26/06/16 05:58:48" />
-      <Participant Name="Libran" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683260" LastUpdated="26/06/16 05:58:51" />
-      <Participant Name="Palentino" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683261" LastUpdated="26/06/16 05:58:53" />
-      <Participant Name="Snow Sky" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683262" LastUpdated="26/06/16 05:58:56" />
-      <Participant Name="Terrubi" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683263" LastUpdated="26/06/16 05:58:58" />
-      <Participant Name="Tulsa" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1033683264" LastUpdated="26/06/16 05:59:02" />
-      <Participant Name="Battlecamp" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683265" LastUpdated="26/06/16 05:59:05" />
-      <Participant Name="Bohemian Lily" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683272" LastUpdated="26/06/16 05:59:08" />
-      <Participant Name="Grand Marshal" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683273" LastUpdated="26/06/16 05:59:12" />
-      <Participant Name="Honesta" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683274" LastUpdated="26/06/16 05:59:16" />
-      <Participant Name="Mackintosh" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683275" LastUpdated="26/06/16 05:59:19" />
-      <Participant Name="Magnapal" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683276" LastUpdated="26/06/16 05:59:21" />
-      <Participant Name="Master Zephyr" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683277" LastUpdated="26/06/16 05:59:27" />
-      <Participant Name="Rising Romance" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683278" LastUpdated="26/06/16 05:59:29" />
-      <Participant Name="Zanteca" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1033683279" LastUpdated="26/06/16 05:59:31" />
-      <Participant Name="Alaskan Rose" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683280" LastUpdated="26/06/16 05:59:35" />
-      <Participant Name="Allergic" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683281" LastUpdated="26/06/16 05:59:38" />
-      <Participant Name="Benzini" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683282" LastUpdated="26/06/16 05:59:41" />
-      <Participant Name="Dawnie Perfect" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683283" LastUpdated="26/06/16 05:59:45" />
-      <Participant Name="Dibayani" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683284" LastUpdated="26/06/16 05:59:48" />
-      <Participant Name="Falkenberg" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683285" LastUpdated="26/06/16 05:59:50" />
-      <Participant Name="Glorious Sinndar" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683286" LastUpdated="26/06/16 05:59:52" />
-      <Participant Name="High Midnight" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683287" LastUpdated="26/06/16 05:59:57" />
-      <Participant Name="Lizard Island" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683288" LastUpdated="26/06/16 06:00:00" />
-      <Participant Name="Purple Smile" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683289" LastUpdated="26/06/16 06:00:02" />
-      <Participant Name="Quest For More" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683290" LastUpdated="26/06/16 06:00:06" />
-      <Participant Name="Ragnaar" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683291" LastUpdated="26/06/16 06:00:08" />
-      <Participant Name="Ready For Victory" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683292" LastUpdated="26/06/16 06:00:11" />
-      <Participant Name="Royal Rumble" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683293" LastUpdated="26/06/16 06:00:13" />
-      <Participant Name="Santa Ana Lane" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683294" LastUpdated="26/06/16 06:00:18" />
-      <Participant Name="Sovereign Nation" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683295" LastUpdated="26/06/16 06:00:20" />
-      <Participant Name="Stay With Me" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683299" LastUpdated="26/06/16 06:00:23" />
-      <Participant Name="Thurston" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1033683300" LastUpdated="26/06/16 06:00:28" />
-      <Participant Name="Marialite" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1034828169" LastUpdated="29/07/16 04:32:57" />
-      <Participant Name="Big Orange" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1042709303" LastUpdated="28/07/16 15:14:33" />
-      <Participant Name="Scotland" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1048251399" LastUpdated="15/07/16 22:48:41" />
-      <Participant Name="Highland Reel" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1052396085" LastUpdated="24/07/16 23:33:11" />
-      <Participant Name="Singing" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1052692972" LastUpdated="23/07/16 04:27:36" />
-      <Participant Name="Kings Fete" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1059376551" LastUpdated="30/07/16 01:02:32" />
     </Market>
   </Event>
   <Event Name="UK Flat Jockey Championship 2016" ID="51536621" OffTime="15/10/16 12:00:00" EventComment="" Going="" RaceType="" RaceDistance="" PlaceCount="1" PlaceOdds="1/1">
@@ -1082,111 +901,6 @@
       <Participant Name="Jim Crowley" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="844434663" LastUpdated="25/07/16 10:28:50" />
       <Participant Name="Luke Morris" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="842908304" LastUpdated="03/04/16 14:05:56" />
       <Participant Name="Adam Kirby" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1055529041" LastUpdated="27/07/16 20:42:03" />
-    </Market>
-  </Event>
-  <Event Name="Cox Plate" ID="51617381" OffTime="22/10/16 03:00:00" EventComment="Bets refunded if horse is not in the FIRST set of nominations." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
-    <Market Name="Win And Each Way" ID="1744">
-      <Participant Name="Winx" Odds="9/4" OddsDecimal="3.25" SaddleCloth="0" ID="847495079" LastUpdated="28/06/16 01:32:10" />
-      <Participant Name="Werther" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="985306838" LastUpdated="12/07/16 02:03:09" />
-      <Participant Name="Lucia Valentina" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="971456170" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="The United States" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="956958426" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Maurice" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1021495915" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Scottish" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1045053206" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Hit It A Bomb" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="920139880" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Tosen Stardom" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="975513291" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Azkadellia" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="858470122" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="A Shin Hikari" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1021436654" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Tarzino" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="847495102" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Tryster" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1021614877" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Last Impact" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1021614878" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Sacred Elixir" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1023748981" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Idaho" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1023749029" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Deauville" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1044338181" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Yankee Rose" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="967136878" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Time Test" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="981234651" LastUpdated="29/07/16 04:33:20" />
-      <Participant Name="Black Sea" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="981525843" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Hartnell" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="847495081" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Black Heart Bart" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1009765945" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Fawkner" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="869174474" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="Preferment" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="847495082" LastUpdated="12/07/16 02:03:10" />
-      <Participant Name="The Grey Gatsby" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1021614875" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Palentino" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="869174510" LastUpdated="29/07/16 04:33:14" />
-      <Participant Name="Xtravagant" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="860733181" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Kitasan Black" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1021614881" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Turn Me Loose" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="860752829" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Our Ivanhowe" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="1023748999" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Gailo Chop" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="869174448" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Happy Clapper" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="971456171" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Highland Reel" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="847495083" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Ghisoni" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="1023749011" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Suavito" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="993720081" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Amralah" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="847531346" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Hauraki" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="847495099" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Mahuta" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="902111236" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Alpine Eagle" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="869174445" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Raw Impulse" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="958929350" LastUpdated="29/07/16 04:33:48" />
-      <Participant Name="Jameka" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="869174466" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Stratum Star" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="869174462" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Cannock Chase" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1021614882" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Bow Creek" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="847531331" LastUpdated="29/07/16 04:33:54" />
-      <Participant Name="Sofia Rosa" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="974810894" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Stay With Me" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="869174458" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Arod" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749012" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="English" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749019" LastUpdated="12/07/16 02:03:11" />
-      <Participant Name="Guardini" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749024" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Hans Holbein" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749027" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="First Seal" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="869174455" LastUpdated="29/07/16 04:33:31" />
-      <Participant Name="Mackintosh" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749033" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Order Of St George" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749037" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Perfect Reflection" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749040" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Tally" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749047" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Tavago" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023749052" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Vanbrugh" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1023752167" LastUpdated="29/07/16 04:33:39" />
-      <Participant Name="Bassett" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="869174489" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Happy Trails" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="869174495" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Telperion" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1023749109" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Vadamos" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1021614876" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Crocodile Rock" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1023749062" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Prized Icon" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1023749103" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Pasadena Girl" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="869174482" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Dibayani" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749077" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Lucky Hussler" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749097" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Mourinho" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="869174485" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Ready For Victory" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="869174507" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Abbey Marie" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749110" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Arab Dawn" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749114" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Awesome Rock" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749115" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Cool Chap" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749118" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Excess Knowledge" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749119" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Fenway" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749122" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Gallante" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749123" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="He Or She" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749126" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Neverland" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749127" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Observational" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749130" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Old North" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749131" LastUpdated="12/07/16 02:03:12" />
-      <Participant Name="Prince Of Penzance" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749134" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Rageese" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749136" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Rising Romance" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749138" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Signoff" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749140" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Silent Sedition" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749144" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Tall Ship" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749147" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Thames Court" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749156" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="The Cleaner" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1023749157" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Magic Hurricane" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="869174452" LastUpdated="29/07/16 04:34:08" />
-      <Participant Name="Gust Of Wind" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="893021660" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Disposition" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="869174470" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Mr Individual" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1023749169" LastUpdated="16/07/16 05:16:21" />
-      <Participant Name="Set Square" Odds="150/1" OddsDecimal="151.00" SaddleCloth="0" ID="1023749170" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Sweynesse" Odds="150/1" OddsDecimal="151.00" SaddleCloth="0" ID="1023749171" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Tessera" Odds="150/1" OddsDecimal="151.00" SaddleCloth="0" ID="1023749172" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="O'driscoll" Odds="150/1" OddsDecimal="151.00" SaddleCloth="0" ID="869174514" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Sacred Eye" Odds="150/1" OddsDecimal="151.00" SaddleCloth="0" ID="860765615" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Believe" Odds="150/1" OddsDecimal="151.00" SaddleCloth="0" ID="1023749167" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Urban Ruler" Odds="200/1" OddsDecimal="201.00" SaddleCloth="0" ID="964386415" LastUpdated="12/07/16 02:03:13" />
-      <Participant Name="Lightning Spear" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="1058469871" LastUpdated="28/07/16 23:12:25" />
-      <Participant Name="Impending" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1058493617" LastUpdated="29/07/16 00:33:05" />
-      <Participant Name="El Divino" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="1058508984" LastUpdated="29/07/16 01:33:05" />
-      <Participant Name="Single Gaze" Odds="100/1" OddsDecimal="101.00" SaddleCloth="0" ID="1058560425" LastUpdated="29/07/16 03:27:53" />
     </Market>
   </Event>
   <Event Name="Melbourne Cup" ID="51790334" OffTime="01/11/16 04:17:00" EventComment="Bets refunded if horse is not in the FIRST set of nominations." Going="" RaceType="" RaceDistance="" PlaceCount="4" PlaceOdds="1/4">
@@ -1346,20 +1060,20 @@
       <Participant Name="Beholder" Odds="7/1" OddsDecimal="8.00" SaddleCloth="0" ID="962962708" LastUpdated="31/07/16 10:14:49" />
       <Participant Name="Songbird" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="962962711" LastUpdated="24/07/16 09:05:27" />
       <Participant Name="Dortmund" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="962962714" LastUpdated="31/07/16 10:14:56" />
-      <Participant Name="Mohaymen" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="962962716" LastUpdated="13/06/16 08:13:20" />
+      <Participant Name="Mohaymen" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="962962716" LastUpdated="02/08/16 10:37:47" />
       <Participant Name="Effinex" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="962962720" LastUpdated="13/06/16 08:13:08" />
       <Participant Name="Frosted" Odds="6/1" OddsDecimal="7.00" SaddleCloth="0" ID="962962721" LastUpdated="31/07/16 10:15:03" />
       <Participant Name="Hit It A Bomb" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="962962723" LastUpdated="13/06/16 08:13:13" />
       <Participant Name="Exaggerator" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="962962724" LastUpdated="01/08/16 08:04:46" />
-      <Participant Name="Hoppertunity" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="962962727" LastUpdated="31/07/16 10:15:06" />
+      <Participant Name="Hoppertunity" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="962962727" LastUpdated="02/08/16 10:37:40" />
       <Participant Name="Imperative" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="962962728" LastUpdated="13/06/16 08:13:17" />
       <Participant Name="Mor Spirit" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="962962729" LastUpdated="08/05/16 09:11:08" />
-      <Participant Name="Nyquist" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="962962730" LastUpdated="01/08/16 08:04:34" />
-      <Participant Name="Keen Ice" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="962962732" LastUpdated="13/06/16 08:13:18" />
-      <Participant Name="Destin" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="974134684" LastUpdated="31/07/16 10:14:54" />
+      <Participant Name="Nyquist" Odds="14/1" OddsDecimal="15.00" SaddleCloth="0" ID="962962730" LastUpdated="02/08/16 10:37:50" />
+      <Participant Name="Keen Ice" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="962962732" LastUpdated="02/08/16 10:37:44" />
+      <Participant Name="Destin" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="974134684" LastUpdated="02/08/16 10:37:34" />
       <Participant Name="Suddenbreakingnews" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="992549213" LastUpdated="13/06/16 08:13:52" />
-      <Participant Name="Creator" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1029977846" LastUpdated="24/07/16 09:07:01" />
-      <Participant Name="Melatonin" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="1034250314" LastUpdated="27/06/16 08:21:48" />
+      <Participant Name="Creator" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1029977846" LastUpdated="02/08/16 10:37:32" />
+      <Participant Name="Melatonin" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1034250314" LastUpdated="02/08/16 10:37:45" />
     </Market>
   </Event>
   <Event Name="Railway Stakes" ID="52534790" OffTime="19/11/16 03:05:00" EventComment="Bets refunded if horse is not in the FIRST set of nominations." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
@@ -1367,25 +1081,25 @@
       <Participant Name="Perfect Reflection" Odds="5/1" OddsDecimal="6.00" SaddleCloth="0" ID="880509026" LastUpdated="27/01/16 07:29:26" />
       <Participant Name="He Or She" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="880509029" LastUpdated="21/04/16 03:12:54" />
       <Participant Name="Neverland" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="880509030" LastUpdated="27/01/16 07:29:26" />
-      <Participant Name="Arcadia Dream" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="880509042" LastUpdated="19/02/16 10:24:23" />
-      <Participant Name="Disposition" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="880509043" LastUpdated="31/07/16 22:42:47" />
-      <Participant Name="Black Heart Bart" Odds="5/1" OddsDecimal="6.00" SaddleCloth="0" ID="880509044" LastUpdated="21/05/16 07:55:29" />
-      <Participant Name="Real Love" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="880509053" LastUpdated="19/02/16 10:25:27" />
-      <Participant Name="Showy Chloe" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="880509056" LastUpdated="30/04/16 23:42:22" />
-      <Participant Name="Blackwood" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="880509057" LastUpdated="30/04/16 23:42:35" />
-      <Participant Name="Wink And a Nod" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="880509058" LastUpdated="31/07/16 22:44:15" />
-      <Participant Name="Hazzabeel" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="880509059" LastUpdated="19/02/16 10:25:08" />
-      <Participant Name="Ideal Image" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="880509060" LastUpdated="19/02/16 10:24:46" />
-      <Participant Name="Man Booker" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="880509061" LastUpdated="21/04/16 03:13:18" />
-      <Participant Name="Balmont Girl" Odds="40/1" OddsDecimal="41.00" SaddleCloth="0" ID="880509062" LastUpdated="29/07/16 04:36:58" />
-      <Participant Name="Battle Hero" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="880509063" LastUpdated="29/07/16 04:36:49" />
+      <Participant Name="Arcadia Dream" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="880509042" LastUpdated="02/08/16 05:09:02" />
+      <Participant Name="Disposition" Odds="14/1" OddsDecimal="15.00" SaddleCloth="0" ID="880509043" LastUpdated="02/08/16 05:09:03" />
+      <Participant Name="Black Heart Bart" Odds="8/1" OddsDecimal="9.00" SaddleCloth="0" ID="880509044" LastUpdated="02/08/16 05:08:40" />
+      <Participant Name="Real Love" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="880509053" LastUpdated="02/08/16 05:09:10" />
+      <Participant Name="Showy Chloe" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="880509056" LastUpdated="02/08/16 05:09:30" />
+      <Participant Name="Blackwood" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="880509057" LastUpdated="02/08/16 05:09:29" />
+      <Participant Name="Wink And a Nod" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="880509058" LastUpdated="02/08/16 05:09:07" />
+      <Participant Name="Hazzabeel" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="880509059" LastUpdated="02/08/16 05:09:36" />
+      <Participant Name="Ideal Image" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="880509060" LastUpdated="02/08/16 05:09:32" />
+      <Participant Name="Man Booker" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="880509061" LastUpdated="02/08/16 05:09:34" />
+      <Participant Name="Balmont Girl" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="880509062" LastUpdated="02/08/16 05:09:41" />
+      <Participant Name="Battle Hero" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="880509063" LastUpdated="02/08/16 05:09:26" />
       <Participant Name="Special Delivery" Odds="66/1" OddsDecimal="67.00" SaddleCloth="0" ID="880509064" LastUpdated="19/02/16 10:25:12" />
       <Participant Name="Spirit Bird" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="880509065" LastUpdated="27/01/16 07:30:08" />
       <Participant Name="London Line" Odds="50/1" OddsDecimal="51.00" SaddleCloth="0" ID="880509066" LastUpdated="27/01/16 07:30:06" />
-      <Participant Name="Pornichet" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1036482908" LastUpdated="29/07/16 04:36:52" />
-      <Participant Name="State Solicitor" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1058475479" LastUpdated="31/07/16 22:45:08" />
-      <Participant Name="Black Dynamite" Odds="10/1" OddsDecimal="11.00" SaddleCloth="0" ID="1058475482" LastUpdated="31/07/16 22:45:06" />
-      <Participant Name="Vega Magic" Odds="7/1" OddsDecimal="8.00" SaddleCloth="0" ID="1060819368" LastUpdated="31/07/16 22:46:10" />
+      <Participant Name="Pornichet" Odds="25/1" OddsDecimal="26.00" SaddleCloth="0" ID="1036482908" LastUpdated="02/08/16 05:09:20" />
+      <Participant Name="State Solicitor" Odds="8/1" OddsDecimal="9.00" SaddleCloth="0" ID="1058475479" LastUpdated="02/08/16 05:08:48" />
+      <Participant Name="Black Dynamite" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1058475482" LastUpdated="02/08/16 05:08:50" />
+      <Participant Name="Vega Magic" Odds="12/1" OddsDecimal="13.00" SaddleCloth="0" ID="1060819368" LastUpdated="02/08/16 05:10:09" />
     </Market>
   </Event>
   <Event Name="King George VI Chase" ID="53028686" OffTime="26/12/16 15:10:00" EventComment="Enhanced Place Terms." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">
@@ -1502,6 +1216,7 @@
       <Participant Name="Blow By Blow" Odds="16/1" OddsDecimal="17.00" SaddleCloth="0" ID="989455688" LastUpdated="29/04/16 12:43:12" />
       <Participant Name="Penhill" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="994638544" LastUpdated="05/05/16 12:40:53" />
       <Participant Name="Willoughby Court" Odds="33/1" OddsDecimal="34.00" SaddleCloth="0" ID="998627830" LastUpdated="10/05/16 09:12:11" />
+      <Participant Name="Senewalk" Odds="20/1" OddsDecimal="21.00" SaddleCloth="0" ID="1061673753" LastUpdated="02/08/16 08:10:40" />
     </Market>
   </Event>
   <Event Name="RSA Chase 2017" ID="54828965" OffTime="15/03/17 14:10:00" EventComment="Enhanced Place Terms." Going="" RaceType="" RaceDistance="" PlaceCount="3" PlaceOdds="1/4">

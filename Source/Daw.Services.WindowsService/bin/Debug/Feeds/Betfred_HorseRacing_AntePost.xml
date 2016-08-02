@@ -1,4 +1,4 @@
-<category name="horse-racing-antepost" timeGenerated="2016-08-02T15:17:49" Bookmaker="Betfred" xmlns="">
+<category name="horse-racing-antepost" timeGenerated="2016-08-02T17:41:31" Bookmaker="Betfred" xmlns="">
   <event name="King George VI Chase" eventid="5243599.20" date="" time="" meeting="King George VI Chase" venue="King George VI Chase">
     <bettype ewreduction="5" ewplaceterms="3" eachway="1/5 Odds Place 1,2,3" suspended="false" name="Antepost Outright" inrunning="0" bettypeid="27095691.20">
       <bet name="Vautour" short-name="Vautour" id="272154519.20" price="7/2" priceDecimal="4.50" priceUS="350.00" active-price-types="AP" />
@@ -511,7 +511,7 @@
       <bet name="Fort Del Oro" short-name="Fort Del" id="315411572.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
       <bet name="The Happy Prince" short-name="The Happy" id="315411573.20" price="50/1" priceDecimal="51.00" priceUS="5000.00" active-price-types="AP" />
       <bet name="Jane's Memory" short-name="Jane's Me" id="315411574.20" price="66/1" priceDecimal="67.00" priceUS="6600.00" active-price-types="AP" />
-      <bet name="Dancing Star" short-name="Dancing S" id="315481633.20" price="16/1" priceDecimal="17.00" priceUS="1600.00" active-price-types="AP" />
+      <bet name="Dancing Star" short-name="Dancing S" id="315481633.20" price="12/1" priceDecimal="13.00" priceUS="1200.00" active-price-types="AP" />
     </bettype>
   </event>
   <event name="3 Miles Cheltenham" eventid="6056398.20" date="" time="" meeting="2017 RSA Chase" venue="2017 RSA Chase">
