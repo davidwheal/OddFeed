@@ -10,6 +10,7 @@ using Daw.Common.CoreData;
 using Daw.Common.CoreData.IncomingData;
 using Daw.Common.CoreData.IntermediateData;
 using Daw.Common.CoreData.ProcessorData;
+using Daw.Services.WindowsService.Exports;
 using IncomingFeedQueue;
 using log4net;
 using XsltTransformer;
@@ -28,9 +29,13 @@ namespace Daw.Services.WindowsService
             public Task<XmlDocument> Return { get; set; }
         }
 
-        public static ThrowAwaySupercededDataQueue<XmlPacket> IncomingQueue = new ThrowAwaySupercededDataQueue<XmlPacket>("FeedQueue");
-        public static ThrowAwaySupercededDataQueue<ProcessedDataPacket> OutgoingQueue = new ThrowAwaySupercededDataQueue<ProcessedDataPacket>("TransformedQueue");
+        public static MostRecentDataQueue<XmlPacket> IncomingQueue = new MostRecentDataQueue<XmlPacket>("FeedQueue");
+        public static MostRecentDataQueue<ProcessedDataPacket> OutgoingQueue = new MostRecentDataQueue<ProcessedDataPacket>("TransformedQueue");
         public static Dictionary<int, EventPacket> Events = new Dictionary<int, EventPacket>();
+
+        /// <summary>
+        /// THIS IS THE DATA !
+        /// </summary>
         public static Root DataRoot { get; set; }
 
         public static ILog Logger = null;
@@ -44,12 +49,14 @@ namespace Daw.Services.WindowsService
 
         public static void ScheduleProcessing()
         {
+            CsvExport exporter =new CsvExport();
             while (1 == 1)
             {
                 var item = OutgoingQueue.GetMostRecentData();
                 if (item != null)
                 {
                     DataRoot.AddPacket(item.Data);
+                    exporter.Export(@"Csv/Feeds.csv");
                 }
             }
         }

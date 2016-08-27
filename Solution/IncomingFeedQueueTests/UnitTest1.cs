@@ -13,7 +13,7 @@ namespace IncomingFeedQueueTests
             QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
             QueueItem<int> q2 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 2), 2);
             QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
-            ThrowAwaySupercededDataQueue<int> xx = new ThrowAwaySupercededDataQueue<int>("FeedQueue");
+            MostRecentDataQueue<int> xx = new MostRecentDataQueue<int>("FeedQueue");
             xx.AddData(q1);
             xx.AddData(q2);
             xx.AddData(q3);
@@ -27,7 +27,7 @@ namespace IncomingFeedQueueTests
             QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
             QueueItem<int> q2 = new QueueItem<int>("s2", new DateTime(2016, 1, 1, 0, 0, 2), 2);
             QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
-            ThrowAwaySupercededDataQueue<int> xx = new ThrowAwaySupercededDataQueue<int>("TestQueue");
+            MostRecentDataQueue<int> xx = new MostRecentDataQueue<int>("TestQueue");
             xx.AddData(q1);
             xx.AddData(q2);
             xx.AddData(q3);
@@ -42,7 +42,7 @@ namespace IncomingFeedQueueTests
             QueueItem<int> q1 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 1), 1);
             QueueItem<int> q2 = new QueueItem<int>("s2", new DateTime(2016, 1, 1, 0, 0, 2), 2);
             QueueItem<int> q3 = new QueueItem<int>("s1", new DateTime(2016, 1, 1, 0, 0, 3), 3);
-            ThrowAwaySupercededDataQueue<int> xx = new ThrowAwaySupercededDataQueue<int>("FeedQueue");
+            MostRecentDataQueue<int> xx = new MostRecentDataQueue<int>("FeedQueue");
             xx.AddData(q1);
             xx.AddData(q2);
             xx.AddData(q3);

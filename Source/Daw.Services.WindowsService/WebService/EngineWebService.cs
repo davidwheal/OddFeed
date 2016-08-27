@@ -18,12 +18,12 @@ namespace Daw.Services.WindowsService.WebService
         //{
         //    _logger = logger;
         //}
-        public ThrowAwaySupercededDataQueue<XmlPacket>.StatisticsPacket GetIncomingFeedStatistics()
+        public MostRecentDataQueue<XmlPacket>.StatisticsPacket GetIncomingFeedStatistics()
         {
             return Engine.IncomingQueue.Stats;
         }
 
-        public ThrowAwaySupercededDataQueue<ProcessedDataPacket>.StatisticsPacket GetProcessingFeedStatistics()
+        public MostRecentDataQueue<ProcessedDataPacket>.StatisticsPacket GetProcessingFeedStatistics()
         {
             return Engine.OutgoingQueue.Stats;
         }

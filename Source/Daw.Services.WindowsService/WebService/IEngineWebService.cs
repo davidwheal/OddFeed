@@ -16,10 +16,10 @@ namespace Daw.Services.WindowsService.WebService
     public interface IEngineWebService
     {
         [OperationContract]
-        ThrowAwaySupercededDataQueue<XmlPacket>.StatisticsPacket GetIncomingFeedStatistics();
+        MostRecentDataQueue<XmlPacket>.StatisticsPacket GetIncomingFeedStatistics();
 
         [OperationContract]
-        ThrowAwaySupercededDataQueue<ProcessedDataPacket>.StatisticsPacket GetProcessingFeedStatistics();
+        MostRecentDataQueue<ProcessedDataPacket>.StatisticsPacket GetProcessingFeedStatistics();
 
 
         [OperationContract]

@@ -40,7 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IThrowAwayQueue.cs" />
-    <Compile Include="ThrowAwaySupercededDataQueue.cs" />
+    <Compile Include="MostRecentDataQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QueueItem.cs" />
   </ItemGroup>

@@ -1,0 +1,64 @@
+2016-08-02 16:47:33,315 [7] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 16:47:33,330 [7] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 16:47:36,422 [7] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 16:47:36,671 [7] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:07:19,962 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:07:19,978 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:07:22,660 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:07:23,451 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:12:40,385 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:12:40,401 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:12:42,232 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:12:42,878 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:14:07,200 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:14:07,224 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:14:11,540 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:14:12,684 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:15:38,706 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:15:38,719 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:15:42,087 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:15:42,978 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:18:06,464 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:18:06,477 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:18:10,094 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:18:10,772 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:20:23,108 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:20:23,125 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:20:24,583 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:20:25,063 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:21:45,581 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:21:45,595 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:21:47,907 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:21:48,710 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:23:25,652 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-02 17:23:25,660 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-02 17:23:28,087 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:23:28,281 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:25:05,661 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-02 17:25:05,672 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-02 17:25:06,448 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:25:07,973 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:26:45,673 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-02 17:26:45,705 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-02 17:26:46,082 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:26:46,582 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:32:52,380 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:32:52,394 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:32:56,248 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:32:56,607 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:34:32,416 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-02 17:34:32,461 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-02 17:34:32,887 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:34:33,643 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:36:12,748 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-02 17:36:18,874 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-02 17:36:19,476 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:36:20,105 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:56:37,052 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:56:37,371 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:56:42,431 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:56:43,402 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-02 17:57:44,950 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-02 17:57:44,966 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-02 17:57:46,357 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-02 17:57:47,085 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 

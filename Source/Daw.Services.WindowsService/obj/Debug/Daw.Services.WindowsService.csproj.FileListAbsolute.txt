@@ -49,3 +49,6 @@ D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.exe
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.pdb
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\xsd.cmd
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\CsvHelper.dll
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\CsvHelper.pdb
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\CsvHelper.xml

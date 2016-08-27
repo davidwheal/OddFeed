@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IncomingFeedQueue
 {
-    public class ThrowAwaySupercededDataQueue<T> : IThrowAwayQueue<T>
+    public class MostRecentDataQueue<T> : IThrowAwayQueue<T>
     {
         public class StatisticsPacket
         {
@@ -52,7 +52,7 @@ namespace IncomingFeedQueue
                 NumberErrored++;
             }
         }
-        public ThrowAwaySupercededDataQueue(string name)
+        public MostRecentDataQueue(string name)
         {
             Name = name;
         }
