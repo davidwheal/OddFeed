@@ -10,11 +10,11 @@ D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.C
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.pdb
 D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.CoreData.dll
 D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.CoreData.pdb
+D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\CsvHelper.dll
 D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.Configuration.dll
 D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\Daw.Common.Configuration.pdb
+D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\CsvHelper.pdb
+D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\CsvHelper.xml
 D:\Development\OddFeed\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.dll
 D:\Development\OddFeed\Source\Daw.Common.CoreData\obj\Debug\Daw.Common.CoreData.pdb
-D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\CsvHelper.dll
-D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\CsvHelper.pdb
-D:\Development\OddFeed\Source\Daw.Common.CoreData\bin\Debug\CsvHelper.xml

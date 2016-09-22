@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ServiceModel;
-using Daw.Client.WebServices.Interfaces;
+using Daw.Common.Interfaces;
 
 namespace Daw.Client.WebServices.Clients
 {

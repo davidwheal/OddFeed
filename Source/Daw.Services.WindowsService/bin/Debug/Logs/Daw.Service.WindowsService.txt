@@ -1,16 +1,34 @@
-2016-08-27 18:00:44,525 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-08-27 18:00:44,550 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
-2016-08-27 18:00:45,331 [13] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://xml.betfred.com/horse-racing-antepost.xml failed for There was no endpoint listening at http://ocfeedproxy.cloudapp.net:8084/WhiteListedUrlService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. 
-2016-08-27 18:00:45,339 [20] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 failed for There was no endpoint listening at http://ocfeedproxy.cloudapp.net:8084/WhiteListedUrlService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. 
-2016-08-27 18:03:06,408 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-08-27 18:03:06,423 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
-2016-08-27 18:03:07,261 [13] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://xml.betfred.com/horse-racing-antepost.xml failed for There was no endpoint listening at http://ocfeedproxy.cloudapp.net:8084/WhiteListedUrlService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. 
-2016-08-27 18:03:07,274 [13] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 failed for There was no endpoint listening at http://ocfeedproxy.cloudapp.net:8084/WhiteListedUrlService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. 
-2016-08-27 18:06:45,293 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-08-27 18:07:41,967 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
-2016-08-27 18:07:45,101 [12] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://xml.betfred.com/horse-racing-antepost.xml failed for There was no endpoint listening at http://ocfeedproxy.cloudapp.net:8084/WhiteListedUrlService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. 
-2016-08-27 18:07:49,628 [14] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 failed for There was no endpoint listening at http://ocfeedproxy.cloudapp.net:8084/WhiteListedUrlService that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details. 
-2016-08-27 18:10:55,028 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-08-27 18:10:55,082 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
-2016-08-27 18:11:01,462 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-08-27 18:11:02,109 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 16:45:00,781 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-28 16:45:00,814 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-28 16:45:02,145 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 16:45:02,931 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 16:46:39,001 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-28 16:46:39,016 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-28 16:46:40,237 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 16:46:41,045 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 16:46:59,839 [6] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-28 16:46:59,874 [6] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-28 16:47:01,143 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 16:47:02,200 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 16:48:39,874 [6] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-28 16:48:39,888 [6] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-28 16:48:42,150 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 16:48:42,661 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 16:50:19,905 [6] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-28 16:50:19,927 [6] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-28 16:50:20,553 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 16:50:21,522 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 16:51:27,228 [8] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-28 16:51:29,793 [8] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 16:59:50,243 [8] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-28 16:59:50,259 [8] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-28 16:59:52,030 [8] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 16:59:53,119 [8] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 17:01:30,275 [8] DEBUG  Daw.Services.WindowsService.Engine - Next run of Bet365 
+2016-08-28 17:01:30,281 [8] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-08-28 17:01:31,130 [8] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 
+2016-08-28 17:01:31,901 [8] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 17:13:26,995 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-08-28 17:13:27,021 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
+2016-08-28 17:13:28,587 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-08-28 17:13:29,579 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Bet365 

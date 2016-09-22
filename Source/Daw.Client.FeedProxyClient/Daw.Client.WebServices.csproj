@@ -46,9 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clients\EngineClient.cs" />
     <Compile Include="Clients\SecretClient.cs" />
-    <Compile Include="Interfaces\ISecretClient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Daw.Common.Interfaces\Daw.Common.Interfaces.csproj">
+      <Project>{e81e8db6-a88a-4d37-bcba-9a692bd65985}</Project>
+      <Name>Daw.Common.Interfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

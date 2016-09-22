@@ -1,0 +1,10 @@
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\bin\Debug\Daw.Common.Mapper.dll
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\bin\Debug\Daw.Common.Mapper.pdb
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\bin\Debug\MongoDB.Bson.dll
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\bin\Debug\MongoDB.Driver.Core.dll
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\bin\Debug\MongoDB.Driver.dll
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\bin\Debug\MongoDB.Bson.xml
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\bin\Debug\MongoDB.Driver.xml
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\obj\Debug\Daw.Common.Mapper.dll
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\obj\Debug\Daw.Common.Mapper.pdb
+D:\Development\OddFeed\Source\Daw.Common.RegexMapper\obj\Debug\Daw.Common.Mapper.csprojResolveAssemblyReference.cache

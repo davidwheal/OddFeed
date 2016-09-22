@@ -21,6 +21,16 @@ namespace Daw.Services.WindowsService.Exports
                     csv.WriteField(kvp.Value.TheFeedDefinition.name);
                     csv.WriteField(kvp.Value.TheFeedDefinition.fixturesonly);
                     csv.NextRecord();
+                    csv.WriteField("Name");
+                    csv.WriteField("Date");
+                    csv.NextRecord();
+                    foreach (var evvent in kvp.Value.TheSport.TheEvents)
+                    {
+                        csv.WriteField(evvent.Value.Name);
+                        csv.WriteField(evvent.Value.Date);
+                        csv.NextRecord();
+
+                    }
                 }
                 
             }

@@ -31,7 +31,6 @@ D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\IncomingFeedQueue.dll
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Daw.Common.CoreData.pdb
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Daw.Common.Configuration.pdb
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\IncomingFeedQueue.pdb
-D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\log4net.xml
 D:\Development\OddFeed\Source\XsltTransformer\obj\Debug\XsltTransformer.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\XsltTransformer\obj\Debug\XsltTransformer.dll
 D:\Development\OddFeed\Source\XsltTransformer\obj\Debug\XsltTransformer.pdb

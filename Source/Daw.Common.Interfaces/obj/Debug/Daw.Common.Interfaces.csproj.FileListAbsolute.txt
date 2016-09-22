@@ -1,0 +1,11 @@
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\Daw.Common.Interfaces.dll
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\Daw.Common.Interfaces.pdb
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\Daw.Common.CoreData.dll
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\IncomingFeedQueue.dll
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\Daw.Common.Configuration.dll
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\Daw.Common.CoreData.pdb
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\IncomingFeedQueue.pdb
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\bin\Debug\Daw.Common.Configuration.pdb
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\obj\Debug\Daw.Common.Interfaces.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\obj\Debug\Daw.Common.Interfaces.dll
+D:\Development\OddFeed\Source\Daw.Common.Interfaces\obj\Debug\Daw.Common.Interfaces.pdb

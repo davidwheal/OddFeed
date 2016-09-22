@@ -8,6 +8,7 @@ using Daw.Common.CoreData.IntermediateData;
 using Daw.Common.CoreData.ProcessorData;
 using IncomingFeedQueue;
 using log4net;
+using Daw.Common.Interfaces;
 
 namespace Daw.Services.WindowsService.WebService
 {

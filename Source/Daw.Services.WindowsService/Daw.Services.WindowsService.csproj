@@ -92,7 +92,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Engine.cs" />
     <Compile Include="WebService\EngineWebService.cs" />
-    <Compile Include="WebService\IEngineWebService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -114,6 +113,10 @@
     <ProjectReference Include="..\Daw.Common.CoreData\Daw.Common.CoreData.csproj">
       <Project>{aed3c058-617f-40e8-b11d-22b446d626e8}</Project>
       <Name>Daw.Common.CoreData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Daw.Common.Interfaces\Daw.Common.Interfaces.csproj">
+      <Project>{e81e8db6-a88a-4d37-bcba-9a692bd65985}</Project>
+      <Name>Daw.Common.Interfaces</Name>
     </ProjectReference>
     <ProjectReference Include="..\Daw.Services.Configuration\Daw.Common.Configuration.csproj">
       <Project>{0aa6ad0e-4dce-44ad-aa77-e680008e3825}</Project>
