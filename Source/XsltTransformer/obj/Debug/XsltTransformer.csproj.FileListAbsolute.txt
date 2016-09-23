@@ -20,7 +20,7 @@ D:\Development\OddFeed\Solution\XsltTransformer\bin\Debug\Transforms\xsd.cmd
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Substitutions\EventSubstitutions.xml
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Substitutions\MarketSubstitutions.xml
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Transforms\Bet365.xslt
-D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Transforms\Betfred.xslt
+D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Transforms\WilliamHill.xslt
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Transforms\OddFeedXmlSchema.xsd
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Transforms\xsd.cmd
 D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\XsltTransformer.dll
@@ -34,3 +34,4 @@ D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\IncomingFeedQueue.pdb
 D:\Development\OddFeed\Source\XsltTransformer\obj\Debug\XsltTransformer.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\XsltTransformer\obj\Debug\XsltTransformer.dll
 D:\Development\OddFeed\Source\XsltTransformer\obj\Debug\XsltTransformer.pdb
+D:\Development\OddFeed\Source\XsltTransformer\bin\Debug\Transforms\Betfred.xslt

@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Clients\EngineClient.cs" />
     <Compile Include="Clients\SecretClient.cs" />
+    <Compile Include="Clients\XmlClient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

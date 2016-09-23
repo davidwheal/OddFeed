@@ -63,6 +63,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Transforms\Sample.xml" />
+    <Content Include="Transforms\WilliamHill.xslt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Transforms\xsd.exe" />
   </ItemGroup>
   <ItemGroup>

@@ -16,7 +16,7 @@ namespace Daw.Client.WebServices.Clients
             {
                 var myBinding = new BasicHttpBinding();
                 myBinding.MaxReceivedMessageSize = 10000000;
-                var myEndpoint = new EndpointAddress("http://ocfeedproxy.cloudapp.net:8084/WhiteListedUrlService");
+                var myEndpoint = new EndpointAddress("http://localhost:8733/EngineWebService");
                 var myChannelFactory = new ChannelFactory<IEngineWebService>(myBinding, myEndpoint);
                 return myChannelFactory.CreateChannel();
 

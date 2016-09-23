@@ -6,9 +6,9 @@
   <xsl:output method="xml" indent="yes" encoding="utf-16" omit-xml-declaration="no" standalone="yes" />
 
   <xsl:template match="/" name="root">
-    <oddfeed bookie="Betfred">
+    <oddfeed bookie="WilliamHill">
       <xsl:attribute name="generateddate">
-        <xsl:value-of select="Ext:CurrentDate()" /> 
+        <xsl:value-of select="Ext:CurrentDate()" />
       </xsl:attribute>
       <xsl:attribute name="generatedtime">
         <xsl:value-of select="Ext:CurrentTime()" />
@@ -30,22 +30,22 @@
     </oddfeed>
   </xsl:template>
 
-  <xsl:template match="category/event" name="events">
+  <xsl:template match="oxip/response/williamhill/class/type" name="events">
     <event>
       <xsl:attribute name="name">
         <xsl:value-of select="Ext:DoEventSubstitutions('HorseRacing',@name)" />
       </xsl:attribute>
       <xsl:attribute name="id">
-        <xsl:value-of select="@eventid" />
+        <xsl:value-of select="@id" />
       </xsl:attribute>
       <xsl:attribute name="date">
-        <xsl:value-of select="Ext:ParseBetfredEventDate(concat(@date,@time))" />
+        <xsl:value-of select="Ext:ParseWilliamHillEventDate(concat(market/@date,market/@time))" />
       </xsl:attribute>
       <xsl:attribute name="meeting">
-        <xsl:value-of select="@meeting" />
+        <xsl:value-of select="@name" />
       </xsl:attribute>
       <xsl:attribute name="venue">
-        <xsl:value-of select="@venue" />
+        <xsl:value-of select="@name" />
       </xsl:attribute>
       <xsl:attribute name="team1">
       </xsl:attribute>
@@ -55,34 +55,34 @@
     </event>
   </xsl:template>
 
-  <xsl:template match="bettype" name="market">
+  <xsl:template match="market" name="market">
     <market>
       <xsl:attribute name="name">
         <xsl:value-of select="@name" />
       </xsl:attribute>
       <xsl:attribute name="id">
-        <xsl:value-of select="@bettypeid" />
+        <xsl:value-of select="@id" />
       </xsl:attribute>
       <xsl:attribute name="start">
-        <xsl:value-of select="Ext:ParseBetfredEventDate(concat(@bet-start-date,@bet-start-time))" />
+        <xsl:value-of select="Ext:ParseWilliamHillEventDate(concat(@date,@time))" />
       </xsl:attribute>
       <xsl:attribute name="inplay">
-        <xsl:value-of select="Ext:GetFlag(@inrunning)" />
+        <xsl:value-of select="Ext:GetFlag('false')" />
       </xsl:attribute>
       <xsl:attribute name="suspended">
-        <xsl:value-of select="Ext:GetFlag(@suspended)" />
+        <xsl:value-of select="Ext:GetFlag('false')" />
       </xsl:attribute>
       <xsl:attribute name="ewplaces">
-        <xsl:value-of select="@ewplaceterms" />
+        <xsl:value-of select="@ewPlaces" />
       </xsl:attribute>
       <xsl:attribute name="ewreduction">
-        <xsl:value-of select="@ewreduction" />
+        <xsl:value-of select="@ewReduction" />
       </xsl:attribute>
       <xsl:apply-templates />
     </market>
   </xsl:template>
 
-  <xsl:template match="bet" name="selection">
+  <xsl:template match="participant" name="selection">
     <sel>
       <xsl:attribute name="name">
         <xsl:value-of select="@name" />
@@ -92,7 +92,7 @@
       </xsl:attribute>
       <xsl:apply-templates />
       <xsl:attribute name="price">
-        <xsl:value-of select="@price" />
+        <xsl:value-of select="@odds" />
       </xsl:attribute>
     </sel>
   </xsl:template>

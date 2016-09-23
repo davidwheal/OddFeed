@@ -14,13 +14,10 @@ D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\bin\Debug\Daw.
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.ProjectInstaller.resources
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csproj.GenerateResource.Cache
-D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csprojResolveAssemblyReference.cache
-D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.ProjectInstaller.resources
-D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csproj.GenerateResource.Cache
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Substitutions\EventSubstitutions.xml
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Substitutions\MarketSubstitutions.xml
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Bet365.xslt
-D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\WilliamHill.xslt
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\OddFeedXmlSchema.xsd
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\xsd.cmd
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe.config
@@ -52,5 +49,9 @@ D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Microsoft.Pr
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Microsoft.Practices.Unity.xml
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.ProjectInstaller.resources
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csproj.GenerateResource.Cache
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.exe
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.pdb
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt

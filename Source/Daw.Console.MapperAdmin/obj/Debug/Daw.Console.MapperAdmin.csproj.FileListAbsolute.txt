@@ -6,6 +6,7 @@ D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\bin\Debug\MongoDB.Driver.C
 D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\bin\Debug\MongoDB.Driver.dll
 D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\bin\Debug\MongoDB.Bson.xml
 D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\bin\Debug\MongoDB.Driver.xml
+D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\obj\Debug\Daw.Console.MapperAdmin.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\obj\Debug\Daw.Console.MapperAdmin.Form1.resources
 D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\obj\Debug\Daw.Console.MapperAdmin.Properties.Resources.resources
 D:\Development\OddFeed\Source\Daw.Console.MapperAdmin\obj\Debug\Daw.Console.MapperAdmin.csproj.GenerateResource.Cache

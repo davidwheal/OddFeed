@@ -80,6 +80,25 @@ namespace XsltTransformer.Helpers
 
         }
 
+        public static string ParseWilliamHillEventDate(string datetime)
+        {
+            try
+            {
+                // e.g 2017-05-0109:30:00
+                if (String.IsNullOrEmpty(datetime))
+                {
+                    return "<none>";
+                }
+                //
+                return DateTime.ParseExact(datetime, "yyyy-MM-ddHH:mm:ss", CultureInfo.InvariantCulture).ToString(StandardDateTimeFormat);
+            }
+            catch (Exception)
+            {
+                return "UNKNOWN:" + datetime;
+            }
+
+        }
+
 
         public static string ParseBet365EventDate(string datetime)
         {

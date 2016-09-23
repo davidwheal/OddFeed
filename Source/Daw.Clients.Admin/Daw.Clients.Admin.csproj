@@ -84,6 +84,10 @@
       <Project>{4aca934b-b182-4fc4-bb25-b14da52ea262}</Project>
       <Name>Daw.Client.WebServices</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Daw.Common.CoreData\Daw.Common.CoreData.csproj">
+      <Project>{aed3c058-617f-40e8-b11d-22b446d626e8}</Project>
+      <Name>Daw.Common.CoreData</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Daw.Common.Interfaces\Daw.Common.Interfaces.csproj">
       <Project>{e81e8db6-a88a-4d37-bcba-9a692bd65985}</Project>
       <Name>Daw.Common.Interfaces</Name>

@@ -33,5 +33,25 @@ namespace Daw.Clients.Admin
             }
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnOpenEngineClient_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                EngineClient sc = new EngineClient();
+                var client = sc.Open();
+                var feeds = client.GetFeeds();
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
+        }
     }
 }

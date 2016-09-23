@@ -100,9 +100,15 @@ namespace Daw.Services.WindowsService
             for (int i = 0; i < scConfig.Count; i++)
             {
                 ScheduleConfigItem it = scConfig.GetItemAt(i);
+                if (it.type == "secretclient" && it.enabled)
+                {
+                    var task = Task<XmlDocument>.Run(() => LoadXmlFromSecretClient(client, it));
+                    Logger.Debug(string.Format("Just run load {0}", it.url));
+                    Events.Add(i, new EventPacket() { ConfigItem = it, Return = task, NextRun = DateTime.Now.AddSeconds(it.intervalsecs) });
+                }
                 if (it.type == "xml" && it.enabled)
                 {
-                    var task = Task<XmlDocument>.Run(() => LoadXmlFromUrl(client, it));
+                    var task = Task<XmlDocument>.Run(() => LoadXmlFromUrl(it));
                     Logger.Debug(string.Format("Just run load {0}", it.url));
                     Events.Add(i, new EventPacket() { ConfigItem = it, Return = task, NextRun = DateTime.Now.AddSeconds(it.intervalsecs) });
                 }
@@ -131,11 +137,22 @@ namespace Daw.Services.WindowsService
                         if (runningEvent.Return == null && DateTime.Now > runningEvent.NextRun)
                         {
                             Logger.Debug(string.Format("Next run of {0}", runningEvent.ConfigItem.bookie));
-                            runningEvent.Return = Task<XmlDocument>.Run(() =>
+                            if (runningEvent.ConfigItem.type == "xml")
                             {
-                                return LoadXmlFromUrl(client, it);
+                                runningEvent.Return = Task<XmlDocument>.Run(() =>
+                                {
+                                    return LoadXmlFromUrl(it);
 
-                            });
+                                });
+                            }
+                            if (runningEvent.ConfigItem.type == "secretclient")
+                            {
+                                runningEvent.Return = Task<XmlDocument>.Run(() =>
+                                {
+                                    return LoadXmlFromSecretClient(client,it);
+
+                                });
+                            }
                             runningEvent.NextRun = DateTime.Now.AddSeconds(it.intervalsecs);
                         }
                     }
@@ -144,11 +161,24 @@ namespace Daw.Services.WindowsService
             sc.Close(client);
         }
 
-        private static XmlDocument LoadXmlFromUrl(IWhiteListedUrlService client, ScheduleConfigItem it)
+        private static XmlDocument LoadXmlFromSecretClient(IWhiteListedUrlService client, ScheduleConfigItem it)
         {
             try
             {
                 return client.LoadXmlFromUrl(it.url);
+            }
+            catch (Exception ex)
+            {
+                Logger.Fatal(string.Format("LoadXmlFromSecretClient {0} failed for {1}", it.url, ex.Message));
+                return null;
+            }
+        }
+
+        private static XmlDocument LoadXmlFromUrl(ScheduleConfigItem it)
+        {
+            try
+            {
+                return XmlClient.LoadXmlFromUrl(it.url);
             }
             catch (Exception ex)
             {

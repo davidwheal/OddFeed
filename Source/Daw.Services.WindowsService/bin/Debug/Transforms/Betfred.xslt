@@ -8,7 +8,7 @@
   <xsl:template match="/" name="root">
     <oddfeed bookie="Betfred">
       <xsl:attribute name="generateddate">
-        <xsl:value-of select="Ext:CurrentDate()" />
+        <xsl:value-of select="Ext:CurrentDate()" /> 
       </xsl:attribute>
       <xsl:attribute name="generatedtime">
         <xsl:value-of select="Ext:CurrentTime()" />

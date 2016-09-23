@@ -1,4 +1,3 @@
-D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\obj\Debug\Daw.Client.WebServices.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Client.WebServices.dll
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Client.WebServices.pdb
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Common.Interfaces.dll
@@ -9,5 +8,6 @@ D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Common.In
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\IncomingFeedQueue.pdb
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Common.CoreData.pdb
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\bin\Debug\Daw.Common.Configuration.pdb
+D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\obj\Debug\Daw.Client.WebServices.csprojResolveAssemblyReference.cache
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\obj\Debug\Daw.Client.WebServices.dll
 D:\Development\OddFeed\Source\Daw.Client.FeedProxyClient\obj\Debug\Daw.Client.WebServices.pdb

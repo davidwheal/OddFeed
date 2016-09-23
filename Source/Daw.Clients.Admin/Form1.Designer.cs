@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.btnOpenSecretClient = new System.Windows.Forms.Button();
+            this.btnOpenEngineClient = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpenSecretClient
@@ -41,14 +42,26 @@
             this.btnOpenSecretClient.UseVisualStyleBackColor = true;
             this.btnOpenSecretClient.Click += new System.EventHandler(this.btnOpenSecretClient_Click);
             // 
+            // btnOpenEngineClient
+            // 
+            this.btnOpenEngineClient.Location = new System.Drawing.Point(363, 165);
+            this.btnOpenEngineClient.Name = "btnOpenEngineClient";
+            this.btnOpenEngineClient.Size = new System.Drawing.Size(175, 31);
+            this.btnOpenEngineClient.TabIndex = 1;
+            this.btnOpenEngineClient.Text = "Open EngineClient";
+            this.btnOpenEngineClient.UseVisualStyleBackColor = true;
+            this.btnOpenEngineClient.Click += new System.EventHandler(this.btnOpenEngineClient_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(901, 361);
+            this.Controls.Add(this.btnOpenEngineClient);
             this.Controls.Add(this.btnOpenSecretClient);
             this.Name = "Form1";
             this.Text = "Clients Tester";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
@@ -56,6 +69,7 @@
         #endregion
 
         private System.Windows.Forms.Button btnOpenSecretClient;
+        private System.Windows.Forms.Button btnOpenEngineClient;
     }
 }
 
