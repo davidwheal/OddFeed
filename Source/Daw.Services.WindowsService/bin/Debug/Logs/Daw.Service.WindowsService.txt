@@ -1,69 +1,16 @@
-2016-09-23 10:55:08,812 [7] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 10:55:08,833 [7] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 
-2016-09-23 10:56:11,802 [14] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://xml.betfred.com/horse-racing-antepost.xml failed for The request channel timed out while waiting for a reply after 00:00:57.9766161. Increase the timeout value passed to the call to Request or increase the SendTimeout value on the Binding. The time allotted to this operation may have been a portion of a longer timeout. 
-2016-09-23 10:57:12,194 [20] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://oddsfeed.bet365.com/HorseRacingWEW.asp?EventGroupID=27052318 failed for The request channel timed out while waiting for a reply after 00:00:59.9709222. Increase the timeout value passed to the call to Request or increase the SendTimeout value on the Binding. The time allotted to this operation may have been a portion of a longer timeout. 
-2016-09-23 11:16:39,854 [9] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 11:16:48,107 [9] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-09-23 11:18:25,173 [9] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
-2016-09-23 15:59:32,564 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 15:59:32,680 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 15:59:35,733 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-09-23 15:59:35,835 [18] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N failed for The 'link' start tag on line 10 position 6 does not match the end tag of 'head'. Line 15, position 5. 
-2016-09-23 15:59:39,095 [9] FATAL  Daw.Services.WindowsService.Engine - TransformXmlBetfred.xslt System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'.
-File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'
-   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
-   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
-   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
-   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
-   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
-   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
-   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
-   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
-   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
-   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in D:\Development\OddFeed\Source\XsltTransformer\TransformXml.cs:line 40
-
-2016-09-23 15:59:40,546 [9] FATAL  Daw.Services.WindowsService.Engine - Failed deserialize for Object reference not set to an instance of an object. 
-2016-09-23 16:01:53,079 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 16:01:53,094 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 16:01:54,639 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-09-23 16:01:54,738 [19] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N failed for The 'link' start tag on line 10 position 6 does not match the end tag of 'head'. Line 15, position 5. 
-2016-09-23 16:01:58,571 [11] FATAL  Daw.Services.WindowsService.Engine - TransformXmlBetfred.xslt System.IO.FileNotFoundException: Could not find file 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'.
-File name: 'D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt'
-   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
-   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
-   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
-   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
-   at System.Xml.Xsl.Xslt.XsltLoader.CreateReader(Uri uri, XmlResolver xmlResolver)
-   at System.Xml.Xsl.Xslt.XsltLoader.Load(Compiler compiler, Object stylesheet, XmlResolver xmlResolver)
-   at System.Xml.Xsl.Xslt.Compiler.Compile(Object stylesheet, XmlResolver xmlResolver, QilExpression& qil)
-   at System.Xml.Xsl.XslCompiledTransform.LoadInternal(Object stylesheet, XsltSettings settings, XmlResolver stylesheetResolver)
-   at System.Xml.Xsl.XslCompiledTransform.Load(String stylesheetUri, XsltSettings settings, XmlResolver stylesheetResolver)
-   at XsltTransformer.TransformXml.XsltTransform(QueueItem`1 packet, ILog logger) in D:\Development\OddFeed\Source\XsltTransformer\TransformXml.cs:line 40
-
-2016-09-23 16:01:59,086 [11] FATAL  Daw.Services.WindowsService.Engine - Failed deserialize for Object reference not set to an instance of an object. 
-2016-09-23 16:05:40,450 [13] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 16:05:40,905 [13] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 16:05:42,362 [13] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-09-23 16:05:42,967 [11] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N failed for The 'link' start tag on line 10 position 6 does not match the end tag of 'head'. Line 15, position 5. 
-2016-09-23 16:06:10,067 [6] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 16:06:10,177 [6] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 16:06:11,807 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-09-23 16:06:11,930 [13] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N failed for The 'link' start tag on line 10 position 6 does not match the end tag of 'head'. Line 15, position 5. 
-2016-09-23 16:08:07,758 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 16:08:07,836 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 16:08:12,595 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-09-23 17:37:28,629 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
-2016-09-23 17:37:30,136 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 17:37:44,890 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
-2016-09-23 17:39:27,011 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 17:39:45,213 [12] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N failed for The 'link' start tag on line 10 position 6 does not match the end tag of 'head'. Line 15, position 5. 
-2016-09-23 17:46:04,277 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 17:47:48,318 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 17:48:39,831 [7] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 17:48:42,210 [7] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
-2016-09-23 17:50:21,423 [6] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 17:50:21,562 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
-2016-09-23 17:52:13,875 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
-2016-09-23 17:52:14,417 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 15:21:01,983 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-09-25 15:21:09,358 [16] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N failed for The remote name could not be resolved: 'cachepricefeeds.williamhill.com' 
+2016-09-25 15:25:33,330 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 15:25:33,843 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 15:37:19,509 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 15:37:20,140 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 15:42:52,461 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 15:42:52,745 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:01:23,477 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:01:23,958 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:16:07,006 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:16:08,059 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:17:16,728 [13] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:17:18,996 [13] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:18:08,743 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:18:09,222 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
