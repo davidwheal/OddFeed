@@ -44,18 +44,18 @@ namespace Daw.Services.WindowsService.WebService
             return result;
         }
 
-        public List<EventDto> GetEvents(string feedKey)
+        public Dictionary<string,EventDto> GetEvents(string feedKey)
         {
             BaseFeed it;
             if (Engine.DataRoot.TryGetValue(feedKey, out it))
             {
-                var result = new List<EventDto>();
+                var result = new Dictionary<string, EventDto>();
                 try
                 {
                     var evList = it.TheSport.TheEvents;
                     foreach (var ev in evList)
                     {
-                        result.Add(new EventDto() { Date = ev.Value.Date, Name = ev.Value.Name });
+                        result.Add(ev.Key,new EventDto() { Date = ev.Value.Date, Name = ev.Value.Name });
                     }
                     return result;
                 }

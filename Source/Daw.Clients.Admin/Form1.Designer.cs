@@ -29,20 +29,24 @@
         private void InitializeComponent()
         {
             this.btnOpenSecretClient = new System.Windows.Forms.Button();
-            this.btnOpenEngineClient = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.tabFeeds = new System.Windows.Forms.TabPage();
+            this.btnGoToEvents = new System.Windows.Forms.Button();
             this.dgvFeeds = new System.Windows.Forms.DataGridView();
-            this.button1 = new System.Windows.Forms.Button();
+            this.tabEvents = new System.Windows.Forms.TabPage();
+            this.dgvEvents = new System.Windows.Forms.DataGridView();
+            this.btnRefreshFeeds = new System.Windows.Forms.Button();
+            this.txtEventKey = new System.Windows.Forms.TextBox();
             this.tabControl1.SuspendLayout();
-            this.tabPage1.SuspendLayout();
+            this.tabFeeds.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFeeds)).BeginInit();
+            this.tabEvents.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvEvents)).BeginInit();
             this.SuspendLayout();
             // 
             // btnOpenSecretClient
             // 
-            this.btnOpenSecretClient.Location = new System.Drawing.Point(282, 427);
+            this.btnOpenSecretClient.Location = new System.Drawing.Point(12, 560);
             this.btnOpenSecretClient.Name = "btnOpenSecretClient";
             this.btnOpenSecretClient.Size = new System.Drawing.Size(175, 31);
             this.btnOpenSecretClient.TabIndex = 0;
@@ -50,81 +54,105 @@
             this.btnOpenSecretClient.UseVisualStyleBackColor = true;
             this.btnOpenSecretClient.Click += new System.EventHandler(this.btnOpenSecretClient_Click);
             // 
-            // btnOpenEngineClient
-            // 
-            this.btnOpenEngineClient.Location = new System.Drawing.Point(26, 19);
-            this.btnOpenEngineClient.Name = "btnOpenEngineClient";
-            this.btnOpenEngineClient.Size = new System.Drawing.Size(75, 31);
-            this.btnOpenEngineClient.TabIndex = 1;
-            this.btnOpenEngineClient.Text = "Refresh";
-            this.btnOpenEngineClient.UseVisualStyleBackColor = true;
-            this.btnOpenEngineClient.Click += new System.EventHandler(this.btnOpenEngineClient_Click);
-            // 
             // tabControl1
             // 
-            this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabFeeds);
+            this.tabControl1.Controls.Add(this.tabEvents);
             this.tabControl1.Location = new System.Drawing.Point(23, 12);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1087, 391);
+            this.tabControl1.Size = new System.Drawing.Size(1087, 530);
             this.tabControl1.TabIndex = 2;
             // 
-            // tabPage1
+            // tabFeeds
             // 
-            this.tabPage1.Controls.Add(this.button1);
-            this.tabPage1.Controls.Add(this.dgvFeeds);
-            this.tabPage1.Controls.Add(this.btnOpenEngineClient);
-            this.tabPage1.Location = new System.Drawing.Point(4, 25);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1079, 362);
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "Feeds";
-            this.tabPage1.UseVisualStyleBackColor = true;
+            this.tabFeeds.Controls.Add(this.btnRefreshFeeds);
+            this.tabFeeds.Controls.Add(this.btnGoToEvents);
+            this.tabFeeds.Controls.Add(this.dgvFeeds);
+            this.tabFeeds.Location = new System.Drawing.Point(4, 25);
+            this.tabFeeds.Name = "tabFeeds";
+            this.tabFeeds.Padding = new System.Windows.Forms.Padding(3);
+            this.tabFeeds.Size = new System.Drawing.Size(1079, 362);
+            this.tabFeeds.TabIndex = 0;
+            this.tabFeeds.Text = "Feeds";
+            this.tabFeeds.UseVisualStyleBackColor = true;
+            this.tabFeeds.Click += new System.EventHandler(this.tabFeeds_Click);
             // 
-            // tabPage2
+            // btnGoToEvents
             // 
-            this.tabPage2.Location = new System.Drawing.Point(4, 25);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1079, 362);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Events";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.btnGoToEvents.Location = new System.Drawing.Point(685, 296);
+            this.btnGoToEvents.Name = "btnGoToEvents";
+            this.btnGoToEvents.Size = new System.Drawing.Size(138, 31);
+            this.btnGoToEvents.TabIndex = 3;
+            this.btnGoToEvents.Text = "Events >";
+            this.btnGoToEvents.UseVisualStyleBackColor = true;
+            this.btnGoToEvents.Click += new System.EventHandler(this.btnGoToEvents_Click);
             // 
             // dgvFeeds
             // 
             this.dgvFeeds.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvFeeds.Location = new System.Drawing.Point(122, 19);
+            this.dgvFeeds.Location = new System.Drawing.Point(143, 20);
             this.dgvFeeds.Name = "dgvFeeds";
             this.dgvFeeds.RowTemplate.Height = 24;
-            this.dgvFeeds.Size = new System.Drawing.Size(595, 233);
+            this.dgvFeeds.Size = new System.Drawing.Size(503, 307);
             this.dgvFeeds.TabIndex = 2;
             this.dgvFeeds.SelectionChanged += new System.EventHandler(this.dgvFeeds_SelectionChanged);
             // 
-            // button1
+            // tabEvents
             // 
-            this.button1.Location = new System.Drawing.Point(850, 177);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(138, 31);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.tabEvents.Controls.Add(this.txtEventKey);
+            this.tabEvents.Controls.Add(this.dgvEvents);
+            this.tabEvents.Location = new System.Drawing.Point(4, 25);
+            this.tabEvents.Name = "tabEvents";
+            this.tabEvents.Padding = new System.Windows.Forms.Padding(3);
+            this.tabEvents.Size = new System.Drawing.Size(1079, 501);
+            this.tabEvents.TabIndex = 1;
+            this.tabEvents.Text = "Events";
+            this.tabEvents.UseVisualStyleBackColor = true;
+            this.tabEvents.Enter += new System.EventHandler(this.tabEvents_Enter);
+            // 
+            // dgvEvents
+            // 
+            this.dgvEvents.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvEvents.Location = new System.Drawing.Point(306, 79);
+            this.dgvEvents.Name = "dgvEvents";
+            this.dgvEvents.RowTemplate.Height = 24;
+            this.dgvEvents.Size = new System.Drawing.Size(721, 381);
+            this.dgvEvents.TabIndex = 0;
+            // 
+            // btnRefreshFeeds
+            // 
+            this.btnRefreshFeeds.Location = new System.Drawing.Point(34, 20);
+            this.btnRefreshFeeds.Name = "btnRefreshFeeds";
+            this.btnRefreshFeeds.Size = new System.Drawing.Size(82, 38);
+            this.btnRefreshFeeds.TabIndex = 4;
+            this.btnRefreshFeeds.Text = "Refresh";
+            this.btnRefreshFeeds.UseVisualStyleBackColor = true;
+            this.btnRefreshFeeds.Click += new System.EventHandler(this.btnRefreshFeeds_Click);
+            // 
+            // txtEventKey
+            // 
+            this.txtEventKey.Location = new System.Drawing.Point(419, 31);
+            this.txtEventKey.Name = "txtEventKey";
+            this.txtEventKey.Size = new System.Drawing.Size(321, 22);
+            this.txtEventKey.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1135, 470);
+            this.ClientSize = new System.Drawing.Size(1135, 603);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.btnOpenSecretClient);
             this.Name = "Form1";
             this.Text = "Feed Administration";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
-            this.tabPage1.ResumeLayout(false);
+            this.tabFeeds.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvFeeds)).EndInit();
+            this.tabEvents.ResumeLayout(false);
+            this.tabEvents.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvEvents)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -132,12 +160,14 @@
         #endregion
 
         private System.Windows.Forms.Button btnOpenSecretClient;
-        private System.Windows.Forms.Button btnOpenEngineClient;
         private System.Windows.Forms.TabControl tabControl1;
-        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabFeeds;
         private System.Windows.Forms.DataGridView dgvFeeds;
-        private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TabPage tabEvents;
+        private System.Windows.Forms.Button btnGoToEvents;
+        private System.Windows.Forms.DataGridView dgvEvents;
+        private System.Windows.Forms.Button btnRefreshFeeds;
+        private System.Windows.Forms.TextBox txtEventKey;
     }
 }
 

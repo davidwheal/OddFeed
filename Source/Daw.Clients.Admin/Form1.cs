@@ -10,12 +10,13 @@ using System.Windows.Forms;
 using Daw.Client.WebServices.Clients;
 using Daw.Clients.Admin.DataGridHelpers;
 using Daw.Common.Interfaces;
+using Daw.Clients.Admin.Managers;
+using Daw.Clients.Admin.DataManagers;
 
 namespace Daw.Clients.Admin
 {
     public partial class Form1 : Form
     {
-        static IEngineWebService engineService = null;
         public Form1()
         {
             InitializeComponent();
@@ -39,46 +40,45 @@ namespace Daw.Clients.Admin
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            while (1 == 1)
-            {
-                EngineClient sc = new EngineClient();
-                try
-                {
-                    engineService = sc.Open();
-                    break;
-                }
-                catch (Exception ex)
-                {
-
-                }
-            }
-
-            var feeds = engineService.GetFeeds();
-            DataGridViewDataHelper.DisplayFeed(feeds, dgvFeeds);
+            btnGoToEvents.Enabled = false;
+            var feeds = (FeedDataManager.Engine()).GetFeeds();
+            DataGridViewDataHelper.DisplayFeeds(feeds, dgvFeeds);
         }
 
         private void btnOpenEngineClient_Click(object sender, EventArgs e)
         {
-            try
-            {
-                var feeds = engineService.GetFeeds();
-                DataGridViewDataHelper.DisplayFeed(feeds, dgvFeeds);
-            }
-            catch (Exception ex)
-            {
-
-                throw;
-            }
+            tabControl1.SelectedTab = tabEvents;
         }
 
         private void dgvFeeds_SelectionChanged(object sender, EventArgs e)
         {
-            List<string> list;
-            if (DataGridViewHelper.GetSelectedDetail(1, dgvFeeds, 0, out list))
-            {
+            string eventKey;
+            btnGoToEvents.Enabled = DisplayFeedManager.CanWeShowEventButton(dgvFeeds, out eventKey);
+        }
 
-            }
+        private void btnGoToEvents_Click(object sender, EventArgs e)
+        {
+            string eventKey;
+            btnGoToEvents.Enabled = DisplayFeedManager.CanWeShowEventButton(dgvFeeds, out eventKey);
+            txtEventKey.Text = eventKey;
+            tabControl1.SelectedTab = tabEvents;
+        }
 
+        private void tabFeeds_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRefreshFeeds_Click(object sender, EventArgs e)
+        {
+            var feeds = (FeedDataManager.Engine()).GetFeeds();
+            DataGridViewDataHelper.DisplayFeeds(feeds, dgvFeeds);
+        }
+
+        private void tabEvents_Enter(object sender, EventArgs e)
+        {
+            var events = (FeedDataManager.Engine()).GetEvents(txtEventKey.Text);
+            DataGridViewDataHelper.DisplayEvents(events, dgvEvents);
         }
     }
 }

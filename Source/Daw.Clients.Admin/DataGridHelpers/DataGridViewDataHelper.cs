@@ -10,10 +10,17 @@ namespace Daw.Clients.Admin.DataGridHelpers
 {
     public static class DataGridViewDataHelper
     {
-        public static void DisplayFeed (Dictionary<string,BaseFeedDto> list, DataGridView dgv)
+        public static void DisplayFeeds (Dictionary<string,BaseFeedDto> list, DataGridView dgv)
         {
             var source = new BindingSource();
-            source.DataSource = list.Select(o => new { Key = o.Key, name = o.Value.FeedName, Sport = o.Value.Sport, Fixtures = o.Value.FixturesOnly });
+            source.DataSource = list.Select(o => new { Key = o.Key, Name = o.Value.FeedName, Sport = o.Value.Sport, Fixtures = o.Value.FixturesOnly });
+            dgv.DataSource = source;
+        }
+
+        public static void DisplayEvents(Dictionary<string,EventDto> list, DataGridView dgv)
+        {
+            var source = new BindingSource();
+            source.DataSource = list.Select(o => new { Key = o.Key, Name = o.Value.Name, Date = o.Value.Date });
             dgv.DataSource = source;
         }
     }

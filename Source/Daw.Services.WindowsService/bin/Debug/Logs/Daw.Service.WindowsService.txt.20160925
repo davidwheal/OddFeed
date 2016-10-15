@@ -1,0 +1,16 @@
+2016-09-25 15:21:01,983 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-09-25 15:21:09,358 [16] FATAL  Daw.Services.WindowsService.Engine - LoadXmlFromUrl http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N failed for The remote name could not be resolved: 'cachepricefeeds.williamhill.com' 
+2016-09-25 15:25:33,330 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 15:25:33,843 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 15:37:19,509 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 15:37:20,140 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 15:42:52,461 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 15:42:52,745 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:01:23,477 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:01:23,958 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:16:07,006 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:16:08,059 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:17:16,728 [13] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:17:18,996 [13] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-09-25 16:18:08,743 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-09-25 16:18:09,222 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 

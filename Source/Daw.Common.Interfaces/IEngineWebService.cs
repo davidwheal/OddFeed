@@ -27,6 +27,6 @@ namespace Daw.Common.Interfaces
 
 
         [OperationContract]
-        List<EventDto> GetEvents(string feedName);
+        Dictionary<string, EventDto> GetEvents(string feedName);
     }
 }

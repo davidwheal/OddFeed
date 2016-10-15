@@ -45,7 +45,7 @@ namespace Daw.Common.CoreData.ProcessorData
 
         public static string CompileKey(oddfeedEvent source)
         {
-            return string.Format("{0}{1}", source.name, source.date);
+            return string.Format("{0}:{1}", source.name, source.date);
         }
     }
 }
