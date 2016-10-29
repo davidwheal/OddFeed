@@ -1,391 +1,437 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<oddfeed bookie="WilliamHill" generateddate="2016 October 29" generatedtime="14:17:29" sport="HorseRacing" feedname="AntePost" feedtype="antepost">
-  <event name="Cheltenham Festival" id="18" date="2016-Dec-31 17:30" meeting="Cheltenham Festival" venue="Cheltenham Festival" team1="" team2="">
-    <market name="To Win Any Race At The 2017 Cheltenham Festival - Outright" id="414052185" start="2016-Dec-31 17:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Min" id="1371955912" price="6/1" />
-      <sel name="Champers On Ice" id="1369624133" price="16/1" />
-      <sel name="Bellshill" id="1369622107" price="8/1" />
-      <sel name="Robin Roe" id="1368280285" price="14/1" />
-      <sel name="Lucky Pass" id="1366838251" price="14/1" />
-      <sel name="Killultagh Vic" id="1352566948" price="10/1" />
+<oddfeed bookie="WilliamHill" generateddate="2016 October 29" generatedtime="18:11:10" sport="HorseRacing" feedname="AntePost" feedtype="antepost">
+  <event name="To Win Any Race At The 2017 Cheltenham Festival" id="" date="2016-Dec-31 17:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="414052185" start="2016-Dec-31 17:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Moon Racer" id="1347655230" price="10/1" />
       <sel name="Blow By Blow" id="1353270516" price="10/1" />
-      <sel name="Jenkins" id="1371955915" price="10/1" />
       <sel name="Baltazar d'Allier" id="1361760872" price="20/1" />
-      <sel name="Buveur d'Air" id="1353270489" price="8/1" />
-      <sel name="Wotzizname" id="1360009097" price="25/1" />
-      <sel name="The New One" id="1347655234" price="12/1" />
-      <sel name="Yanworth" id="1347655233" price="8/1" />
-      <sel name="More Of That" id="1355117152" price="14/1" />
-      <sel name="Faugheen" id="1347655235" price="13/8" />
-      <sel name="Djakadam" id="1352220925" price="10/1" />
-      <sel name="Aux Ptit Soins" id="1347655227" price="10/1" />
-      <sel name="Thistlecrack" id="1347655224" price="7/4" />
-      <sel name="Ballyandy" id="1347655231" price="14/1" />
-      <sel name="Invitation Only" id="1347655229" price="10/1" />
-      <sel name="Vroum Vroum Mag" id="1347655237" price="5/2" />
-      <sel name="Castello Sforza" id="1354175818" price="14/1" />
-      <sel name="Annie Power" id="1347655236" price="5/2" />
+      <sel name="Winter Escape" id="1362925146" price="20/1" />
+      <sel name="Jenkins" id="1371955915" price="10/1" />
+      <sel name="Samcro" id="1362924000" price="12/1" />
       <sel name="Sympa des Flos" id="1362923174" price="16/1" />
-      <sel name="Coney Island" id="1352567881" price="16/1" />
-      <sel name="Vautour" id="1347655225" price="7/2" />
-      <sel name="Barters Hill" id="1347655226" price="14/1" />
-      <sel name="Tycoon Prince" id="1353270555" price="20/1" />
       <sel name="Melon" id="1362922816" price="12/1" />
-      <sel name="Karalee" id="1353174990" price="6/1" />
+      <sel name="Killultagh Vic" id="1352566948" price="10/1" />
+      <sel name="Lucky Pass" id="1366838251" price="14/1" />
+      <sel name="Robin Roe" id="1368280285" price="14/1" />
+      <sel name="Bellshill" id="1369622107" price="8/1" />
+      <sel name="Champers On Ice" id="1369624133" price="16/1" />
+      <sel name="Min" id="1371955912" price="6/1" />
+      <sel name="Wotzizname" id="1360009097" price="25/1" />
+      <sel name="Ballyandy" id="1347655231" price="14/1" />
       <sel name="Yorkhill" id="1347655232" price="7/2" />
       <sel name="Native River" id="1355115794" price="20/1" />
+      <sel name="Invitation Only" id="1347655229" price="10/1" />
+      <sel name="Castello Sforza" id="1354175818" price="14/1" />
       <sel name="Death Duty" id="1347655228" price="14/1" />
-      <sel name="Let's Dance" id="1355108300" price="5/1" />
-      <sel name="Apples Jade" id="1352220954" price="5/2" />
-      <sel name="Tombstone" id="1354175861" price="14/1" />
+      <sel name="Karalee" id="1353174990" price="6/1" />
+      <sel name="Aux Ptit Soins" id="1347655227" price="10/1" />
+      <sel name="Barters Hill" id="1347655226" price="14/1" />
       <sel name="Battleford" id="1355108309" price="10/1" />
-      <sel name="Samcro" id="1362924000" price="12/1" />
-      <sel name="Winter Escape" id="1362925146" price="20/1" />
+      <sel name="Vautour" id="1347655225" price="7/2" />
+      <sel name="Coney Island" id="1352567881" price="16/1" />
+      <sel name="Thistlecrack" id="1347655224" price="7/4" />
+      <sel name="Djakadam" id="1352220925" price="10/1" />
+      <sel name="Vroum Vroum Mag" id="1347655237" price="5/2" />
+      <sel name="Tombstone" id="1354175861" price="14/1" />
+      <sel name="Apples Jade" id="1352220954" price="5/2" />
+      <sel name="Annie Power" id="1347655236" price="5/2" />
+      <sel name="Tycoon Prince" id="1353270555" price="20/1" />
+      <sel name="Buveur d'Air" id="1353270489" price="8/1" />
+      <sel name="Yanworth" id="1347655233" price="8/1" />
+      <sel name="The New One" id="1347655234" price="12/1" />
+      <sel name="Let's Dance" id="1355108300" price="5/1" />
+      <sel name="More Of That" id="1355117152" price="14/1" />
+      <sel name="Faugheen" id="1347655235" price="13/8" />
     </market>
-    <market name="Champion Hurdle - 14th Mar 2017 - Outright" id="347501684" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Champion Hurdle" id="" date="2017-Mar-12 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="347501684" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Annie Power" id="1140205424" price="3/1" />
       <sel name="Sceau Royal" id="1365303779" price="25/1" />
       <sel name="Ivanovich Gorbatov" id="1142702361" price="25/1" />
-      <sel name="Altior" id="1140158022" price="7/1" />
       <sel name="Buveur D'Air" id="1162646949" price="25/1" />
-      <sel name="Yanworth" id="1140982712" price="12/1" />
-      <sel name="Apple's Jade" id="1161664423" price="8/1" />
-      <sel name="Vroum Vroum Mag" id="1185751170" price="10/1" />
       <sel name="Yorkhill" id="1140982651" price="12/1" />
+      <sel name="Yanworth" id="1140982712" price="12/1" />
+      <sel name="Vroum Vroum Mag" id="1185751170" price="10/1" />
+      <sel name="Apple's Jade" id="1161664423" price="8/1" />
+      <sel name="Altior" id="1140158022" price="7/1" />
       <sel name="Faugheen" id="1140158021" price="7/4" />
     </market>
-    <market name="Arkle Challenge Trophy - 14th Mar 2017 - Outright" id="348585676" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Arkle Challenge Trophy" id="" date="2017-Mar-12 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="348585676" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Top Notch" id="1372233821" price="33/1" />
       <sel name="Charbel" id="1372233230" price="33/1" />
       <sel name="Identity Thief" id="1143486066" price="8/1" />
       <sel name="Don't Touch It" id="1363344684" price="33/1" />
       <sel name="Petit Mouchoir" id="1312166096" price="25/1" />
-      <sel name="Altior" id="1315553736" price="5/2" />
       <sel name="Three Stars" id="1354379394" price="33/1" />
-      <sel name="The New One" id="1345470557" price="16/1" />
       <sel name="Buveur D'Air" id="1143486064" price="10/1" />
+      <sel name="The New One" id="1345470557" price="16/1" />
       <sel name="Min" id="1143486063" price="7/1" />
       <sel name="Yorkhill" id="1143486062" price="4/1" />
+      <sel name="Altior" id="1315553736" price="5/2" />
     </market>
-    <market name="Supreme Novices' Hurdle - 14th Mar 2017 - Outright" id="406689094" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Melon" id="1325303160" price="16/1" />
+  </event>
+  <event name="Supreme Novices' Hurdle" id="" date="2017-Mar-12 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="406689094" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="First Figaro" id="1327307973" price="40/1" />
+      <sel name="Cultivator" id="1373399971" price="33/1" />
       <sel name="Epicuris" id="1372001061" price="25/1" />
       <sel name="Jenkins" id="1325303164" price="12/1" />
       <sel name="Crack Mome" id="1361736069" price="33/1" />
       <sel name="Penhill" id="1361733493" price="16/1" />
       <sel name="Stretchingthetruth" id="1327308159" price="33/1" />
-      <sel name="Montalbano" id="1327308060" price="33/1" />
+      <sel name="Senewalk" id="1325303158" price="10/1" />
       <sel name="Moon Racer" id="1325303159" price="12/1" />
       <sel name="Battleford" id="1325303161" price="20/1" />
+      <sel name="Melon" id="1325303160" price="16/1" />
       <sel name="Ballyandy" id="1325303162" price="20/1" />
-      <sel name="First Figaro" id="1327307973" price="40/1" />
+      <sel name="Montalbano" id="1327308060" price="33/1" />
       <sel name="Bacardys" id="1325303166" price="25/1" />
-      <sel name="Senewalk" id="1325303158" price="10/1" />
     </market>
-    <market name="OLBG Mares' Hurdle - 14th Mar 2017 - Outright" id="416451346" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Jer's Girl" id="1355132984" price="9/2" />
+  </event>
+  <event name="OLBG Mares' Hurdle" id="" date="2017-Mar-12 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416451346" start="2017-Mar-12 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Limini" id="1355132985" price="7/1" />
-      <sel name="Annie Power" id="1355132982" price="4/1" />
       <sel name="Kotkikova" id="1355132986" price="14/1" />
-      <sel name="Apple's Jade" id="1355132983" price="4/1" />
+      <sel name="Jer's Girl" id="1355132984" price="9/2" />
+      <sel name="Annie Power" id="1355132982" price="4/1" />
       <sel name="Vroum Vroum Mag" id="1355132981" price="5/2" />
+      <sel name="Apple's Jade" id="1355132983" price="4/1" />
     </market>
-    <market name="Queen Mother Champion Chase - 15th Mar 2017 - Outright" id="347506301" start="2017-Mar-13 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Queen Mother Champion Chase" id="" date="2017-Mar-13 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="347506301" start="2017-Mar-13 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Fox Norton" id="1365332253" price="20/1" />
-      <sel name="Douvan" id="1140169409" price="1/1" />
-      <sel name="God's Own" id="1182480791" price="20/1" />
-      <sel name="Traffic Fluide" id="1202941845" price="33/1" />
       <sel name="Un de Sceaux" id="1140169407" price="8/1" />
+      <sel name="Douvan" id="1140169409" price="1/1" />
+      <sel name="Traffic Fluide" id="1202941845" price="33/1" />
+      <sel name="God's Own" id="1182480791" price="20/1" />
       <sel name="Sprinter Sacre" id="1141045425" price="7/2" />
     </market>
-    <market name="JT McNamara National Hunt Chase - 14th Mar 2017 - Outright" id="419283744" start="2017-Mar-13 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Prince Of Scars" id="1364368641" price="16/1" />
-      <sel name="Fletchers Flyer" id="1364368640" price="16/1" />
-      <sel name="Milsean" id="1364368639" price="16/1" />
+  </event>
+  <event name="JT McNamara National Hunt Chase" id="" date="2017-Mar-13 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="419283744" start="2017-Mar-13 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Tiger Roll" id="1364368638" price="25/1" />
-      <sel name="Jetstream Jack" id="1364368637" price="20/1" />
+      <sel name="Milsean" id="1364368639" price="16/1" />
+      <sel name="Fletchers Flyer" id="1364368640" price="16/1" />
+      <sel name="Prince Of Scars" id="1364368641" price="16/1" />
       <sel name="Martello Tower" id="1364368642" price="16/1" />
+      <sel name="Jetstream Jack" id="1364368637" price="20/1" />
     </market>
-    <market name="World Hurdle - 16th Mar 2017 - Outright" id="348367318" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Ptit Zig" id="1310897431" price="20/1" />
+  </event>
+  <event name="World Hurdle" id="" date="2017-Mar-14 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="348367318" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Ballyoptic" id="1345478013" price="14/1" />
-      <sel name="Yanworth" id="1273589825" price="12/1" />
+      <sel name="Silsol" id="1310905383" price="25/1" />
+      <sel name="Shaneshill" id="1164157102" price="14/1" />
+      <sel name="Jezki" id="1146188138" price="14/1" />
+      <sel name="Unowhatimeanharry" id="1142828846" price="14/1" />
+      <sel name="Zarkandar" id="1310927636" price="40/1" />
+      <sel name="Nichols Canyon" id="1146186987" price="8/1" />
       <sel name="Faugheen" id="1313230409" price="4/1" />
       <sel name="Rawnaq" id="1202788285" price="33/1" />
       <sel name="The Romford Pele" id="1350910416" price="66/1" />
-      <sel name="Silsol" id="1310905383" price="33/1" />
-      <sel name="Nichols Canyon" id="1146186987" price="8/1" />
-      <sel name="Zarkandar" id="1310927636" price="40/1" />
-      <sel name="Unowhatimeanharry" id="1142828846" price="14/1" />
-      <sel name="Jezki" id="1146188138" price="14/1" />
-      <sel name="Shaneshill" id="1164157102" price="14/1" />
+      <sel name="Ptit Zig" id="1310897431" price="20/1" />
+      <sel name="Yanworth" id="1273589825" price="12/1" />
       <sel name="One Track Mind" id="1184647408" price="16/1" />
     </market>
-    <market name="RSA Chase - 15th Mar 2017 - Outright" id="362449334" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Alpha Des Obeaux" id="1185523337" price="8/1" />
-      <sel name="Barters Hill" id="1185523341" price="20/1" />
+  </event>
+  <event name="RSA Chase" id="" date="2017-Mar-14 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="362449334" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="O O Seven" id="1352269815" price="33/1" />
-      <sel name="Shantou Village" id="1300006458" price="25/1" />
+      <sel name="Martello Tower" id="1185523343" price="25/1" />
+      <sel name="Alpha Des Obeaux" id="1185523337" price="8/1" />
       <sel name="Aux Ptits Soins" id="1185523340" price="12/1" />
+      <sel name="Cole Harden" id="1185523342" price="20/1" />
+      <sel name="Beat That" id="1358875442" price="50/1" />
+      <sel name="Free Expression" id="1355119697" price="50/1" />
+      <sel name="Barters Hill" id="1185523341" price="20/1" />
+      <sel name="Prince Of Scars" id="1185523344" price="20/1" />
+      <sel name="Shantou Village" id="1300006458" price="25/1" />
       <sel name="Bellshill" id="1185523339" price="14/1" />
       <sel name="One Track Mind" id="1185523338" price="12/1" />
-      <sel name="Free Expression" id="1355119697" price="50/1" />
-      <sel name="Beat That" id="1358875442" price="50/1" />
-      <sel name="Cole Harden" id="1185523342" price="20/1" />
       <sel name="Aurko" id="1355119722" price="33/1" />
-      <sel name="Martello Tower" id="1185523343" price="25/1" />
-      <sel name="Prince Of Scars" id="1185523344" price="20/1" />
     </market>
-    <market name="Neptune Investment Management Novices' Hurdle - 15th Mar 2017 - Outright" id="407977621" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Ballyandy" id="1329231750" price="16/1" />
-      <sel name="Invitation Only" id="1329231753" price="12/1" />
+  </event>
+  <event name="Neptune Investment Management Novices' Hurdle" id="" date="2017-Mar-14 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="407977621" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Melon" id="1329231760" price="25/1" />
+      <sel name="Moon Racer" id="1329231752" price="20/1" />
       <sel name="Blow By Blow" id="1329231759" price="25/1" />
       <sel name="Death Duty" id="1329231758" price="25/1" />
       <sel name="Senewalk" id="1329231756" price="20/1" />
-      <sel name="Melon" id="1329231760" price="25/1" />
       <sel name="Jenkins" id="1329231755" price="20/1" />
-      <sel name="Moon Racer" id="1329231752" price="20/1" />
+      <sel name="Invitation Only" id="1329231753" price="12/1" />
+      <sel name="Ballyandy" id="1329231750" price="16/1" />
     </market>
-    <market name="Ryanair Chase - 16th Mar 2017 - Outright" id="407985357" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Vautour" id="1329246795" price="4/1" />
+  </event>
+  <event name="Ryanair Chase" id="" date="2017-Mar-14 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="407985357" start="2017-Mar-14 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Dodging Bullets" id="1329246806" price="33/1" />
+      <sel name="Bristol De Mai" id="1329246802" price="20/1" />
+      <sel name="Simonsig" id="1329246805" price="33/1" />
+      <sel name="Valseur Lido" id="1329246801" price="16/1" />
+      <sel name="More Of That" id="1329246800" price="16/1" />
       <sel name="Un De Sceaux" id="1329246799" price="12/1" />
+      <sel name="Irish Cavalier" id="1373380448" price="20/1" />
+      <sel name="Vaniteux" id="1329246804" price="25/1" />
       <sel name="Douvan" id="1329246798" price="8/1" />
       <sel name="Vroum Vroum Mag" id="1329246797" price="10/1" />
       <sel name="Black Hercules" id="1329246796" price="8/1" />
-      <sel name="Vaniteux" id="1329246804" price="25/1" />
-      <sel name="Simonsig" id="1329246805" price="33/1" />
-      <sel name="Dodging Bullets" id="1329246806" price="33/1" />
+      <sel name="Vautour" id="1329246795" price="4/1" />
       <sel name="Killultagh Vic" id="1329246803" price="16/1" />
-      <sel name="More Of That" id="1329246800" price="16/1" />
-      <sel name="Valseur Lido" id="1329246801" price="16/1" />
-      <sel name="Bristol De Mai" id="1329246802" price="20/1" />
     </market>
-    <market name="Timico Cheltenham Gold Cup - 17th Mar 2017 - Outright" id="335765136" start="2017-Mar-15 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Minella Rocco" id="1321347028" price="33/1" />
-      <sel name="Thistlecrack" id="1103767388" price="4/1" />
+  </event>
+  <event name="Timico Cheltenham Gold Cup" id="" date="2017-Mar-15 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="335765136" start="2017-Mar-15 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Native River" id="1355119319" price="33/1" />
+      <sel name="Vautour" id="1141855317" price="6/1" />
       <sel name="Coneygree" id="1141867872" price="10/1" />
-      <sel name="Blaklion" id="1141007413" price="33/1" />
-      <sel name="Bristol de Mai" id="1346210567" price="50/1" />
+      <sel name="Carlingford Lough" id="1183592314" price="33/1" />
+      <sel name="Douvan" id="1140171354" price="8/1" />
       <sel name="Vroum Vroum Mag" id="1140265485" price="25/1" />
       <sel name="Black Hercules" id="1141798148" price="25/1" />
       <sel name="Un Temps Pour Tout" id="1147604724" price="40/1" />
+      <sel name="Minella Rocco" id="1321347028" price="33/1" />
       <sel name="Don Cossack" id="1142787841" price="6/1" />
+      <sel name="Blaklion" id="1141007413" price="33/1" />
+      <sel name="Bristol de Mai" id="1346210567" price="50/1" />
+      <sel name="Irish Cavalier" id="1373345557" price="33/1" />
+      <sel name="Cue Card" id="1142819528" price="12/1" />
+      <sel name="Thistlecrack" id="1103767388" price="4/1" />
       <sel name="Djakadam" id="1142789456" price="12/1" />
       <sel name="More Of That" id="1355119362" price="33/1" />
       <sel name="Don Poli" id="1142790742" price="33/1" />
-      <sel name="Native River" id="1355119319" price="33/1" />
-      <sel name="Vautour" id="1141855317" price="6/1" />
-      <sel name="Cue Card" id="1142819528" price="8/1" />
-      <sel name="Douvan" id="1140171354" price="8/1" />
-      <sel name="Carlingford Lough" id="1183592314" price="33/1" />
     </market>
-    <market name="JLT Novices' Chase - 16th Mar 2017 - Outright" id="407985356" start="2017-Mar-15 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Cole Harden" id="1329246793" price="25/1" />
-      <sel name="Top Notch" id="1329246791" price="25/1" />
-      <sel name="Aurko" id="1355119496" price="33/1" />
+  </event>
+  <event name="JLT Novices' Chase" id="" date="2017-Mar-15 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="407985356" start="2017-Mar-15 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Yorkhill" id="1329246787" price="6/1" />
       <sel name="Le Prezien" id="1372234772" price="25/1" />
       <sel name="Don't Touch It" id="1363344747" price="33/1" />
-      <sel name="Free Expression" id="1355119491" price="50/1" />
-      <sel name="Diamond King" id="1329246785" price="10/1" />
-      <sel name="The New One" id="1345471600" price="14/1" />
-      <sel name="Ibis Du Rheu" id="1329246792" price="25/1" />
-      <sel name="Altior" id="1329246786" price="6/1" />
-      <sel name="Different Gravey" id="1329246790" price="16/1" />
       <sel name="Buveur D'Air" id="1329246789" price="14/1" />
+      <sel name="Different Gravey" id="1329246790" price="16/1" />
+      <sel name="Aurko" id="1355119496" price="33/1" />
+      <sel name="Top Notch" id="1329246791" price="25/1" />
+      <sel name="Ibis Du Rheu" id="1329246792" price="25/1" />
       <sel name="Aux Ptit Soins" id="1329246788" price="14/1" />
-      <sel name="Yorkhill" id="1329246787" price="6/1" />
+      <sel name="Cole Harden" id="1329246793" price="25/1" />
+      <sel name="Free Expression" id="1355119491" price="50/1" />
+      <sel name="Altior" id="1329246786" price="6/1" />
+      <sel name="The New One" id="1345471600" price="14/1" />
+      <sel name="Diamond King" id="1329246785" price="10/1" />
     </market>
-    <market name="Trull House Stud Mares' Novices' Hurdle - 16th Mar 2017 - Outright" id="417643740" start="2017-Mar-15 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Canelie" id="1368706659" price="16/1" />
-      <sel name="Let's Dance" id="1359005109" price="7/1" />
+  </event>
+  <event name="Trull House Stud Mares' Novices' Hurdle" id="" date="2017-Mar-15 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="417643740" start="2017-Mar-15 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="The Nipper" id="1359005114" price="20/1" />
       <sel name="Copper Kay" id="1359005112" price="20/1" />
-      <sel name="Kayf Grace" id="1359005111" price="10/1" />
+      <sel name="Let's Dance" id="1359005109" price="7/1" />
       <sel name="Augusta Kate" id="1359005110" price="8/1" />
+      <sel name="Kayf Grace" id="1359005111" price="10/1" />
+      <sel name="Canelie" id="1368706659" price="16/1" />
       <sel name="La Bague Au Roi" id="1359005113" price="12/1" />
     </market>
-    <market name="Triumph Hurdle - 17th Mar 2017 - Outright" id="417621030" start="2017-Mar-16 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Triumph Hurdle" id="" date="2017-Mar-16 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="417621030" start="2017-Mar-16 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Cosmeapolitan" id="1359859471" price="33/1" />
       <sel name="Gunnery" id="1359859424" price="25/1" />
+      <sel name="Landofhopeandglory" id="1358928317" price="20/1" />
+      <sel name="Dolos" id="1358928318" price="25/1" />
       <sel name="Cliffs Of Dover" id="1372267479" price="25/1" />
       <sel name="Master Blueyes" id="1359859474" price="66/1" />
       <sel name="Stratum" id="1372000900" price="25/1" />
       <sel name="Mengli Khan" id="1372000885" price="25/1" />
       <sel name="Laws Of Spin" id="1361741183" price="20/1" />
       <sel name="Mega Fortune" id="1361742433" price="33/1" />
-      <sel name="Cosmeapolitan" id="1359859471" price="33/1" />
-      <sel name="Dolos" id="1358928318" price="25/1" />
-      <sel name="Landofhopeandglory" id="1358928317" price="20/1" />
-    </market>
-    <market name="Albert Bartlett Novices' Hurdle - 17th Mar 2017 - Outright" id="417643103" start="2017-Mar-16 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="West Approach" id="1359004992" price="40/1" />
-      <sel name="Blow By Blow" id="1359003449" price="16/1" />
-      <sel name="Wholestone" id="1365234027" price="25/1" />
-      <sel name="Battleford" id="1359003452" price="16/1" />
-      <sel name="Death Duty" id="1359003448" price="16/1" />
-      <sel name="Invitation Only" id="1359003450" price="12/1" />
-      <sel name="Bacardys" id="1361128712" price="14/1" />
-      <sel name="Ballyandy" id="1359003451" price="16/1" />
     </market>
   </event>
-  <event name="English Classics" id="749" date="2017-May-01 09:30" meeting="English Classics" venue="English Classics" team1="" team2="">
-    <market name="2017 Qipco 2000 Guineas - Outright" id="366996277" start="2017-May-01 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  <event name="Albert Bartlett Novices' Hurdle" id="" date="2017-Mar-16 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="417643103" start="2017-Mar-16 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Ballyandy" id="1359003451" price="16/1" />
+      <sel name="Death Duty" id="1359003448" price="16/1" />
+      <sel name="Wholestone" id="1365234027" price="25/1" />
+      <sel name="Blow By Blow" id="1359003449" price="16/1" />
+      <sel name="West Approach" id="1359004992" price="40/1" />
+      <sel name="Bacardys" id="1361128712" price="14/1" />
+      <sel name="Battleford" id="1359003452" price="16/1" />
+      <sel name="Invitation Only" id="1359003450" price="12/1" />
+    </market>
+  </event>
+  <event name="2017 Qipco 2000 Guineas" id="" date="2017-May-01 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="366996277" start="2017-May-01 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Rivet" id="1314804897" price="16/1" />
+      <sel name="Dreamfield" id="1361115597" price="25/1" />
+      <sel name="Mirage Dancer" id="1364295461" price="33/1" />
+      <sel name="Capri" id="1302662917" price="33/1" />
+      <sel name="Blue Point" id="1256671641" price="25/1" />
+      <sel name="War Decree" id="1251697704" price="16/1" />
+      <sel name="Caravaggio" id="1227643814" price="7/1" />
+      <sel name="Churchill" id="1231596031" price="11/8" />
+      <sel name="Syphax" id="1291166986" price="33/1" />
+      <sel name="Eminent" id="1348479490" price="40/1" />
       <sel name="Okool" id="1314804173" price="100/1" />
       <sel name="Swiss Storm" id="1299941120" price="40/1" />
       <sel name="Psychedelic Funk" id="1227716488" price="50/1" />
       <sel name="Cunco" id="1199961343" price="50/1" />
-      <sel name="Larchmont Lad" id="1332330765" price="50/1" />
-      <sel name="Capri" id="1302662917" price="33/1" />
-      <sel name="Best Solution" id="1349548989" price="40/1" />
-      <sel name="Seven Heavens" id="1250645584" price="33/1" />
       <sel name="Peace Envoy" id="1258072520" price="33/1" />
-      <sel name="Atty Persse" id="1333020387" price="33/1" />
-      <sel name="Boynton" id="1251697676" price="40/1" />
       <sel name="Best Of Days" id="1262523654" price="33/1" />
       <sel name="Escobar" id="1287333526" price="33/1" />
-      <sel name="Mirage Dancer" id="1364295461" price="33/1" />
-      <sel name="Dreamfield" id="1361115597" price="25/1" />
-      <sel name="Rivet" id="1314804897" price="16/1" />
-      <sel name="War Decree" id="1251697704" price="16/1" />
-      <sel name="Caravaggio" id="1227643814" price="7/1" />
+      <sel name="Boynton" id="1251697676" price="40/1" />
+      <sel name="Atty Persse" id="1333020387" price="33/1" />
+      <sel name="Seven Heavens" id="1250645584" price="33/1" />
+      <sel name="Larchmont Lad" id="1332330765" price="50/1" />
+      <sel name="Best Solution" id="1349548989" price="40/1" />
       <sel name="South Seas" id="1294436667" price="25/1" />
-      <sel name="Churchill" id="1231596031" price="11/8" />
-      <sel name="Syphax" id="1291166986" price="33/1" />
-      <sel name="Eminent" id="1348479490" price="40/1" />
-      <sel name="Blue Point" id="1256671641" price="25/1" />
     </market>
-    <market name="2017 Qipco 1000 Guineas - Outright" id="374520458" start="2017-May-01 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Sobetsu" id="1327557144" price="33/1" />
-      <sel name="Tempera" id="1373175820" price="33/1" />
+  </event>
+  <event name="2017 Qipco 1000 Guineas" id="" date="2017-May-01 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="374520458" start="2017-May-01 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Cristal Fizz" id="1365327942" price="33/1" />
-      <sel name="Fair Eva" id="1223778933" price="12/1" />
-      <sel name="Spain Burg" id="1333289145" price="12/1" />
-      <sel name="Spatial" id="1327557046" price="33/1" />
-      <sel name="Hydrangea" id="1317844303" price="12/1" />
-      <sel name="Poet's Vanity" id="1348609857" price="20/1" />
-      <sel name="Sea Of Grace" id="1302882781" price="25/1" />
-      <sel name="Queen Kindly" id="1223778937" price="16/1" />
-      <sel name="Dabyah" id="1251566437" price="12/1" />
-      <sel name="Roly Poly" id="1250665314" price="16/1" />
-      <sel name="Promise To Be True" id="1263581913" price="14/1" />
-      <sel name="Rich Legacy" id="1314725927" price="33/1" />
-      <sel name="Rhododendron" id="1295160573" price="9/2" />
-      <sel name="Talaayeb" id="1334367708" price="16/1" />
-      <sel name="Wuheida" id="1343261315" price="9/1" />
-      <sel name="Raven's Lady" id="1345172758" price="100/1" />
-      <sel name="Icespire" id="1351387681" price="40/1" />
       <sel name="Brave Anna" id="1231672227" price="16/1" />
       <sel name="Light Laughter" id="1258660616" price="66/1" />
       <sel name="Intricately" id="1317844262" price="14/1" />
       <sel name="Neshmeya" id="1334047156" price="50/1" />
+      <sel name="Spatial" id="1327557046" price="33/1" />
+      <sel name="Spain Burg" id="1333289145" price="12/1" />
+      <sel name="Sea Of Grace" id="1302882781" price="25/1" />
+      <sel name="Queen Kindly" id="1223778937" price="16/1" />
+      <sel name="Dabyah" id="1251566437" price="12/1" />
+      <sel name="Sobetsu" id="1327557144" price="33/1" />
+      <sel name="Rich Legacy" id="1314725927" price="33/1" />
+      <sel name="Rhododendron" id="1295160573" price="9/2" />
+      <sel name="Icespire" id="1351387681" price="40/1" />
       <sel name="Aljezeera" id="1287347119" price="33/1" />
-    </market>
-    <market name="Investec Oaks - 2nd Jun 2017 - Outright" id="389091992" start="2017-May-31 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Hydrangea" id="1297271289" price="12/1" />
-      <sel name="Aljezeera" id="1297271426" price="25/1" />
-      <sel name="Eziyra" id="1297270942" price="20/1" />
-      <sel name="Promise To Be True" id="1297270720" price="16/1" />
-      <sel name="Sea Of Grace" id="1302878899" price="20/1" />
-      <sel name="Sobetsu" id="1325175901" price="25/1" />
-      <sel name="Rhododendron" id="1269702461" price="6/1" />
-      <sel name="Wuheida" id="1343265273" price="12/1" />
-      <sel name="Coronet" id="1349609075" price="14/1" />
-    </market>
-    <market name="Investec Derby - 3rd Jun 2017 - Outright" id="378409477" start="2017-Jun-01 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Finn Mccool" id="1236149715" price="50/1" />
-      <sel name="Frontispiece" id="1310075302" price="40/1" />
-      <sel name="Churchill" id="1236149713" price="6/1" />
-      <sel name="Capri" id="1279592147" price="14/1" />
-      <sel name="Swiss Storm" id="1345559025" price="50/1" />
-      <sel name="Mirage Dancer" id="1364295940" price="33/1" />
-      <sel name="Yucatan" id="1361314217" price="16/1" />
-      <sel name="Rivet" id="1294906365" price="16/1" />
-      <sel name="Atty Persse" id="1333021665" price="40/1" />
-      <sel name="Cunco" id="1236149714" price="33/1" />
-      <sel name="Seven Heavens" id="1249839266" price="33/1" />
-      <sel name="Okool" id="1314804338" price="50/1" />
-      <sel name="Best Of Days" id="1262524180" price="33/1" />
+      <sel name="Promise To Be True" id="1263581913" price="14/1" />
+      <sel name="Fair Eva" id="1223778933" price="12/1" />
+      <sel name="Poet's Vanity" id="1348609857" price="20/1" />
+      <sel name="Hydrangea" id="1317844303" price="12/1" />
+      <sel name="Roly Poly" id="1250665314" price="16/1" />
+      <sel name="Really Special" id="1373331872" price="20/1" />
+      <sel name="Tempera" id="1373175820" price="33/1" />
+      <sel name="Talaayeb" id="1334367708" price="16/1" />
+      <sel name="Wuheida" id="1343261315" price="9/1" />
+      <sel name="Raven's Lady" id="1345172758" price="100/1" />
     </market>
   </event>
-  <event name="Royal Ascot" id="764" date="2017-Jun-13 09:30" meeting="Royal Ascot" venue="Royal Ascot" team1="" team2="">
-    <market name="Ascot Gold Cup - 15th Jun 2017 - Outright" id="376818240" start="2017-Jun-13 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Sheikhzayedroad" id="1356598999" price="16/1" />
-      <sel name="Order Of St George" id="1230902958" price="3/1" />
+  <event name="Investec Oaks" id="" date="2017-May-31 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="389091992" start="2017-May-31 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Promise To Be True" id="1297270720" price="16/1" />
+      <sel name="Aljezeera" id="1297271426" price="25/1" />
+      <sel name="Wuheida" id="1343265273" price="12/1" />
+      <sel name="Sea Of Grace" id="1302878899" price="20/1" />
+      <sel name="Hydrangea" id="1297271289" price="12/1" />
+      <sel name="Rhododendron" id="1269702461" price="6/1" />
+      <sel name="Coronet" id="1349609075" price="14/1" />
+      <sel name="Sobetsu" id="1325175901" price="25/1" />
+      <sel name="Eziyra" id="1297270942" price="20/1" />
     </market>
-    <market name="Commonwealth Cup - 23rd Jun 2017 - Outright" id="417643107" start="2017-Jun-21 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Yalta" id="1359003504" price="33/1" />
+  </event>
+  <event name="Investec Derby" id="" date="2017-Jun-01 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="378409477" start="2017-Jun-01 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Swiss Storm" id="1345559025" price="50/1" />
+      <sel name="Rivet" id="1294906365" price="16/1" />
+      <sel name="Yucatan" id="1361314217" price="16/1" />
+      <sel name="Mirage Dancer" id="1364295940" price="33/1" />
+      <sel name="Finn Mccool" id="1236149715" price="50/1" />
+      <sel name="Okool" id="1314804338" price="50/1" />
+      <sel name="Best Of Days" id="1262524180" price="33/1" />
+      <sel name="Seven Heavens" id="1249839266" price="33/1" />
+      <sel name="Frontispiece" id="1310075302" price="40/1" />
+      <sel name="Cunco" id="1236149714" price="33/1" />
+      <sel name="Atty Persse" id="1333021665" price="40/1" />
+      <sel name="Churchill" id="1236149713" price="6/1" />
+      <sel name="Capri" id="1279592147" price="14/1" />
+    </market>
+  </event>
+  <event name="Ascot Gold Cup" id="" date="2017-Jun-13 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="376818240" start="2017-Jun-13 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Order Of St George" id="1230902958" price="3/1" />
+      <sel name="Sheikhzayedroad" id="1356598999" price="16/1" />
+    </market>
+  </event>
+  <event name="Commonwealth Cup" id="" date="2017-Jun-21 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="417643107" start="2017-Jun-21 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Dreamfield" id="1361643253" price="16/1" />
+      <sel name="Caravaggio" id="1359003493" price="7/2" />
+      <sel name="Harry Angel" id="1359003495" price="8/1" />
       <sel name="Lady Aurelia" id="1359003497" price="8/1" />
       <sel name="Mokarris" id="1359003498" price="16/1" />
-      <sel name="Dreamfield" id="1361643253" price="16/1" />
       <sel name="Mubtasim" id="1359003499" price="16/1" />
       <sel name="Mrs Danvers" id="1359003500" price="20/1" />
       <sel name="Peace Envoy" id="1359003501" price="20/1" />
       <sel name="Tis Marvellous" id="1359003502" price="20/1" />
+      <sel name="Akhlaaq" id="1359003503" price="25/1" />
+      <sel name="Blue Point" id="1359003494" price="8/1" />
+      <sel name="Yalta" id="1359003504" price="33/1" />
       <sel name="Ardad" id="1359003505" price="25/1" />
       <sel name="Prince Of Lir" id="1359003506" price="33/1" />
-      <sel name="Caravaggio" id="1359003493" price="7/2" />
-      <sel name="Akhlaaq" id="1359003503" price="25/1" />
-      <sel name="Harry Angel" id="1359003495" price="8/1" />
-      <sel name="Blue Point" id="1359003494" price="8/1" />
     </market>
   </event>
-  <event name="Grand National" id="766" date="2017-Apr-06 09:30" meeting="Grand National" venue="Grand National" team1="" team2="">
-    <market name="Randox Health Grand National - 8th April 2017 - Outright" id="355367787" start="2017-Apr-06 09:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
-      <sel name="Gilgamboa" id="1164457886" price="33/1" />
-      <sel name="The Young Master" id="1313401782" price="25/1" />
+  <event name="Randox Health Grand National" id="" date="2017-Apr-06 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="355367787" start="2017-Apr-06 09:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
       <sel name="Alvarado" id="1170666796" price="33/1" />
+      <sel name="Gilgamboa" id="1164457886" price="33/1" />
+      <sel name="Vicente" id="1170666646" price="33/1" />
+      <sel name="Cause Of Causes" id="1164457795" price="33/1" />
+      <sel name="Antony" id="1373347953" price="40/1" />
+      <sel name="The Young Master" id="1313401782" price="25/1" />
       <sel name="The Last Samuri" id="1164457781" price="25/1" />
       <sel name="Ucello Conti" id="1168297441" price="40/1" />
       <sel name="Vivaldi Collonges" id="1310921763" price="50/1" />
       <sel name="Many Clouds" id="1164457792" price="25/1" />
-      <sel name="Vicente" id="1170666646" price="33/1" />
       <sel name="Southfield Theatre" id="1310924851" price="40/1" />
       <sel name="Don Poli" id="1164457784" price="25/1" />
-      <sel name="Cause Of Causes" id="1164457795" price="33/1" />
     </market>
   </event>
-  <event name="The Breeders' Cup" id="768" date="2016-Oct-31 18:00" meeting="The Breeders' Cup" venue="The Breeders' Cup" team1="" team2="">
-    <market name="Breeders' Cup Classic - 5th Nov 2016 - Outright" id="350905909" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Found" id="1366132192" price="14/1" />
-      <sel name="Keen Ice" id="1366838100" price="50/1" />
-      <sel name="Effinex" id="1368556502" price="33/1" />
+  <event name="Breeders' Cup Classic" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="350905909" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Win the Space" id="1368560561" price="50/1" />
       <sel name="Highland Reel" id="1368565912" price="25/1" />
       <sel name="War Story" id="1368567822" price="100/1" />
-      <sel name="Gun Runner" id="1335345193" price="20/1" />
-      <sel name="Frosted" id="1150374451" price="9/1" />
-      <sel name="Nyquist" id="1208742036" price="25/1" />
       <sel name="Melatonin" id="1335346024" price="20/1" />
+      <sel name="Gun Runner" id="1335345193" price="20/1" />
       <sel name="Hoppertunity" id="1349951244" price="20/1" />
-      <sel name="Shaman Ghost" id="1310051547" price="20/1" />
-      <sel name="California Chrome" id="1150374450" price="1/1" />
+      <sel name="Frosted" id="1150374451" price="9/1" />
       <sel name="Arrogate" id="1302736742" price="5/2" />
+      <sel name="California Chrome" id="1150374450" price="1/1" />
+      <sel name="Shaman Ghost" id="1310051547" price="20/1" />
+      <sel name="Found" id="1366132192" price="14/1" />
+      <sel name="Keen Ice" id="1366838100" price="50/1" />
+      <sel name="Effinex" id="1368556502" price="33/1" />
     </market>
-    <market name="Longines Breeders' Cup Turf - 5th Nov 2016 - Outright" id="399674692" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Longines Breeders' Cup Turf" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="399674692" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Texas Ryano" id="1368578517" price="66/1" />
       <sel name="Metaboss" id="1368578572" price="66/1" />
+      <sel name="Ulysses" id="1368578657" price="8/1" />
+      <sel name="Ralis" id="1368578575" price="100/1" />
+      <sel name="Flintshire" id="1302890556" price="13/8" />
+      <sel name="Twilight Eclipse" id="1368580248" price="25/1" />
+      <sel name="Win The Space" id="1368578933" price="50/1" />
+      <sel name="Seventh Heaven" id="1368578868" price="8/1" />
+      <sel name="Pretty Perfect" id="1368578845" price="25/1" />
+      <sel name="Ashleyluvssugar" id="1302890557" price="33/1" />
       <sel name="Ectot" id="1344089938" price="8/1" />
       <sel name="Da Big Hoss" id="1336603915" price="20/1" />
       <sel name="Mondialiste" id="1302890560" price="16/1" />
       <sel name="Found" id="1302890561" price="7/2" />
       <sel name="Highland Reel" id="1302890558" price="2/1" />
       <sel name="Money Multiplier" id="1368578514" price="25/1" />
-      <sel name="Texas Ryano" id="1368578517" price="66/1" />
-      <sel name="Ashleyluvssugar" id="1302890557" price="33/1" />
-      <sel name="Ulysses" id="1368578657" price="8/1" />
-      <sel name="Pretty Perfect" id="1368578845" price="25/1" />
-      <sel name="Seventh Heaven" id="1368578868" price="8/1" />
-      <sel name="Win The Space" id="1368578933" price="50/1" />
-      <sel name="Twilight Eclipse" id="1368580248" price="25/1" />
-      <sel name="Flintshire" id="1302890556" price="13/8" />
-      <sel name="Ralis" id="1368578575" price="100/1" />
     </market>
-    <market name="Breeders' Cup Mile - 5th Nov 2016 - Outright" id="399917387" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Om" id="1368687913" price="33/1" />
+  </event>
+  <event name="Breeders' Cup Mile" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="399917387" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Photo Call" id="1368687844" price="25/1" />
       <sel name="What A View" id="1368687870" price="40/1" />
       <sel name="Vyjack" id="1368688224" price="33/1" />
       <sel name="Suedois" id="1368688351" price="33/1" />
       <sel name="Ring Weekend" id="1368688193" price="33/1" />
-      <sel name="Photo Call" id="1368687844" price="33/1" />
+      <sel name="Om" id="1368687913" price="33/1" />
       <sel name="Karar" id="1368688231" price="33/1" />
       <sel name="Hit It A Bomb" id="1368688225" price="33/1" />
       <sel name="Midnight Storm" id="1303657124" price="25/1" />
@@ -396,7 +442,6 @@
       <sel name="Home Of The Brave" id="1368688230" price="16/1" />
       <sel name="Dutch Connection" id="1303657118" price="16/1" />
       <sel name="Miss Temple City" id="1349963921" price="16/1" />
-      <sel name="Latharnach" id="1363995068" price="16/1" />
       <sel name="Ironicus" id="1349963900" price="10/1" />
       <sel name="Limato" id="1303657120" price="5/2" />
       <sel name="Tepin" id="1303657117" price="5/2" />
@@ -404,96 +449,109 @@
       <sel name="Kitcat" id="1368687456" price="100/1" />
       <sel name="Alice Springs" id="1342684859" price="4/1" />
     </market>
-    <market name="Breeders' Cup Filly and Mare Turf - 5th Nov 2016 - Outright" id="413391040" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Breeders' Cup Filly and Mare Turf" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="413391040" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Al's Gal" id="1345523809" price="12/1" />
+      <sel name="Pretty Perfect" id="1368684931" price="16/1" />
+      <sel name="Sea Calisi" id="1345523808" price="13/2" />
+      <sel name="Nuovo Record" id="1353158159" price="12/1" />
+      <sel name="Catch A Glimpse" id="1345523807" price="12/1" />
+      <sel name="Alice Springs" id="1368685205" price="6/1" />
       <sel name="Ryans Charm" id="1368685124" price="40/1" />
       <sel name="Photo Call" id="1368685119" price="16/1" />
       <sel name="Avenge" id="1368685116" price="16/1" />
       <sel name="Zipessa" id="1368684973" price="20/1" />
-      <sel name="Lady Eli" id="1345523810" price="5/2" />
-      <sel name="Seventh Heaven" id="1349982657" price="4/1" />
-      <sel name="Spectre" id="1368684869" price="16/1" />
-      <sel name="Queen's Trust" id="1368684890" price="8/1" />
       <sel name="Kitcat" id="1368684972" price="40/1" />
-      <sel name="Pretty Perfect" id="1368684931" price="16/1" />
-      <sel name="Sea Calisi" id="1345523808" price="13/2" />
-      <sel name="Nuovo Record" id="1353158159" price="12/1" />
-      <sel name="Al's Gal" id="1345523809" price="12/1" />
+      <sel name="Queen's Trust" id="1368684890" price="8/1" />
+      <sel name="Spectre" id="1368684869" price="16/1" />
+      <sel name="Seventh Heaven" id="1349982657" price="4/1" />
+      <sel name="Lady Eli" id="1345523810" price="5/2" />
       <sel name="Sentiero Italia" id="1345523814" price="14/1" />
-      <sel name="Catch A Glimpse" id="1345523807" price="12/1" />
-      <sel name="Alice Springs" id="1368685205" price="6/1" />
     </market>
-    <market name="Longines Breeders' Cup Distaff - 4th Nov 2016 - Outright" id="413392827" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Longines Breeders' Cup Distaff" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="413392827" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="I'm A Chatterbox" id="1345529539" price="10/1" />
-      <sel name="Carina Mia" id="1345529535" price="25/1" />
-      <sel name="Forever Unbridled" id="1345529538" price="25/1" />
       <sel name="Beholder" id="1345529534" price="9/2" />
       <sel name="Curalina" id="1345529537" price="16/1" />
       <sel name="Songbird" id="1345529540" price="8/11" />
       <sel name="Stellar Wind" id="1345529532" price="4/1" />
-      <sel name="Land Over Sea" id="1368548936" price="80/1" />
+      <sel name="Carina Mia" id="1345529535" price="25/1" />
+      <sel name="Forever Unbridled" id="1345529538" price="25/1" />
       <sel name="Corona Del Inca" id="1345529533" price="80/1" />
+      <sel name="Land Over Sea" id="1368548936" price="80/1" />
     </market>
-    <market name="Breeders' Cup Sprint - 5th Nov 2016 - Outright" id="416216903" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Masochistic" id="1354358369" price="5/1" />
+  </event>
+  <event name="Breeders' Cup Sprint" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416216903" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Lord Nelson" id="1354358367" price="10/3" />
+      <sel name="Drefong" id="1354358368" price="4/1" />
       <sel name="Joking" id="1354358374" price="8/1" />
       <sel name="Delta Bluesman" id="1354358372" price="12/1" />
       <sel name="Limousine Liberal" id="1354358375" price="12/1" />
       <sel name="Noholdingback Bear" id="1354358376" price="12/1" />
       <sel name="Mind Your Biscuits" id="1354358378" price="20/1" />
+      <sel name="Masochistic" id="1354358369" price="9/2" />
       <sel name="A P Indian" id="1354358366" price="10/3" />
-      <sel name="Lord Nelson" id="1354358367" price="10/3" />
-      <sel name="Drefong" id="1354358368" price="4/1" />
     </market>
-    <market name="Breeders' Cup Dirt Mile - 4th Nov 2016 - Outright" id="416220140" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="War Story" id="1368750239" price="50/1" />
-      <sel name="Tamarkuz" id="1354369170" price="8/1" />
+  </event>
+  <event name="Breeders' Cup Dirt Mile" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416220140" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Runhappy" id="1354369167" price="4/1" />
       <sel name="Vyjack" id="1368750210" price="12/1" />
       <sel name="Texas Chrome" id="1354369169" price="9/1" />
-      <sel name="Runhappy" id="1354369167" price="4/1" />
-      <sel name="Dortmund" id="1354369165" price="4/5" />
-      <sel name="Point Piper" id="1354369171" price="20/1" />
-      <sel name="Tom's Ready" id="1354369168" price="10/1" />
-      <sel name="Gun Runner" id="1354369166" price="9/2" />
       <sel name="Accelerate" id="1368750091" price="14/1" />
       <sel name="Midnight Storm" id="1368750155" price="12/1" />
+      <sel name="Tamarkuz" id="1354369170" price="8/1" />
+      <sel name="War Story" id="1368750239" price="50/1" />
+      <sel name="Gun Runner" id="1354369166" price="9/2" />
+      <sel name="Tom's Ready" id="1354369168" price="10/1" />
+      <sel name="Point Piper" id="1354369171" price="20/1" />
+      <sel name="Dortmund" id="1354369165" price="4/5" />
     </market>
-    <market name="Breeders' Cup Juvenile - 5th Nov 2016 - Outright" id="416890648" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Practical Joke" id="1356557366" price="13/2" />
-      <sel name="Klimt" id="1356557371" price="13/2" />
-      <sel name="Not This Time" id="1356557365" price="5/1" />
-      <sel name="Good Samaritan" id="1368668866" price="14/1" />
+  </event>
+  <event name="Breeders' Cup Juvenile" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416890648" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Classic Empire" id="1356557370" price="11/2" />
+      <sel name="Not This Time" id="1356557365" price="9/2" />
       <sel name="Term Of Art" id="1368668880" price="50/1" />
       <sel name="Lookin At Lee" id="1356557378" price="20/1" />
       <sel name="Star Empire" id="1368668869" price="33/1" />
       <sel name="Three Rules" id="1356557374" price="12/1" />
       <sel name="Theory" id="1356557373" price="9/1" />
       <sel name="Syndergaard" id="1356557368" price="6/1" />
-      <sel name="Classic Empire" id="1356557370" price="11/2" />
       <sel name="Gormley" id="1356557364" price="4/1" />
+      <sel name="Practical Joke" id="1356557366" price="13/2" />
+      <sel name="Klimt" id="1356557371" price="13/2" />
     </market>
-    <market name="Breeders' Cup Filly &amp; Mare Sprint - 5th Nov 2016 - Outright" id="416928962" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="By The Moon" id="1356620831" price="8/1" />
-      <sel name="Enchanting Lady" id="1356620841" price="16/1" />
-      <sel name="Paulassilverlining" id="1356620832" price="10/1" />
+  </event>
+  <event name="Breeders' Cup Filly &amp; Mare Sprint" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416928962" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Haveyougoneaway" id="1356620827" price="4/1" />
-      <sel name="Wonder Gal" id="1368688408" price="40/1" />
-      <sel name="Finest City" id="1368688602" price="16/1" />
-      <sel name="Taras Tango" id="1356620835" price="11/1" />
-      <sel name="Irish Jasper" id="1356620834" price="13/2" />
-      <sel name="Carina Mia" id="1356620824" price="3/1" />
-      <sel name="Spelling Again" id="1368688659" price="33/1" />
-      <sel name="Living The Life" id="1368688594" price="16/1" />
-      <sel name="Paola Queen" id="1368688571" price="20/1" />
-      <sel name="Gloryzapper" id="1368688446" price="20/1" />
-      <sel name="Gomo" id="1368688411" price="33/1" />
-      <sel name="Curalina" id="1356620828" price="5/1" />
       <sel name="Wavell Avenue" id="1356620829" price="10/1" />
+      <sel name="Curalina" id="1356620828" price="5/1" />
+      <sel name="Enchanting Lady" id="1356620841" price="16/1" />
+      <sel name="By The Moon" id="1356620831" price="8/1" />
+      <sel name="Paulassilverlining" id="1356620832" price="10/1" />
+      <sel name="Gomo" id="1368688411" price="33/1" />
+      <sel name="Gloryzapper" id="1368688446" price="20/1" />
+      <sel name="Paola Queen" id="1368688571" price="20/1" />
+      <sel name="Living The Life" id="1368688594" price="16/1" />
+      <sel name="Spelling Again" id="1368688659" price="33/1" />
+      <sel name="Carina Mia" id="1356620824" price="3/1" />
+      <sel name="Irish Jasper" id="1356620834" price="13/2" />
+      <sel name="Taras Tango" id="1356620835" price="11/1" />
+      <sel name="Finest City" id="1368688602" price="16/1" />
+      <sel name="Wonder Gal" id="1368688408" price="40/1" />
     </market>
-    <market name="Breeders' Cup Juvenile Fillies - 5th Nov 2016 - Outright" id="416955923" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Breeders' Cup Juvenile Fillies" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416955923" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+      <sel name="Champagne Room" id="1356744966" price="20/1" />
       <sel name="New Money Honey" id="1368625652" price="20/1" />
       <sel name="American Gal" id="1368628851" price="10/1" />
       <sel name="Colorful Charades" id="1368625677" price="66/1" />
-      <sel name="Champagne Room" id="1356744966" price="20/1" />
       <sel name="Dancing Rags" id="1356744964" price="10/1" />
       <sel name="With Honors" id="1356744963" price="9/1" />
       <sel name="Daddys Lil Darling" id="1356744962" price="10/1" />
@@ -504,49 +562,53 @@
       <sel name="Noted and Quoted" id="1356744960" price="4/1" />
       <sel name="Valadorna" id="1367100197" price="14/1" />
     </market>
-    <market name="Breeders' Cup Turf Sprint - 5th Nov 2016 - Outright" id="420080276" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Lady Shipman" id="1366984787" price="14/1" />
-      <sel name="Catch a Glimpse" id="1369428026" price="14/1" />
+  </event>
+  <event name="Breeders' Cup Turf Sprint" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="420080276" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Calgary Cat" id="1369428031" price="25/1" />
+      <sel name="Pure Sensation" id="1366984783" price="8/1" />
+      <sel name="Holy Lute" id="1366984782" price="11/1" />
+      <sel name="Acapulco" id="1366984786" price="10/1" />
+      <sel name="Undrafted" id="1366984793" price="8/1" />
+      <sel name="Washington DC" id="1366984792" price="6/1" />
+      <sel name="Ambitious Brew" id="1366984780" price="12/1" />
+      <sel name="Mongolian Saturday" id="1366984789" price="8/1" />
       <sel name="Full Mast" id="1369428217" price="20/1" />
       <sel name="Green Mask" id="1369428286" price="16/1" />
-      <sel name="Home of The Brave" id="1369428372" price="13/2" />
-      <sel name="Hunt" id="1369428454" price="33/1" />
       <sel name="Karar" id="1369428554" price="9/1" />
+      <sel name="Hunt" id="1369428454" price="33/1" />
+      <sel name="Lady Shipman" id="1366984787" price="14/1" />
+      <sel name="Home of The Brave" id="1369428372" price="13/2" />
+      <sel name="Guns Loaded" id="1366984784" price="14/1" />
       <sel name="Mehronissa" id="1369428606" price="14/1" />
-      <sel name="Obviously" id="1369428611" price="16/1" />
-      <sel name="Om" id="1369428747" price="16/1" />
-      <sel name="Prize Exhibit" id="1369428850" price="50/1" />
-      <sel name="Ready for Rye" id="1369428913" price="33/1" />
-      <sel name="Mongolian Saturday" id="1366984789" price="8/1" />
-      <sel name="Rumble Doll" id="1369428954" price="100/1" />
       <sel name="Stormy Liberal" id="1369429102" price="66/1" />
+      <sel name="Rumble Doll" id="1369428954" price="100/1" />
+      <sel name="Obviously" id="1369428611" price="16/1" />
+      <sel name="Ready for Rye" id="1369428913" price="33/1" />
+      <sel name="Prize Exhibit" id="1369428850" price="50/1" />
+      <sel name="Om" id="1369428747" price="16/1" />
       <sel name="Successful Native" id="1369429151" price="12/1" />
       <sel name="Suedois" id="1369429253" price="9/1" />
       <sel name="Toowindytohaulrox" id="1369429282" price="25/1" />
       <sel name="Celestine" id="1369428074" price="8/1" />
       <sel name="A Lot" id="1366984781" price="10/1" />
-      <sel name="Washington DC" id="1366984792" price="6/1" />
-      <sel name="Undrafted" id="1366984793" price="8/1" />
-      <sel name="Acapulco" id="1366984786" price="10/1" />
-      <sel name="Holy Lute" id="1366984782" price="11/1" />
-      <sel name="Pure Sensation" id="1366984783" price="8/1" />
-      <sel name="Ambitious Brew" id="1366984780" price="12/1" />
-      <sel name="Guns Loaded" id="1366984784" price="14/1" />
+      <sel name="Catch a Glimpse" id="1369428026" price="14/1" />
     </market>
-    <market name="Breeders' Cup Juvenile Fillies Turf - 4th Nov 2016 - Outright" id="420100287" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
+  </event>
+  <event name="Breeders' Cup Juvenile Fillies Turf" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="420100287" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Madam Dancealot" id="1367044749" price="33/1" />
-      <sel name="Hydrangea" id="1367044748" price="6/1" />
-      <sel name="Miss Southern Miss" id="1367044743" price="12/1" />
       <sel name="New Money Honey" id="1367044745" price="14/1" />
+      <sel name="Miss Southern Miss" id="1367044743" price="12/1" />
+      <sel name="Hydrangea" id="1367044748" price="6/1" />
       <sel name="La Coronel" id="1367044740" price="8/1" />
       <sel name="Spain Burg" id="1367044739" price="9/2" />
       <sel name="Roly Poly" id="1367044741" price="4/1" />
       <sel name="Intricately" id="1367044738" price="9/2" />
       <sel name="With Honors" id="1368608426" price="9/1" />
       <sel name="Coasted" id="1367044746" price="25/1" />
-      <sel name="Rymska" id="1368608568" price="20/1" />
       <sel name="Cavale Doree" id="1368608449" price="16/1" />
+      <sel name="Rymska" id="1368608568" price="20/1" />
       <sel name="Victory To Victory" id="1367044742" price="12/1" />
       <sel name="Partyinthepark" id="1368608640" price="40/1" />
       <sel name="La Force" id="1368608595" price="33/1" />
@@ -556,43 +618,45 @@
       <sel name="Majestic Gale" id="1368608490" price="33/1" />
       <sel name="Lull" id="1367044747" price="50/1" />
     </market>
-    <market name="Breeders' Cup Juvenile Turf - 4th Nov 2016 - Outright" id="420103745" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Good Samaritan" id="1367054086" price="6/1" />
-      <sel name="Ticonderoga" id="1367054089" price="14/1" />
+  </event>
+  <event name="Breeders' Cup Juvenile Turf" id="" date="2016-Oct-31 18:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="420103745" start="2016-Oct-31 18:00" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Shiraz" id="1368588961" price="50/1" />
-      <sel name="Kitten's Cat" id="1368587284" price="40/1" />
-      <sel name="Bowies Hero" id="1367054087" price="20/1" />
-      <sel name="Channel Maker" id="1367054091" price="20/1" />
-      <sel name="Favorable Outcome" id="1368585857" price="20/1" />
-      <sel name="Made You Look" id="1367054088" price="8/1" />
-      <sel name="Wellabled" id="1367054094" price="12/1" />
-      <sel name="Big Score" id="1367054095" price="10/1" />
-      <sel name="Oscar Performance" id="1367054093" price="9/2" />
-      <sel name="Intelligence Cross" id="1368582950" price="5/1" />
-      <sel name="Keep Quiet" id="1367054090" price="12/1" />
-      <sel name="Hootie" id="1368588851" price="33/1" />
-      <sel name="Harbour Master" id="1368588301" price="25/1" />
-      <sel name="Rodaini" id="1368584699" price="14/1" />
-      <sel name="Lancaster Bomber" id="1368582991" price="11/2" />
+      <sel name="Ticonderoga" id="1367054089" price="14/1" />
       <sel name="J S Choice" id="1367054092" price="33/1" />
+      <sel name="Rodaini" id="1368584699" price="14/1" />
+      <sel name="Harbour Master" id="1368588301" price="25/1" />
+      <sel name="Hootie" id="1368588851" price="33/1" />
+      <sel name="Keep Quiet" id="1367054090" price="12/1" />
+      <sel name="Intelligence Cross" id="1368582950" price="5/1" />
+      <sel name="Lancaster Bomber" id="1368582991" price="11/2" />
+      <sel name="Oscar Performance" id="1367054093" price="9/2" />
+      <sel name="Big Score" id="1367054095" price="10/1" />
+      <sel name="Wellabled" id="1367054094" price="12/1" />
+      <sel name="Made You Look" id="1367054088" price="8/1" />
+      <sel name="Good Samaritan" id="1367054086" price="6/1" />
+      <sel name="Favorable Outcome" id="1368585857" price="20/1" />
+      <sel name="Channel Maker" id="1367054091" price="20/1" />
+      <sel name="Bowies Hero" id="1367054087" price="20/1" />
+      <sel name="Kitten's Cat" id="1368587284" price="40/1" />
     </market>
   </event>
-  <event name="Flat" id="808" date="2016-Oct-31 17:30" meeting="Flat" venue="Flat" team1="" team2="">
-    <market name="Emirates Melbourne Cup NRMB Rule 4 May Apply - 1st Nov 2016 - Outright" id="421879362" start="2016-Oct-31 17:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
+  <event name="Emirates Melbourne Cup NRMB Rule 4 May Apply" id="" date="2016-Oct-31 17:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="421879362" start="2016-Oct-31 17:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
+      <sel name="Sir John Hawkwood" id="1372812249" price="50/1" />
       <sel name="Grand Marshal" id="1372812246" price="33/1" />
       <sel name="Rose Of Virginia" id="1372812259" price="200/1" />
       <sel name="Qewy" id="1372812258" price="25/1" />
       <sel name="Pentathlon" id="1372812257" price="100/1" />
+      <sel name="Secret Number" id="1372812256" price="25/1" />
+      <sel name="Oceanographer" id="1372812255" price="7/1" />
+      <sel name="Grey Lion" id="1372812254" price="33/1" />
       <sel name="Assign" id="1372812253" price="66/1" />
       <sel name="Almandin" id="1372812252" price="12/1" />
       <sel name="Beautiful Romance" id="1372812251" price="40/1" />
       <sel name="Excess Knowledge" id="1372812250" price="50/1" />
-      <sel name="Sir John Hawkwood" id="1372812249" price="50/1" />
       <sel name="Heartbreak City" id="1372812248" price="14/1" />
       <sel name="Jameka" id="1372812247" price="6/1" />
-      <sel name="Grey Lion" id="1372812254" price="33/1" />
-      <sel name="Oceanographer" id="1372812255" price="7/1" />
-      <sel name="Secret Number" id="1372812256" price="25/1" />
       <sel name="Gallante" id="1372812245" price="50/1" />
       <sel name="Almoonqith" id="1372812244" price="20/1" />
       <sel name="Wicklow Brave" id="1372812243" price="16/1" />
@@ -605,32 +669,10 @@
       <sel name="Big Orange" id="1372812236" price="10/1" />
     </market>
   </event>
-  <event name="National Hunt" id="12152" date="2016-Oct-29 14:45" meeting="National Hunt" venue="National Hunt" team1="" team2="">
-    <market name="To win this weekend &amp; at 2017 Cheltenham Festival - Outright" id="421651579" start="2016-Oct-29 14:45" inplay="f" suspended="f" ewplaces="" ewreduction="">
-      <sel name="Blaklion" id="1372005755" price="66/1" />
-      <sel name="Cue Card" id="1372005754" price="11/1" />
-      <sel name="If In Doubt" id="1372005753" price="66/1" />
-      <sel name="Ballyoptic" id="1372005752" price="25/1" />
-    </market>
-    <market name="stanjames.com Greatwood Hurdle - 13th Nov 2016 - Outright" id="421344913" start="2016-Nov-11 09:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
+  <event name="stanjames.com Greatwood Hurdle" id="" date="2016-Nov-11 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="421344913" start="2016-Nov-11 09:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
       <sel name="Mister Miyagi" id="1371046400" price="12/1" />
-      <sel name="Winter Escape" id="1371046415" price="8/1" />
-      <sel name="Zubayr" id="1371046417" price="14/1" />
-      <sel name="Wolf Of Windlesham" id="1371046416" price="40/1" />
-      <sel name="Waxies Dargle" id="1371046414" price="16/1" />
-      <sel name="Tommy Silver" id="1371046413" price="25/1" />
-      <sel name="Thunder Sheik" id="1371046412" price="40/1" />
-      <sel name="Swamp Fox" id="1371046411" price="16/1" />
-      <sel name="Sternrubin" id="1371046410" price="25/1" />
-      <sel name="St Stephens Green" id="1371046409" price="33/1" />
-      <sel name="Song Light" id="1371046408" price="50/1" />
-      <sel name="Sceau Royal" id="1371046407" price="10/1" />
-      <sel name="Rossetti" id="1371046406" price="50/1" />
-      <sel name="Romain De Senam" id="1371046405" price="20/1" />
-      <sel name="Ozzie The Oscar" id="1371046404" price="25/1" />
       <sel name="North Hill Harvey" id="1371046403" price="25/1" />
-      <sel name="Modus" id="1371046402" price="25/1" />
-      <sel name="Minellaforleisure" id="1371046399" price="50/1" />
       <sel name="Mick Jazz" id="1371046397" price="12/1" />
       <sel name="Meet The Legend" id="1371046396" price="25/1" />
       <sel name="Mad Jack Mytton" id="1371046395" price="33/1" />
@@ -641,7 +683,6 @@
       <sel name="Hargam" id="1371046390" price="20/1" />
       <sel name="Gassin Golf" id="1371046389" price="33/1" />
       <sel name="Garde La Victoire" id="1371046388" price="16/1" />
-      <sel name="Diego Du Charmil" id="1371046387" price="12/1" />
       <sel name="Cyrius Moriviere" id="1371046386" price="33/1" />
       <sel name="Consul De Thaix" id="1371046385" price="25/1" />
       <sel name="Ch'Tibello" id="1371046384" price="12/1" />
@@ -650,8 +691,58 @@
       <sel name="Affaire D'Honneur" id="1371046381" price="16/1" />
       <sel name="Adrien Du Pont" id="1371046380" price="12/1" />
       <sel name="A Hare Breath" id="1371046379" price="12/1" />
+      <sel name="Minellaforleisure" id="1371046399" price="50/1" />
+      <sel name="Romain De Senam" id="1371046405" price="20/1" />
+      <sel name="Rossetti" id="1371046406" price="50/1" />
+      <sel name="Sceau Royal" id="1371046407" price="10/1" />
+      <sel name="Song Light" id="1371046408" price="50/1" />
+      <sel name="St Stephens Green" id="1371046409" price="33/1" />
+      <sel name="Swamp Fox" id="1371046411" price="16/1" />
+      <sel name="Thunder Sheik" id="1371046412" price="40/1" />
+      <sel name="Tommy Silver" id="1371046413" price="25/1" />
+      <sel name="Waxies Dargle" id="1371046414" price="16/1" />
+      <sel name="Wolf Of Windlesham" id="1371046416" price="40/1" />
+      <sel name="Zubayr" id="1371046417" price="14/1" />
+      <sel name="Winter Escape" id="1371046415" price="8/1" />
+      <sel name="Sternrubin" id="1371046410" price="16/1" />
+      <sel name="Diego Du Charmil" id="1371046387" price="20/1" />
+      <sel name="Modus" id="1371046402" price="14/1" />
+      <sel name="Ozzie The Oscar" id="1371046404" price="20/1" />
     </market>
-    <market name="BetVictor Gold Cup - 12th Nov 2016 - Outright" id="417145577" start="2016-Nov-12 15:00" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
+  </event>
+  <event name="BetVictor Gold Cup" id="" date="2016-Nov-12 15:00" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="417145577" start="2016-Nov-12 15:00" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
+      <sel name="Bouvreuil" id="1357363274" price="20/1" />
+      <sel name="Orbasa" id="1357363277" price="16/1" />
+      <sel name="Kings Odyssey" id="1357363264" price="16/1" />
+      <sel name="Irish Cavalier" id="1357363267" price="12/1" />
+      <sel name="Double Shuffle" id="1357363255" price="12/1" />
+      <sel name="Garde La Victoire" id="1357363258" price="10/1" />
+      <sel name="Art Mauresque" id="1357363276" price="16/1" />
+      <sel name="Voix d'Eau" id="1369529803" price="33/1" />
+      <sel name="Indian Stream" id="1369529784" price="25/1" />
+      <sel name="Kings Socks" id="1357363257" price="12/1" />
+      <sel name="Taquin Du Seuil" id="1357363262" price="14/1" />
+      <sel name="Mystifiable" id="1369529788" price="50/1" />
+      <sel name="Johnny Og" id="1369529785" price="50/1" />
+      <sel name="Turban" id="1369529800" price="33/1" />
+      <sel name="Thomas Crapper" id="1369529797" price="33/1" />
+      <sel name="Tenor Nivernais" id="1369529796" price="33/1" />
+      <sel name="Full Shift" id="1369529782" price="33/1" />
+      <sel name="Vibrato Valtat" id="1369529801" price="25/1" />
+      <sel name="Sizing  Granite" id="1369529793" price="25/1" />
+      <sel name="Regal Encore" id="1369529790" price="25/1" />
+      <sel name="Ballynagour" id="1369529777" price="25/1" />
+      <sel name="Ballykan" id="1369529776" price="25/1" />
+      <sel name="Vintage Vinnie" id="1369529802" price="20/1" />
+      <sel name="Triolo d'Alene" id="1369529799" price="20/1" />
+      <sel name="Top Gamble" id="1369529798" price="20/1" />
+      <sel name="Stilletto" id="1369529795" price="20/1" />
+      <sel name="Shanahan's Turn" id="1369529792" price="20/1" />
+      <sel name="Potters Cross" id="1369529789" price="20/1" />
+      <sel name="Henri Parry Morgan" id="1369529783" price="20/1" />
+      <sel name="Empire Of Dirt" id="1369529781" price="20/1" />
+      <sel name="Caid Du Berlais" id="1369529780" price="20/1" />
       <sel name="Buywise" id="1369529779" price="20/1" />
       <sel name="Saphir Du Rheu" id="1369529791" price="16/1" />
       <sel name="Killer Crow" id="1369529786" price="16/1" />
@@ -664,74 +755,34 @@
       <sel name="Annacotty" id="1369495841" price="25/1" />
       <sel name="Splash Of Ginge" id="1357363275" price="25/1" />
       <sel name="Village Vic" id="1357363271" price="20/1" />
-      <sel name="Irish Cavalier" id="1357363267" price="20/1" />
-      <sel name="Bouvreuil" id="1357363274" price="20/1" />
-      <sel name="Orbasa" id="1357363277" price="16/1" />
-      <sel name="Kings Odyssey" id="1357363264" price="16/1" />
-      <sel name="Art Mauresque" id="1357363276" price="16/1" />
-      <sel name="Double Shuffle" id="1357363255" price="12/1" />
-      <sel name="Garde La Victoire" id="1357363258" price="10/1" />
-      <sel name="Caid Du Berlais" id="1369529780" price="20/1" />
-      <sel name="Empire Of Dirt" id="1369529781" price="20/1" />
-      <sel name="Henri Parry Morgan" id="1369529783" price="20/1" />
-      <sel name="Potters Cross" id="1369529789" price="20/1" />
-      <sel name="Shanahan's Turn" id="1369529792" price="20/1" />
-      <sel name="Stilletto" id="1369529795" price="20/1" />
-      <sel name="Top Gamble" id="1369529798" price="20/1" />
-      <sel name="Triolo d'Alene" id="1369529799" price="20/1" />
-      <sel name="Vintage Vinnie" id="1369529802" price="20/1" />
-      <sel name="Voix d'Eau" id="1369529803" price="20/1" />
-      <sel name="Ballykan" id="1369529776" price="25/1" />
-      <sel name="Ballynagour" id="1369529777" price="25/1" />
-      <sel name="Regal Encore" id="1369529790" price="25/1" />
-      <sel name="Sizing  Granite" id="1369529793" price="25/1" />
-      <sel name="Vibrato Valtat" id="1369529801" price="25/1" />
-      <sel name="Full Shift" id="1369529782" price="33/1" />
-      <sel name="Tenor Nivernais" id="1369529796" price="33/1" />
-      <sel name="Thomas Crapper" id="1369529797" price="33/1" />
-      <sel name="Turban" id="1369529800" price="33/1" />
-      <sel name="Johnny Og" id="1369529785" price="50/1" />
-      <sel name="Mystifiable" id="1369529788" price="50/1" />
-      <sel name="Taquin Du Seuil" id="1357363262" price="14/1" />
-      <sel name="Kings Socks" id="1357363257" price="12/1" />
-      <sel name="Indian Stream" id="1369529784" price="25/1" />
     </market>
-    <market name="Betfair Chase - 19th Nov 2016 - Outright" id="416164642" start="2016-Nov-17 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/4">
-      <sel name="Djakadam" id="1354212000" price="4/1" />
-      <sel name="Cue Card" id="1354211999" price="7/4" />
-      <sel name="Holywell" id="1354212010" price="25/1" />
-      <sel name="More Of That" id="1354212009" price="20/1" />
-      <sel name="Coneygree" id="1354212002" price="5/1" />
-      <sel name="Silviniaco Conti" id="1354212004" price="13/2" />
+  </event>
+  <event name="Betfair Chase" id="" date="2016-Nov-17 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416164642" start="2016-Nov-17 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/4">
       <sel name="Many Clouds" id="1354212011" price="25/1" />
-      <sel name="Vautour" id="1354212005" price="10/1" />
-      <sel name="Blaklion" id="1354212007" price="14/1" />
-      <sel name="Bristol De Mai" id="1354212008" price="20/1" />
-      <sel name="O'Faolains Boy" id="1354212015" price="40/1" />
-      <sel name="Smad Place" id="1354212006" price="14/1" />
+      <sel name="Holywell" id="1354212010" price="25/1" />
       <sel name="Un Temps Pour Tout" id="1354212012" price="25/1" />
+      <sel name="Coneygree" id="1354212002" price="9/2" />
+      <sel name="Irish Cavalier" id="1373345907" price="10/1" />
+      <sel name="Cue Card" id="1354211999" price="5/2" />
       <sel name="Minella Rocco" id="1354212013" price="33/1" />
       <sel name="Native River" id="1354212014" price="33/1" />
+      <sel name="O'Faolains Boy" id="1354212015" price="40/1" />
+      <sel name="Djakadam" id="1354212000" price="4/1" />
+      <sel name="Blaklion" id="1354212007" price="14/1" />
+      <sel name="Silviniaco Conti" id="1354212004" price="13/2" />
+      <sel name="Smad Place" id="1354212006" price="14/1" />
+      <sel name="Bristol De Mai" id="1354212008" price="20/1" />
+      <sel name="Vautour" id="1354212005" price="10/1" />
+      <sel name="More Of That" id="1354212009" price="20/1" />
     </market>
-    <market name="Hennessy Gold Cup - 26th Nov 2016 - Outright" id="416180295" start="2016-Nov-24 09:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
-      <sel name="Potters Cross" id="1369623523" price="50/1" />
-      <sel name="Out Sam" id="1369623522" price="25/1" />
-      <sel name="Outlander" id="1369623517" price="16/1" />
-      <sel name="Otago Trail" id="1369623516" price="50/1" />
-      <sel name="Oscar Rock" id="1369623513" price="40/1" />
-      <sel name="Onenightinvienna" id="1369623512" price="33/1" />
-      <sel name="Monksland" id="1369623509" price="33/1" />
-      <sel name="Milansbar" id="1369623507" price="40/1" />
-      <sel name="Midnight Prayer" id="1369623504" price="50/1" />
-      <sel name="Local Show" id="1369623502" price="40/1" />
-      <sel name="Le Reve" id="1369623501" price="50/1" />
-      <sel name="Le Mercurey" id="1369623497" price="33/1" />
-      <sel name="Knock House" id="1369623494" price="40/1" />
+  </event>
+  <event name="Hennessy Gold Cup" id="" date="2016-Nov-24 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="416180295" start="2016-Nov-24 09:30" inplay="f" suspended="f" ewplaces="4" ewreduction="1/4">
       <sel name="Killer Crow" id="1369623492" price="40/1" />
       <sel name="Javert" id="1369623488" price="40/1" />
       <sel name="Irish Saint" id="1369623484" price="33/1" />
-      <sel name="Irish Cavalier" id="1369623480" price="40/1" />
-      <sel name="Virak" id="1369623558" price="33/1" />
+      <sel name="Holywell" id="1369623478" price="25/1" />
       <sel name="Henri Parry Morgan" id="1369623474" price="16/1" />
       <sel name="Hadrian's Approach" id="1369623470" price="33/1" />
       <sel name="Empire Of Dirt" id="1369623468" price="16/1" />
@@ -742,49 +793,66 @@
       <sel name="Bishops Road" id="1369623458" price="25/1" />
       <sel name="Aubusson" id="1369623457" price="33/1" />
       <sel name="Another Hero" id="1369623455" price="40/1" />
-      <sel name="O'Faolains Boy" id="1354248582" price="16/1" />
-      <sel name="Un Temps Pour Tout" id="1354248584" price="16/1" />
       <sel name="Coneygree" id="1354248580" price="16/1" />
       <sel name="Houblon Des Obeaux" id="1354248590" price="33/1" />
-      <sel name="Theatre Guide" id="1354248592" price="40/1" />
-      <sel name="Blaklion" id="1354248578" price="14/1" />
-      <sel name="Holywell" id="1369623478" price="25/1" />
-      <sel name="Vicente" id="1369623555" price="25/1" />
-      <sel name="Upswing" id="1369623552" price="40/1" />
-      <sel name="Un Ace" id="1369623551" price="40/1" />
-      <sel name="Triolo d'Alene" id="1369623549" price="33/1" />
-      <sel name="Thomas Brown" id="1369623545" price="25/1" />
-      <sel name="Third Intention" id="1369623543" price="25/1" />
-      <sel name="The Last Samuri" id="1369623542" price="25/1" />
-      <sel name="Southfield Theatre" id="1369623540" price="20/1" />
-      <sel name="Silviniaco Conti" id="1369623538" price="25/1" />
-      <sel name="Seventh Sky" id="1369623536" price="66/1" />
+      <sel name="O'Faolains Boy" id="1354248582" price="16/1" />
       <sel name="Seeyouatmidnight" id="1369623534" price="25/1" />
+      <sel name="Theatre Guide" id="1354248592" price="40/1" />
+      <sel name="Monksland" id="1369623509" price="33/1" />
+      <sel name="Blaklion" id="1354248578" price="14/1" />
+      <sel name="Seventh Sky" id="1369623536" price="66/1" />
+      <sel name="Silviniaco Conti" id="1369623538" price="25/1" />
+      <sel name="Southfield Theatre" id="1369623540" price="20/1" />
+      <sel name="The Last Samuri" id="1369623542" price="25/1" />
+      <sel name="Third Intention" id="1369623543" price="25/1" />
+      <sel name="Thomas Brown" id="1369623545" price="25/1" />
+      <sel name="Triolo d'Alene" id="1369623549" price="33/1" />
+      <sel name="Un Ace" id="1369623551" price="40/1" />
+      <sel name="Upswing" id="1369623552" price="40/1" />
+      <sel name="Vicente" id="1369623555" price="25/1" />
+      <sel name="Virak" id="1369623558" price="33/1" />
+      <sel name="Vivaldi Collonges" id="1369623560" price="33/1" />
+      <sel name="Vyta du Roc" id="1369623562" price="20/1" />
+      <sel name="Wakanda" id="1369623563" price="33/1" />
+      <sel name="Wounded Warrior" id="1369623566" price="33/1" />
+      <sel name="Wrath Of Titans" id="1369623568" price="33/1" />
+      <sel name="Avant Tout" id="1354248579" price="8/1" />
+      <sel name="Smad Place" id="1354248587" price="16/1" />
+      <sel name="Saphir du Rheu" id="1369623530" price="20/1" />
+      <sel name="Native River" id="1354248577" price="7/1" />
+      <sel name="Irish Cavalier" id="1369623480" price="14/1" />
+      <sel name="Un Temps Pour Tout" id="1354248584" price="16/1" />
       <sel name="Sausalito Sunrise" id="1369623532" price="25/1" />
       <sel name="Roi des Francs" id="1369623527" price="20/1" />
       <sel name="Regal Encore" id="1369623525" price="40/1" />
-      <sel name="Saphir du Rheu" id="1369623530" price="20/1" />
-      <sel name="Smad Place" id="1354248587" price="16/1" />
-      <sel name="Native River" id="1354248577" price="10/1" />
-      <sel name="Avant Tout" id="1354248579" price="8/1" />
-      <sel name="Wrath Of Titans" id="1369623568" price="33/1" />
-      <sel name="Wounded Warrior" id="1369623566" price="33/1" />
-      <sel name="Wakanda" id="1369623563" price="33/1" />
-      <sel name="Vyta du Roc" id="1369623562" price="20/1" />
-      <sel name="Vivaldi Collonges" id="1369623560" price="33/1" />
+      <sel name="Potters Cross" id="1369623523" price="50/1" />
+      <sel name="Out Sam" id="1369623522" price="25/1" />
+      <sel name="Outlander" id="1369623517" price="16/1" />
+      <sel name="Otago Trail" id="1369623516" price="50/1" />
+      <sel name="Oscar Rock" id="1369623513" price="40/1" />
+      <sel name="Onenightinvienna" id="1369623512" price="33/1" />
+      <sel name="Milansbar" id="1369623507" price="40/1" />
+      <sel name="Midnight Prayer" id="1369623504" price="50/1" />
+      <sel name="Local Show" id="1369623502" price="40/1" />
+      <sel name="Le Reve" id="1369623501" price="50/1" />
+      <sel name="Le Mercurey" id="1369623497" price="33/1" />
+      <sel name="Knock House" id="1369623494" price="40/1" />
     </market>
-    <market name="King George VI Chase - 26th Dec 2016 - Outright" id="324715954" start="2016-Dec-23 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
-      <sel name="Thistlecrack" id="1368727862" price="8/1" />
-      <sel name="Vautour" id="1069674495" price="7/2" />
-      <sel name="Coneygree" id="1069674499" price="10/1" />
+  </event>
+  <event name="King George VI Chase" id="" date="2016-Dec-23 09:30" meeting="" venue="" team1="" team2="">
+    <market name="Outright" id="324715954" start="2016-Dec-23 09:30" inplay="f" suspended="f" ewplaces="3" ewreduction="1/5">
       <sel name="Bristol de Mai" id="1348246362" price="33/1" />
       <sel name="More Of That" id="1069674500" price="20/1" />
       <sel name="Tea For Two" id="1069674501" price="25/1" />
-      <sel name="Djakadam" id="1069674497" price="10/1" />
       <sel name="Un De Sceaux" id="1208739969" price="10/1" />
-      <sel name="Cue Card" id="1069674498" price="4/1" />
+      <sel name="Djakadam" id="1069674497" price="10/1" />
       <sel name="Douvan" id="1163390506" price="6/1" />
       <sel name="Dodging Bullets" id="1310915025" price="33/1" />
+      <sel name="Thistlecrack" id="1368727862" price="8/1" />
+      <sel name="Cue Card" id="1069674498" price="6/1" />
+      <sel name="Irish Cavalier" id="1373345962" price="16/1" />
+      <sel name="Vautour" id="1069674495" price="3/1" />
+      <sel name="Coneygree" id="1069674499" price="8/1" />
     </market>
   </event>
 WHG (International) Ltd ("We/Us") of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the "Website") relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com

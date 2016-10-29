@@ -2,4 +2,3 @@ D:\Development\OddFeed\Source\IncomingFeedQueue\bin\Debug\IncomingFeedQueue.dll
 D:\Development\OddFeed\Source\IncomingFeedQueue\bin\Debug\IncomingFeedQueue.pdb
 D:\Development\OddFeed\Source\IncomingFeedQueue\obj\Debug\IncomingFeedQueue.dll
 D:\Development\OddFeed\Source\IncomingFeedQueue\obj\Debug\IncomingFeedQueue.pdb
-D:\Development\OddFeed\Source\IncomingFeedQueue\obj\Debug\IncomingFeedQueue.csprojResolveAssemblyReference.cache

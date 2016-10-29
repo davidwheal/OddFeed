@@ -14,8 +14,6 @@ namespace Daw.Common.CoreData.ProcessorData
     {
         [DataMember]
         public string Name { get; set; }
-        [DataMember]
-        public string Date { get; set; }
 
         public MarketDto()
         {
@@ -34,6 +32,7 @@ namespace Daw.Common.CoreData.ProcessorData
         public Market(oddfeedEventMarket feedObject)
         {
             TheMarkets = new ConcurrentDictionary<string, Market>();
+            Name = feedObject.name;
         }
 
         public void Assimilate(oddfeedEventMarket feedObject)

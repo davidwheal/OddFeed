@@ -16,8 +16,6 @@ D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.
 D:\Development\OddFeed\Dev\1.0\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csproj.GenerateResource.Cache
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Substitutions\EventSubstitutions.xml
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Substitutions\MarketSubstitutions.xml
-D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Bet365.xslt
-D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\WilliamHill.xslt
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\OddFeedXmlSchema.xsd
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\xsd.cmd
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Services.WindowsService.exe.config
@@ -54,4 +52,8 @@ D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.csproj.GenerateResource.Cache
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.exe
 D:\Development\OddFeed\Source\Daw.Services.WindowsService\obj\Debug\Daw.Services.WindowsService.pdb
-D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\Betfred.xslt
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Common.Logging.dll
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Daw.Common.Logging.pdb
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\HorseRacing\AntePost\Bet365.xslt
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\HorseRacing\AntePost\Betfred.xslt
+D:\Development\OddFeed\Source\Daw.Services.WindowsService\bin\Debug\Transforms\HorseRacing\AntePost\WilliamHill.xslt

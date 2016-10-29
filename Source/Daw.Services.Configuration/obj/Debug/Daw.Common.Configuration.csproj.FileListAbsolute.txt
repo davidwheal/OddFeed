@@ -6,4 +6,3 @@ D:\Development\OddFeed\Source\Daw.Services.Configuration\bin\Debug\Daw.Common.Co
 D:\Development\OddFeed\Source\Daw.Services.Configuration\bin\Debug\Daw.Common.Configuration.pdb
 D:\Development\OddFeed\Source\Daw.Services.Configuration\obj\Debug\Daw.Common.Configuration.dll
 D:\Development\OddFeed\Source\Daw.Services.Configuration\obj\Debug\Daw.Common.Configuration.pdb
-D:\Development\OddFeed\Source\Daw.Services.Configuration\obj\Debug\Daw.Common.Configuration.csprojResolveAssemblyReference.cache

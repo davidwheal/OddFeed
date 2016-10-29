@@ -198,5 +198,22 @@ namespace XsltTransformer.Helpers
                     return value;
             }
         }
+
+        #region WilliamHill
+        public static string GetEventFromMarketName(string marketName)
+        {
+            var rx = new System.Text.RegularExpressions.Regex(" - ");
+            var words = rx.Split(marketName);
+            return words[0];
+        }
+
+        public static string GetMarketFromMarketName(string marketName)
+        {
+            var rx = new System.Text.RegularExpressions.Regex(" - ");
+            var words = rx.Split(marketName);
+
+            return words[words.Length - 1];
+        }
+        #endregion
     }
 }

@@ -37,7 +37,8 @@ namespace XsltTransformer
                 lock (lockFlag)
                 {
                     myXslTrans = new XslCompiledTransform();
-                    myXslTrans.Load(@"Transforms/" + packet.Data.ConfigItem.transform, xsltSettings, new XmlUrlResolver());
+                    myXslTrans.Load(string.Format(@"Transforms/{0}/{1}/",
+                        packet.Data.ConfigItem.sport,packet.Data.ConfigItem.name) + packet.Data.ConfigItem.transform, xsltSettings, new XmlUrlResolver());
                 }
 
                 // Set up the encoding I want

@@ -8,6 +8,7 @@ using System.Xml;
 using System.Xml.Serialization;
 using log4net;
 using Daw.Common.CoreData;
+using Daw.Common.Logging;
 
 namespace XsltTransformer
 {
@@ -30,7 +31,7 @@ namespace XsltTransformer
             }
             catch (Exception ex)
             {
-                logger.Fatal(string.Format("Failed deserialize for {0}", ex.Message));
+                LogHelper.LogException(logger, "Deserialize", ex);
                 return null;
             }
 

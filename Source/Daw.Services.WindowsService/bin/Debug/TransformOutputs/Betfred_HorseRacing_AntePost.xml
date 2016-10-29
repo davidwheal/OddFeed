@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<oddfeed bookie="Betfred" generateddate="2016 October 29" generatedtime="14:16:57" sport="HorseRacing" feedname="AntePost" feedtype="antepost">
+<oddfeed bookie="Betfred" generateddate="2016 October 29" generatedtime="18:11:08" sport="HorseRacing" feedname="AntePost" feedtype="antepost">
   <event name="King George VI Chase" id="5243599.20" date="&lt;none&gt;" meeting="King George VI Chase" venue="King George VI Chase" team1="" team2="">
     <market name="Antepost Outright" id="27095691.20" start="&lt;none&gt;" inplay="f" suspended="f" ewplaces="3" ewreduction="5">
-      <sel name="Vautour" id="272154519.20" price="7/2" />
-      <sel name="Cue Card" id="272154521.20" price="7/2" />
+      <sel name="Vautour" id="272154519.20" price="3/1" />
+      <sel name="Cue Card" id="272154521.20" price="9/2" />
       <sel name="Djakadam" id="272154522.20" price="14/1" />
       <sel name="Coneygree" id="272154523.20" price="8/1" />
       <sel name="Douvan" id="272154524.20" price="5/1" />
@@ -20,8 +20,19 @@
     <market name="Antepost Outright" id="27169880.20" start="&lt;none&gt;" inplay="f" suspended="f" ewplaces="3" ewreduction="5">
       <sel name="Douvan" id="272524370.20" price="10/1" />
       <sel name="Thistlecrack" id="272524372.20" price="9/2" />
+      <sel name="Vautour" id="280486883.20" price="6/1" />
+      <sel name="Don Cossack" id="280785566.20" price="8/1" />
+      <sel name="Djakadam" id="280785567.20" price="12/1" />
+      <sel name="Coneygree" id="281010607.20" price="12/1" />
+      <sel name="Cue Card" id="281010608.20" price="10/1" />
+      <sel name="Killultagh Vic" id="281010609.20" price="25/1" />
+      <sel name="Blaklion" id="281010610.20" price="25/1" />
+      <sel name="Un Temps Pour Tout" id="282122841.20" price="40/1" />
+      <sel name="Don Poli" id="283420044.20" price="20/1" />
+      <sel name="Valseur Lido" id="289494565.20" price="25/1" />
+      <sel name="Minella Rocco" id="327515508.20" price="33/1" />
       <sel name="Black Hercules" id="333641378.20" price="25/1" />
-      <sel name="Native River" id="333641379.20" price="33/1" />
+      <sel name="Native River" id="333641379.20" price="25/1" />
       <sel name="Zabana" id="333641380.20" price="40/1" />
       <sel name="More Of That" id="333641381.20" price="33/1" />
       <sel name="Smad Place" id="333641382.20" price="40/1" />
@@ -29,17 +40,6 @@
       <sel name="Gilgamboa" id="333641384.20" price="50/1" />
       <sel name="Seeyouatmidnight" id="333641385.20" price="50/1" />
       <sel name="Bristol De Mai" id="333641386.20" price="40/1" />
-      <sel name="Vautour" id="280486883.20" price="6/1" />
-      <sel name="Don Cossack" id="280785566.20" price="8/1" />
-      <sel name="Djakadam" id="280785567.20" price="12/1" />
-      <sel name="Coneygree" id="281010607.20" price="12/1" />
-      <sel name="Cue Card" id="281010608.20" price="8/1" />
-      <sel name="Killultagh Vic" id="281010609.20" price="25/1" />
-      <sel name="Blaklion" id="281010610.20" price="25/1" />
-      <sel name="Un Temps Pour Tout" id="282122841.20" price="40/1" />
-      <sel name="Don Poli" id="283420044.20" price="20/1" />
-      <sel name="Minella Rocco" id="327515508.20" price="33/1" />
-      <sel name="Valseur Lido" id="289494565.20" price="25/1" />
       <sel name="Avant Tout" id="340221057.20" price="66/1" />
     </market>
   </event>
@@ -80,8 +80,6 @@
   </event>
   <event name="2017 World Hurdle" id="5441925.20" date="&lt;none&gt;" meeting="2017 World Hurdle" venue="2017 World Hurdle" team1="" team2="">
     <market name="Antepost Outright" id="29038943.20" start="2017-Mar-16 15:30" inplay="f" suspended="f" ewplaces="3" ewreduction="5">
-      <sel name="Ballyoptic" id="335076278.20" price="16/1" />
-      <sel name="Faugheen" id="309929551.20" price="3/1" />
       <sel name="Thistlecrack" id="281575395.20" price="3/1" />
       <sel name="Annie Power" id="281575396.20" price="6/1" />
       <sel name="Alpha Des Obeaux" id="281575397.20" price="12/1" />
@@ -94,6 +92,9 @@
       <sel name="Barters Hill" id="281575404.20" price="16/1" />
       <sel name="Uknowhatimeanharry" id="281575405.20" price="16/1" />
       <sel name="Cole Harden" id="281575406.20" price="25/1" />
+      <sel name="Faugheen" id="309929551.20" price="3/1" />
+      <sel name="Ballyoptic" id="335076278.20" price="16/1" />
+      <sel name="Silsol" id="340420939.20" price="25/1" />
     </market>
   </event>
   <event name="2017 JLT Novices Chase" id="5487233.20" date="&lt;none&gt;" meeting="2017 JLT Novices Chase" venue="Cheltenham" team1="" team2="">
@@ -245,7 +246,6 @@
       <sel name="War Story" id="339556869.20" price="100/1" />
       <sel name="California Chrome" id="320671069.20" price="10/11" />
       <sel name="Frosted" id="320671070.20" price="8/1" />
-      <sel name="Nyquist" id="320671074.20" price="25/1" />
       <sel name="Melatonin" id="320671077.20" price="20/1" />
       <sel name="Effinex" id="320671080.20" price="33/1" />
       <sel name="Hoppertunity" id="320671085.20" price="33/1" />
@@ -387,10 +387,10 @@
   </event>
   <event name="Betfair Chase" id="6366336.20" date="&lt;none&gt;" meeting="Betfair Chase" venue="Betfair Chase" team1="" team2="">
     <market name="Antepost Outright" id="39021566.20" start="&lt;none&gt;" inplay="f" suspended="f" ewplaces="3" ewreduction="5">
-      <sel name="Cue Card" id="333445913.20" price="6/4" />
+      <sel name="Cue Card" id="333445913.20" price="2/1" />
       <sel name="Djakadam" id="333445914.20" price="6/1" />
-      <sel name="Coneygree" id="333445915.20" price="4/1" />
-      <sel name="Silviniaco Conti" id="333445916.20" price="6/1" />
+      <sel name="Coneygree" id="333445915.20" price="3/1" />
+      <sel name="Silviniaco Conti" id="333445916.20" price="5/1" />
       <sel name="Vautour" id="333445917.20" price="12/1" />
       <sel name="Smad Place" id="333445918.20" price="14/1" />
       <sel name="Blaklion" id="333445919.20" price="14/1" />
@@ -399,7 +399,7 @@
       <sel name="Bristol De Mai" id="333445923.20" price="20/1" />
       <sel name="Holywell" id="333445924.20" price="25/1" />
       <sel name="Un Temps Pour Tout" id="333445925.20" price="25/1" />
-      <sel name="Native River" id="333445926.20" price="33/1" />
+      <sel name="Native River" id="333445926.20" price="20/1" />
       <sel name="Minella Rocco" id="333445927.20" price="33/1" />
       <sel name="O Faolains Boy" id="333445928.20" price="40/1" />
     </market>
@@ -622,7 +622,7 @@
       <sel name="Garde La Victoire" id="339583773.20" price="10/1" />
       <sel name="Henri Parry Morgan" id="339583774.20" price="20/1" />
       <sel name="Indian Stream" id="339583775.20" price="33/1" />
-      <sel name="Irish Cavalier" id="339583776.20" price="20/1" />
+      <sel name="Irish Cavalier" id="339583776.20" price="14/1" />
       <sel name="Johnny Og" id="339583777.20" price="50/1" />
       <sel name="Killer Crow" id="339583778.20" price="20/1" />
       <sel name="King's Odyssey" id="339583779.20" price="16/1" />
@@ -667,7 +667,7 @@
       <sel name="Henri Parry Morgan" id="339595691.20" price="20/1" />
       <sel name="Holywell" id="339595692.20" price="25/1" />
       <sel name="Houblon Des Obeaux" id="339596066.20" price="25/1" />
-      <sel name="Irish Cavalier" id="339596067.20" price="33/1" />
+      <sel name="Irish Cavalier" id="339596067.20" price="20/1" />
       <sel name="Irish Saint" id="339596068.20" price="33/1" />
       <sel name="Javert" id="339596069.20" price="40/1" />
       <sel name="Killer Crow" id="339596071.20" price="33/1" />
@@ -678,7 +678,7 @@
       <sel name="Midnight Prayer" id="339596076.20" price="50/1" />
       <sel name="Milansbar" id="339596077.20" price="50/1" />
       <sel name="Monksland" id="339596078.20" price="33/1" />
-      <sel name="Native River" id="339596079.20" price="10/1" />
+      <sel name="Native River" id="339596079.20" price="8/1" />
       <sel name="O'faolains Boy" id="339596080.20" price="16/1" />
       <sel name="Onenightinvienna" id="339596676.20" price="33/1" />
       <sel name="Oscar Rock" id="339596677.20" price="50/1" />
@@ -719,30 +719,30 @@
       <sel name="A Hare Breath" id="339834635.20" price="12/1" />
       <sel name="All Set To Go" id="339834636.20" price="20/1" />
       <sel name="Brain Power" id="339834637.20" price="16/1" />
-      <sel name="Ch'tibello" id="339834638.20" price="14/1" />
+      <sel name="Ch'tibello" id="339834638.20" price="16/1" />
       <sel name="Consul De Thaix" id="339834639.20" price="16/1" />
       <sel name="Cyrius Moriviere" id="339834640.20" price="25/1" />
-      <sel name="Diego du Charmil" id="339834641.20" price="12/1" />
+      <sel name="Diego du Charmil" id="339834641.20" price="16/1" />
       <sel name="Garde La Victoire" id="339834642.20" price="14/1" />
       <sel name="Gassin Golf" id="339834643.20" price="40/1" />
       <sel name="Hargam" id="339834644.20" price="16/1" />
       <sel name="Isabe" id="339834645.20" price="25/1" />
       <sel name="Jack The Wire" id="339834646.20" price="20/1" />
-      <sel name="John Constable" id="339834647.20" price="33/1" />
+      <sel name="John Constable" id="339834647.20" price="40/1" />
       <sel name="Leoncavallo" id="339834648.20" price="25/1" />
       <sel name="Mad Jack Mytton" id="339834649.20" price="25/1" />
       <sel name="Meet The Legend" id="339834650.20" price="16/1" />
       <sel name="Mick Jazz" id="339834651.20" price="12/1" />
       <sel name="Minellaforleisure" id="339834652.20" price="40/1" />
       <sel name="Mister Miyagi" id="339834653.20" price="12/1" />
-      <sel name="Modus" id="339834654.20" price="25/1" />
+      <sel name="Modus" id="339834654.20" price="14/1" />
       <sel name="North Hill Harvey" id="339834655.20" price="20/1" />
-      <sel name="Ozzie The Oscar" id="339834656.20" price="25/1" />
+      <sel name="Ozzie The Oscar" id="339834656.20" price="16/1" />
       <sel name="Romain De Senam" id="339834657.20" price="16/1" />
       <sel name="Rossetti" id="339834658.20" price="40/1" />
       <sel name="Sceau Royal" id="339834659.20" price="12/1" />
       <sel name="Song Light" id="339834660.20" price="50/1" />
-      <sel name="Sternrubin" id="339834661.20" price="25/1" />
+      <sel name="Sternrubin" id="339834661.20" price="16/1" />
       <sel name="St Stephens Green" id="339834662.20" price="25/1" />
       <sel name="Swamp Fox" id="339834663.20" price="20/1" />
       <sel name="Thunder Sheik" id="339834664.20" price="40/1" />

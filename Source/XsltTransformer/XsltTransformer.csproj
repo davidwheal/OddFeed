@@ -56,16 +56,15 @@
     <Content Include="Substitutions\MarketSubstitutions.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Transforms\Bet365.xslt">
+    <Content Include="Transforms\HorseRacing\AntePost\Bet365.xslt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Transforms\Betfred.xslt">
+    <Content Include="Transforms\HorseRacing\AntePost\Betfred.xslt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Transforms\Sample.xml" />
-    <Content Include="Transforms\WilliamHill.xslt">
+    <Content Include="Transforms\HorseRacing\AntePost\WilliamHill.xslt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <SubType>Designer</SubType>
     </Content>
     <Content Include="Transforms\xsd.exe" />
   </ItemGroup>
@@ -91,6 +90,10 @@
     <ProjectReference Include="..\..\Source\IncomingFeedQueue\IncomingFeedQueue.csproj">
       <Project>{269c43e8-bec8-4429-99ab-7aeb522a2cbc}</Project>
       <Name>IncomingFeedQueue</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Daw.Common.Logging\Daw.Common.Logging.csproj">
+      <Project>{f52b9f73-0f7a-4a21-8cf3-3485c33fb789}</Project>
+      <Name>Daw.Common.Logging</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

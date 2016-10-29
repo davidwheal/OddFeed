@@ -1,0 +1,7 @@
+D:\Development\OddFeed\Source\Daw.Common.Logging\bin\Debug\Daw.Common.Logging.dll
+D:\Development\OddFeed\Source\Daw.Common.Logging\bin\Debug\Daw.Common.Logging.pdb
+D:\Development\OddFeed\Source\Daw.Common.Logging\bin\Debug\log4net.dll
+D:\Development\OddFeed\Source\Daw.Common.Logging\bin\Debug\log4net.xml
+D:\Development\OddFeed\Source\Daw.Common.Logging\obj\Debug\Daw.Common.Logging.csprojResolveAssemblyReference.cache
+D:\Development\OddFeed\Source\Daw.Common.Logging\obj\Debug\Daw.Common.Logging.dll
+D:\Development\OddFeed\Source\Daw.Common.Logging\obj\Debug\Daw.Common.Logging.pdb

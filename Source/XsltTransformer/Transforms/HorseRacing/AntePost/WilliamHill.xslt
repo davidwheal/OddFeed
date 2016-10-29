@@ -30,32 +30,55 @@
     </oddfeed>
   </xsl:template>
 
-  <xsl:template match="oxip/response/williamhill/class/type" name="events">
+  <xsl:template match="oxip/response/williamhill/class/type/market" name="events">
     <event>
       <xsl:attribute name="name">
-        <xsl:value-of select="Ext:DoEventSubstitutions('HorseRacing',@name)" />
+        <xsl:value-of select="Ext:DoEventSubstitutions('HorseRacing',Ext:GetEventFromMarketName(@name))" />
       </xsl:attribute>
       <xsl:attribute name="id">
-        <xsl:value-of select="@id" />
+        <xsl:value-of select="../type/@id" />
       </xsl:attribute>
       <xsl:attribute name="date">
-        <xsl:value-of select="Ext:ParseWilliamHillEventDate(concat(market/@date,market/@time))" />
+        <xsl:value-of select="Ext:ParseWilliamHillEventDate(concat(@date,@time))" />
       </xsl:attribute>
       <xsl:attribute name="meeting">
-        <xsl:value-of select="@name" />
+        <xsl:value-of select="../type/@name" />
       </xsl:attribute>
       <xsl:attribute name="venue">
-        <xsl:value-of select="@name" />
+        <xsl:value-of select="../type/@name" />
       </xsl:attribute>
       <xsl:attribute name="team1">
       </xsl:attribute>
       <xsl:attribute name="team2">
       </xsl:attribute>
-      <xsl:apply-templates />
+      <market>
+        <xsl:attribute name="name">
+          <xsl:value-of select="Ext:GetMarketFromMarketName(@name)" />
+        </xsl:attribute>
+        <xsl:attribute name="id">
+          <xsl:value-of select="@id" />
+        </xsl:attribute>
+        <xsl:attribute name="start">
+          <xsl:value-of select="Ext:ParseWilliamHillEventDate(concat(@date,@time))" />
+        </xsl:attribute>
+        <xsl:attribute name="inplay">
+          <xsl:value-of select="Ext:GetFlag('false')" />
+        </xsl:attribute>
+        <xsl:attribute name="suspended">
+          <xsl:value-of select="Ext:GetFlag('false')" />
+        </xsl:attribute>
+        <xsl:attribute name="ewplaces">
+          <xsl:value-of select="@ewPlaces" />
+        </xsl:attribute>
+        <xsl:attribute name="ewreduction">
+          <xsl:value-of select="@ewReduction" />
+        </xsl:attribute>
+        <xsl:apply-templates />
+      </market>
     </event>
   </xsl:template>
 
-  <xsl:template match="market" name="market">
+  <!--<xsl:template match="market" name="market">
     <market>
       <xsl:attribute name="name">
         <xsl:value-of select="@name" />
@@ -80,7 +103,7 @@
       </xsl:attribute>
       <xsl:apply-templates />
     </market>
-  </xsl:template>
+  </xsl:template>-->
 
   <xsl:template match="participant" name="selection">
     <sel>

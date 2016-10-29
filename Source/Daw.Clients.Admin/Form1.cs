@@ -60,7 +60,7 @@ namespace Daw.Clients.Admin
         {
             string eventKey;
             btnGoToEvents.Enabled = DisplayFeedManager.CanWeShowEventButton(dgvFeeds, out eventKey);
-            txtEventKey.Text = eventKey;
+            txtFeedKey.Text = eventKey;
             tabControl1.SelectedTab = tabEvents;
         }
 
@@ -77,8 +77,39 @@ namespace Daw.Clients.Admin
 
         private void tabEvents_Enter(object sender, EventArgs e)
         {
-            var events = (FeedDataManager.Engine()).GetEvents(txtEventKey.Text);
+            var events = (FeedDataManager.Engine()).GetEvents(txtFeedKey.Text);
             DataGridViewDataHelper.DisplayEvents(events, dgvEvents);
+        }
+
+        private void dgvMarkets_SelectionChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dgvEvents_SelectionChanged(object sender, EventArgs e)
+        {
+            string EventKey;
+            btnMarkets.Enabled = DisplayFeedManager.CanWeShowEventButton(dgvEvents, out EventKey);
+        }
+
+        private void btnMarkets_Click(object sender, EventArgs e)
+        {
+            string eventKey;
+            btnMarkets.Enabled = DisplayFeedManager.CanWeShowEventButton(dgvEvents, out eventKey);
+            txtEventKey.Text = eventKey;
+            txtFeedKey1.Text = txtFeedKey.Text;
+            tabControl1.SelectedTab = tabMarkets;
+        }
+
+        private void tabControl1_Enter(object sender, EventArgs e)
+        {
+        }
+
+        private void tabMarkets_Enter(object sender, EventArgs e)
+        {
+            var markets = (FeedDataManager.Engine()).GetMarkets(txtFeedKey1.Text, txtEventKey.Text);
+            DataGridViewDataHelper.DisplayMarkets(markets, dgvMarkets);
+
         }
     }
 }

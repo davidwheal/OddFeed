@@ -141,7 +141,7 @@ namespace Daw.Common.CoreData {
         
         private string nameField;
         
-        private ushort idField;
+        private string idField;
         
         private string dateField;
         
@@ -177,7 +177,7 @@ namespace Daw.Common.CoreData {
         
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public ushort id {
+        public string id {
             get {
                 return this.idField;
             }
@@ -254,7 +254,7 @@ namespace Daw.Common.CoreData {
         
         private string nameField;
         
-        private uint idField;
+        private string idField;
         
         private string startField;
         
@@ -290,7 +290,7 @@ namespace Daw.Common.CoreData {
         
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public uint id {
+        public string id {
             get {
                 return this.idField;
             }
@@ -365,7 +365,7 @@ namespace Daw.Common.CoreData {
         
         private string nameField;
         
-        private uint idField;
+        private string idField;
         
         private string priceField;
         
@@ -382,7 +382,7 @@ namespace Daw.Common.CoreData {
         
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public uint id {
+        public string id {
             get {
                 return this.idField;
             }

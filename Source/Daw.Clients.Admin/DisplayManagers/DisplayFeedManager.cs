@@ -21,5 +21,17 @@ namespace Daw.Clients.Admin.Managers
             eventKey = string.Empty;
             return false;
         }
+
+        public static bool CanWeShowMarketButton(DataGridView dgvEvents, out string marketKey)
+        {
+            List<string> list;
+            if (DataGridViewHelper.GetSelectedDetail(1, dgvEvents, 0, out list))
+            {
+                marketKey = list[0];
+                return true;
+            }
+            marketKey = string.Empty;
+            return false;
+        }
     }
 }
