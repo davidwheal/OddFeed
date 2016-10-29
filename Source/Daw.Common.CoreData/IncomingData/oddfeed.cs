@@ -28,6 +28,8 @@ namespace Daw.Common.CoreData
 
         private oddfeedEvent[] eventField;
 
+        private string[] textField;
+
         private string bookieField;
 
         private string generateddateField;
@@ -51,6 +53,20 @@ namespace Daw.Common.CoreData
             set
             {
                 this.eventField = value;
+            }
+        }
+
+        /// <remarks/>
+        [System.Xml.Serialization.XmlTextAttribute()]
+        public string[] Text
+        {
+            get
+            {
+                return this.textField;
+            }
+            set
+            {
+                this.textField = value;
             }
         }
 
@@ -148,11 +164,11 @@ namespace Daw.Common.CoreData
     public partial class oddfeedEvent
     {
 
-        private oddfeedEventMarket marketField;
+        private oddfeedEventMarket[] marketField;
 
         private string nameField;
 
-        private decimal idField;
+        private ushort idField;
 
         private string dateField;
 
@@ -165,7 +181,8 @@ namespace Daw.Common.CoreData
         private string team2Field;
 
         /// <remarks/>
-        public oddfeedEventMarket market
+        [System.Xml.Serialization.XmlElementAttribute("market")]
+        public oddfeedEventMarket[] market
         {
             get
             {
@@ -193,7 +210,7 @@ namespace Daw.Common.CoreData
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public decimal id
+        public ushort id
         {
             get
             {
@@ -289,7 +306,7 @@ namespace Daw.Common.CoreData
 
         private string nameField;
 
-        private decimal idField;
+        private uint idField;
 
         private string startField;
 
@@ -331,7 +348,7 @@ namespace Daw.Common.CoreData
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public decimal id
+        public uint id
         {
             get
             {
@@ -425,7 +442,7 @@ namespace Daw.Common.CoreData
 
         private string nameField;
 
-        private decimal idField;
+        private uint idField;
 
         private string priceField;
 
@@ -445,7 +462,7 @@ namespace Daw.Common.CoreData
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public decimal id
+        public uint id
         {
             get
             {

@@ -19,6 +19,10 @@ namespace Daw.Clients.Admin.DataGridHelpers
 
         public static void DisplayEvents(Dictionary<string,EventDto> list, DataGridView dgv)
         {
+            if (list==null)
+            {
+                return;
+            }
             var source = new BindingSource();
             source.DataSource = list.Select(o => new { Key = o.Key, Name = o.Value.Name, Date = o.Value.Date });
             dgv.DataSource = source;

@@ -28,5 +28,8 @@ namespace Daw.Common.Interfaces
 
         [OperationContract]
         Dictionary<string, EventDto> GetEvents(string feedName);
+
+        [OperationContract]
+        Dictionary<string, MarketDto> GetMarkets(string feedKey, string eventKey);
     }
 }

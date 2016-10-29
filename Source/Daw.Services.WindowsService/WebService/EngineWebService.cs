@@ -44,7 +44,7 @@ namespace Daw.Services.WindowsService.WebService
             return result;
         }
 
-        public Dictionary<string,EventDto> GetEvents(string feedKey)
+        public Dictionary<string, EventDto> GetEvents(string feedKey)
         {
             BaseFeed it;
             if (Engine.DataRoot.TryGetValue(feedKey, out it))
@@ -55,7 +55,7 @@ namespace Daw.Services.WindowsService.WebService
                     var evList = it.TheSport.TheEvents;
                     foreach (var ev in evList)
                     {
-                        result.Add(ev.Key,new EventDto() { Date = ev.Value.Date, Name = ev.Value.Name });
+                        result.Add(ev.Key, new EventDto(ev.Value));
                     }
                     return result;
                 }
@@ -71,5 +71,42 @@ namespace Daw.Services.WindowsService.WebService
                 return null;
             }
         }
+
+
+        public Dictionary<string, MarketDto> GetMarkets(string feedKey, string eventKey)
+        {
+            BaseFeed it;
+            if (Engine.DataRoot.TryGetValue(feedKey, out it))
+            {
+                if (it.TheSport.TheEvents.ContainsKey(eventKey))
+                {
+                    var theEvent = it.TheSport.TheEvents[eventKey];
+                    var result = new Dictionary<string, MarketDto>();
+                    try
+                    {
+                        foreach (var mk in theEvent.TheMarkets)
+                        {
+                            result.Add(mk.Key, new MarketDto(mk.Value));
+                        }
+                        return result;
+                    }
+                    catch (Exception ex)
+                    {
+                        Engine.Logger.Fatal(string.Format("GetMarkets Exception {0}", ex.Message));
+                        return null;
+                    }
+                }
+                else
+                {
+                    return null;
+                }
+
+            }
+            else
+            {
+                return null;
+            }
+        }
     }
+
 }

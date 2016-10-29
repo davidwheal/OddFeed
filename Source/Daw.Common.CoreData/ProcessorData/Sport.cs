@@ -22,15 +22,15 @@ namespace Daw.Common.CoreData.ProcessorData
             foreach (var ev in feedObject.@event)
             {
                 var mappedEvent = Event.Map(ev);
-                var key = Event.CompileKey(ev);
+                var key = Event.CompileKey(mappedEvent);
                 Event actualEvent;
                 if (TheEvents.TryGetValue(key, out actualEvent))
                 {
-                    actualEvent.Assimilate(ev);
+                    actualEvent.Assimilate(mappedEvent);
                 }
                 else
                 {
-                    actualEvent = new Event(ev);
+                    actualEvent = new Event(mappedEvent);
                     TheEvents.TryAdd(key, actualEvent);
                 }
             }

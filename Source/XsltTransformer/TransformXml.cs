@@ -43,7 +43,7 @@ namespace XsltTransformer
                 // Set up the encoding I want
                 var writerSettings = new XmlWriterSettings()
                 {
-                    Encoding = Encoding.Unicode,
+                    Encoding = Encoding.UTF8,
                     Indent = true
                 };
                 var results = XmlWriter.Create(sb, writerSettings);

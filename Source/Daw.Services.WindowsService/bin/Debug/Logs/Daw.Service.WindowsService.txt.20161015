@@ -1,0 +1,68 @@
+2016-10-15 14:02:25,681 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 14:02:25,902 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:04:05,699 [11] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 14:04:05,871 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:05:45,702 [11] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 14:05:46,011 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:26:43,252 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 14:26:43,375 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:28:23,286 [11] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 14:28:23,402 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:40:01,312 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 14:40:01,540 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:42:13,219 [12] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 14:42:13,532 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:43:53,241 [12] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 14:43:53,334 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 14:45:33,249 [12] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 14:45:33,414 [12] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:00:55,338 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 15:00:55,463 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:03:05,410 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 15:03:05,652 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:04:45,446 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:04:45,602 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:06:25,463 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:06:25,759 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:08:05,478 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:08:05,582 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:09:45,482 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:09:45,666 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:12:10,554 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-10-15 15:12:10,571 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 15:12:11,760 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:12:11,881 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:12:24,411 [6] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-10-15 15:12:24,427 [6] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 15:12:24,662 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:12:24,825 [6] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:14:04,522 [6] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-10-15 15:14:04,534 [6] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:16:42,722 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-10-15 15:16:43,094 [11] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 15:16:44,059 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:16:44,149 [11] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:22:46,031 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://xml.betfred.com/horse-racing-antepost.xml 
+2016-10-15 15:22:46,160 [10] DEBUG  Daw.Services.WindowsService.Engine - Just run load http://cachepricefeeds.williamhill.com/openbet_cdn?action=template&template=getHierarchyByMarketType&classId=13&marketSort=--&filterBIR=N 
+2016-10-15 15:22:46,981 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:22:51,437 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:24:26,172 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:24:26,178 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-10-15 15:24:26,574 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:24:27,723 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:26:06,190 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-10-15 15:26:06,209 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:26:06,444 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:26:06,527 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:27:46,209 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-10-15 15:27:46,219 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:27:47,381 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:27:47,647 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:29:26,220 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-10-15 15:29:26,226 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:29:27,180 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:29:27,294 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
+2016-10-15 15:31:06,226 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of Betfred 
+2016-10-15 15:31:06,232 [10] DEBUG  Daw.Services.WindowsService.Engine - Next run of WilliamHill 
+2016-10-15 15:31:07,124 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue Betfred 
+2016-10-15 15:31:07,474 [10] DEBUG  Daw.Services.WindowsService.Engine - Adding feed data to the queue WilliamHill 
